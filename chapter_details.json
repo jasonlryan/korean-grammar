@@ -1,0 +1,770 @@
+{
+    "book": "Korean Grammar in Use: Advanced (Darakwon)",
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Expressing Choices",
+        "patterns": [
+          {
+            "pattern": "-느니",
+            "example_ko": "시장에 가서 사느니, 비싸더라도 백화점에서 살래요.",
+            "example_en": "Rather than buying it at the market, I’d buy it at the department store even if it’s pricey.",
+            "description": "Choose the lesser of two undesirable options: 'rather than A, (do) B.'",
+            "tip": "Often used with 차라리 for emphasis; good for soft but clear preferences."
+          },
+          {
+            "pattern": "-(으)ㄹ 바에야",
+            "example_ko": "늦게 출발할 바에야 그냥 내일 출발합시다.",
+            "example_en": "If we’re going to leave late, let’s just leave tomorrow.",
+            "description": "Stronger concession than -느니; if A is that bad, B is distinctly better.",
+            "tip": "Use when option A feels unacceptable enough to justify switching plans."
+          },
+          {
+            "pattern": "-건만",
+            "example_ko": "열심히 준비했건만 결과가 기대에 못 미쳤다.",
+            "example_en": "I prepared hard, yet the result fell short of expectations.",
+            "description": "Contrasts effort/expectation with an opposite outcome.",
+            "tip": "Adds a regretful tone; good for reflective or formal narratives."
+          },
+          {
+            "pattern": "-(느)ㄴ다기보다는",
+            "example_ko": "화났다기보다는 실망했다고 보는 게 맞아요.",
+            "example_en": "It’s more accurate to say I was disappointed than angry.",
+            "description": "Refines/corrects a label: 'not so much A as B.'",
+            "tip": "Useful for nuanced feedback or polite disagreement."
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "title": "Reporting / Quoting",
+        "patterns": [
+          {
+            "pattern": "-(느)ㄴ다니까",
+            "example_ko": "그가 온다니까 기다렸는데 결국 안 왔어요.",
+            "example_en": "He said he’d come, so I waited, but he didn’t show up.",
+            "description": "Report what someone said; often implies expectation based on it.",
+            "tip": "Can carry a faint 'and yet…' nuance if the outcome differed."
+          },
+          {
+            "pattern": "-(느)ㄴ다면서",
+            "example_ko": "내일 이사한다면서요?",
+            "example_en": "I heard you’re moving tomorrow?",
+            "description": "Confirms secondhand information ('I hear that…').",
+            "tip": "Softens a question and checks facts without sounding blunt."
+          },
+          {
+            "pattern": "에 의하면",
+            "example_ko": "기상청에 의하면 내일 눈이 올 거래요.",
+            "example_en": "According to the weather agency, it will snow tomorrow.",
+            "description": "Formal 'according to (source)' construction.",
+            "tip": "Use in reports, presentations, or academic-style writing."
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "title": "Nominalization",
+        "patterns": [
+          {
+            "pattern": "-(으)ㅁ",
+            "example_ko": "지원에 합격했음을 알려 드립니다.",
+            "example_en": "We inform you that you have been accepted.",
+            "description": "Formal nominalization often seen in notices and writing.",
+            "tip": "Great for headings, notices, and succinct formal statements."
+          },
+          {
+            "pattern": "-는 데",
+            "example_ko": "이 문제를 해결하는 데 시간이 많이 걸렸어요.",
+            "example_en": "It took a lot of time to solve this problem.",
+            "description": "Nominalizes a clause to indicate purpose/extent/context.",
+            "tip": "Commonly used with 들다/걸리다/필요하다 to express resources."
+          },
+          {
+            "pattern": "-는 바",
+            "example_ko": "알려 드리는 바와 같이 일정이 변경되었습니다.",
+            "example_en": "As we inform you, the schedule has changed.",
+            "description": "Formal device meaning 'as (stated/known).'",
+            "tip": "Fits official announcements, press releases, and formal emails."
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "title": "Causes & Reasons",
+        "patterns": [
+          {
+            "pattern": "(으)로 인해서",
+            "example_ko": "사고로 인해서 교통이 마비되었다.",
+            "example_en": "Due to the accident, traffic was paralyzed.",
+            "description": "Very formal 'due to/because of.'",
+            "tip": "Preferred in news, reports, and formal explanations."
+          },
+          {
+            "pattern": "-는 통에",
+            "example_ko": "아이들이 떠드는 통에 집중을 못 했어요.",
+            "example_en": "Because the kids were noisy, I couldn’t concentrate.",
+            "description": "Chaotic/troublesome cause leading to a negative result.",
+            "tip": "Conveys inconvenience or disruption; colloquial/formal-neutral."
+          },
+          {
+            "pattern": "(으)로 말미암아",
+            "example_ko": "태풍으로 말미암아 큰 피해가 발생했다.",
+            "example_en": "Because of the typhoon, there was significant damage.",
+            "description": "Very formal/literary 'owing to, due to.'",
+            "tip": "Use sparingly in serious/formal contexts (reports, news)."
+          },
+          {
+            "pattern": "-느니만큼",
+            "example_ko": "도와주기로 했느니만큼 책임을 다해야죠.",
+            "example_en": "Since you agreed to help, you should fulfill your responsibility.",
+            "description": "Given that A is true, B is expected/justified.",
+            "tip": "Bridges past commitment to present expectation."
+          },
+          {
+            "pattern": "-는 이상",
+            "example_ko": "약속한 이상 지켜야 합니다.",
+            "example_en": "Now that you’ve promised, you must keep it.",
+            "description": "‘Now that/since’—implies obligation or inevitability.",
+            "tip": "Great for rules, policies, and principled stances."
+          },
+          {
+            "pattern": "-기로서니",
+            "example_ko": "바쁘기로서니 연락 한 번은 할 수 있잖아요.",
+            "example_en": "Busy as you may be, you could at least call once.",
+            "description": "Concedes A but pushes back: 'even if A, still B.'",
+            "tip": "Adds a slightly reproachful tone—use carefully."
+          },
+          {
+            "pattern": "-기에 망정이지",
+            "example_ko": "빨리 발견했기에 망정이지 큰일 날 뻔했어요.",
+            "example_en": "It’s a good thing we found it early; otherwise it could’ve been serious.",
+            "description": "‘Good thing (that)…’—averted a worse outcome.",
+            "tip": "Pairs well with 뻔했다 to highlight near-miss scenarios."
+          },
+          {
+            "pattern": "-(느)ㄴ답시고",
+            "example_ko": "도와준답시고 오히려 방해만 했어요.",
+            "example_en": "They said they were helping, but they just got in the way.",
+            "description": "Ironically frames someone’s stated intent vs. poor result.",
+            "tip": "Carries a critical/ironic tone—avoid in delicate contexts."
+          },
+          {
+            "pattern": "-(으)ㅁ으로써",
+            "example_ko": "협력함으로써 시너지를 냈다.",
+            "example_en": "By cooperating, they created synergy.",
+            "description": "Means/measure that achieves a result: 'by V-ing.'",
+            "tip": "Formal, good for reports and process descriptions."
+          },
+          {
+            "pattern": "-기에",
+            "example_ko": "늦은 시간에 전화하기에 미안했어요.",
+            "example_en": "I felt sorry calling at a late hour.",
+            "description": "‘Because/since’ (often with evaluative nuance).",
+            "tip": "Sits between spoken/written styles; keep sentences compact."
+          },
+          {
+            "pattern": "-길래",
+            "example_ko": "비가 오길래 우산을 가져왔어요.",
+            "example_en": "It looked like rain, so I brought an umbrella.",
+            "description": "Speaker’s observation/reason for subsequent action.",
+            "tip": "Conversational; explains reactive decisions."
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "title": "Hypotheticals / Concession",
+        "patterns": [
+          {
+            "pattern": "-더라도",
+            "example_ko": "비가 오더라도 출발하겠습니다.",
+            "example_en": "Even if it rains, we’ll depart.",
+            "description": "Concession despite a condition.",
+            "tip": "Pairs well with firm commitments or resolutions."
+          },
+          {
+            "pattern": "-(으)ㄹ지라도",
+            "example_ko": "힘들지라도 포기하지 마세요.",
+            "example_en": "Even if it’s hard, don’t give up.",
+            "description": "More formal version of -더라도.",
+            "tip": "Prefer in writing or speeches/announcements."
+          },
+          {
+            "pattern": "-(으)ㄴ들",
+            "example_ko": "돈이 많은들 행복할까요?",
+            "example_en": "Even with lots of money, would one be happy?",
+            "description": "Rhetorical 'even if' casting doubt.",
+            "tip": "Often appears in questions with skeptical tone."
+          },
+          {
+            "pattern": "-(으)ㄹ 망정",
+            "example_ko": "죽을 망정 약속은 지키겠다.",
+            "example_en": "I’d rather die than break my promise.",
+            "description": "Extreme resolve or concession.",
+            "tip": "Dramatic—use sparingly and for weighty contexts."
+          },
+          {
+            "pattern": "-(느)ㄴ다고 치다",
+            "example_ko": "그가 온다고 치면 준비가 필요해요.",
+            "example_en": "Assuming he comes, we need to prepare.",
+            "description": "Sets a hypothetical premise.",
+            "tip": "Useful for planning and scenario analysis."
+          },
+          {
+            "pattern": "-는 셈치다",
+            "example_ko": "못 들은 셈치고 넘어가 줄게요.",
+            "example_en": "I’ll pretend I didn’t hear it and let it go.",
+            "description": "Treats something as if it (had) happened/not happened.",
+            "tip": "Great for smoothing social interactions."
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "title": "Sequential Actions",
+        "patterns": [
+          {
+            "pattern": "-기가 무섭게",
+            "example_ko": "수업이 끝나기가 무섭게 학생들이 나갔다.",
+            "example_en": "The moment class ended, students headed out.",
+            "description": "Immediate follow-up action.",
+            "tip": "Narrative flourish; emphasizes speed/abruptness."
+          },
+          {
+            "pattern": "-자",
+            "example_ko": "도착하자 그는 바로 전화를 걸었다.",
+            "example_en": "As soon as he arrived, he called.",
+            "description": "Short for -자마자; tightly links two actions.",
+            "tip": "Good for concise storytelling."
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "title": "Conditions & Decisions",
+        "patterns": [
+          {
+            "pattern": "-는 한",
+            "example_ko": "가능한 한 최선을 다하겠습니다.",
+            "example_en": "As long as it’s possible, I’ll do my best.",
+            "description": "‘As long as…’ with ongoing condition.",
+            "tip": "Pairs naturally with 한/동안 expressions."
+          },
+          {
+            "pattern": "-(으)ㄹ라치면",
+            "example_ko": "말을 하랴치면 눈물이 난다.",
+            "example_en": "When I try to speak, I feel like crying.",
+            "description": "When attempting to do A, B (often obstacle/emotion) follows.",
+            "tip": "Adds intimacy to recounting difficult moments."
+          },
+          {
+            "pattern": "-노라면",
+            "example_ko": "읽노라면 이해가 깊어진다.",
+            "example_en": "If you keep reading, your understanding deepens.",
+            "description": "Literary: if one keeps doing A, B results.",
+            "tip": "Perfect for essays with a reflective tone."
+          },
+          {
+            "pattern": "-느냐에 달려 있다",
+            "example_ko": "결과는 어떻게 준비하느냐에 달려 있다.",
+            "example_en": "The result depends on how you prepare.",
+            "description": "Outcome depends on a factor.",
+            "tip": "Great for advice and coaching language."
+          },
+          {
+            "pattern": "-기 나름이다",
+            "example_ko": "성공은 마음먹기 나름이다.",
+            "example_en": "Success depends on your mindset.",
+            "description": "‘It depends on how/what…’.",
+            "tip": "Concise and proverbial—memorable in lessons."
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "title": "Separate vs Together Actions",
+        "patterns": [
+          {
+            "pattern": "-는 대로",
+            "example_ko": "도착하는 대로 연락 주세요.",
+            "example_en": "Contact me as soon as you arrive.",
+            "description": "‘As soon as’ / ‘just as’ depending on context.",
+            "tip": "For 'immediately when', use with action verbs in present/future."
+          },
+          {
+            "pattern": "-는 김에",
+            "example_ko": "은행 가는 김에 우편도 보내 주세요.",
+            "example_en": "Since you’re going to the bank, please mail this too.",
+            "description": "‘While at it’; piggyback a task on another.",
+            "tip": "Natural in daily planning; don’t overuse in formal writing."
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "title": "Contrast / Opposition",
+        "patterns": [
+          {
+            "pattern": "-건만",
+            "example_ko": "알고 있건만 말할 수 없었다.",
+            "example_en": "I knew, yet I couldn’t say anything.",
+            "description": "Strong contrast, often with restraint/regret.",
+            "tip": "Feels literary; use for dramatic contrast."
+          },
+          {
+            "pattern": "-고도",
+            "example_ko": "사과하고도 용서받지 못했다.",
+            "example_en": "Even after apologizing, I wasn’t forgiven.",
+            "description": "Despite doing A, (unexpected) B happened.",
+            "tip": "Good for surprising or disappointing outcomes."
+          },
+          {
+            "pattern": "-(으)ㅁ에도 불구하고",
+            "example_ko": "비용이 높음에도 불구하고 계약했다.",
+            "example_en": "Despite the high cost, we signed the contract.",
+            "description": "Formal 'despite/in spite of.'",
+            "tip": "Suited for reports, essays, and business contexts."
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "title": "Similarity",
+        "patterns": [
+          {
+            "pattern": "-듯이",
+            "example_ko": "꿈에서 본 듯이 낯익었다.",
+            "example_en": "It felt familiar, as if I’d seen it in a dream.",
+            "description": "‘As if/like’; simile or resemblance.",
+            "tip": "Nice for expressive descriptions and narratives."
+          },
+          {
+            "pattern": "-다시피 하다",
+            "example_ko": "밤낮없이 일하다시피 했다.",
+            "example_en": "I worked almost day and night.",
+            "description": "‘Practically/almost (did)…’.",
+            "tip": "Conveys strong effort or near-total extent."
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "title": "Addition & Inclusion",
+        "patterns": [
+          {
+            "pattern": "-거니와",
+            "example_ko": "비싸거니와 품질도 별로다.",
+            "example_en": "It’s expensive, and the quality isn’t great either.",
+            "description": "‘Not only…but also’—often stacking negatives.",
+            "tip": "Use to strengthen a critical evaluation."
+          },
+          {
+            "pattern": "-기는커녕",
+            "example_ko": "도와주기는커녕 오히려 방해만 했다.",
+            "example_en": "Far from helping, they only got in the way.",
+            "description": "‘Far from A, (even) B…’.",
+            "tip": "Emphatic; avoid overuse to keep tone balanced."
+          },
+          {
+            "pattern": "-(으)ㄹ뿐더러",
+            "example_ko": "그는 성실할뿐더러 능력도 뛰어나다.",
+            "example_en": "He’s not only diligent but also highly capable.",
+            "description": "Adds an extra positive/negative trait.",
+            "tip": "More neutral than -기는커녕; good in endorsements."
+          },
+          {
+            "pattern": "-되",
+            "example_ko": "허락하되 조건이 있다.",
+            "example_en": "I’ll allow it, but with conditions.",
+            "description": "Formal connector: '…but/and yet'.",
+            "tip": "Feels legalistic/official—fits rules and clauses."
+          },
+          {
+            "pattern": "마저",
+            "example_ko": "가족마저 나를 믿지 않았다.",
+            "example_en": "Even my family didn’t believe me.",
+            "description": "‘Even (the last/expected)’.",
+            "tip": "Heightens drama; use to mark final straw or surprise."
+          },
+          {
+            "pattern": "을/를 비롯해서",
+            "example_ko": "서울을 비롯해서 전국 곳곳에 분점이 있다.",
+            "example_en": "There are branches nationwide, starting with Seoul.",
+            "description": "‘Starting with A, including B…’.",
+            "tip": "Great for spotlighting a key example among many."
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "title": "Habits & Attitudes",
+        "patterns": [
+          {
+            "pattern": "-아/어 대다",
+            "example_ko": "요즘 계속 투덜대요.",
+            "example_en": "These days, he keeps grumbling.",
+            "description": "Repetitive/annoying continued action.",
+            "tip": "Carries a negative nuance—use when that tone fits."
+          },
+          {
+            "pattern": "-기 일쑤이다",
+            "example_ko": "그는 약속에 늦기 일쑤다.",
+            "example_en": "He’s habitually late to appointments.",
+            "description": "Frequent/typical occurrence (usually undesirable).",
+            "tip": "Pairs well with habitual adverbs (자주/늘/항상)."
+          },
+          {
+            "pattern": "-는 둥 마는 둥 하다",
+            "example_ko": "밥은 먹는 둥 마는 둥 했어.",
+            "example_en": "I barely ate at all.",
+            "description": "Half-hearted/incomplete action.",
+            "tip": "Colloquial; conveys dissatisfaction with the effort."
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "title": "Degree",
+        "patterns": [
+          {
+            "pattern": "-(으)리만치",
+            "example_ko": "터질리만치 배가 불렀다.",
+            "example_en": "My stomach was about to burst (that full).",
+            "description": "Extreme degree: 'to the point that…'.",
+            "tip": "Vivid exaggeration—use for color in narratives."
+          },
+          {
+            "pattern": "-다 못해",
+            "example_ko": "기다리다 못해 먼저 떠났어요.",
+            "example_en": "I waited and waited, then finally left.",
+            "description": "So much that it crosses a threshold.",
+            "tip": "Implies buildup → breaking point."
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "title": "Intention",
+        "patterns": [
+          {
+            "pattern": "-(느)ㄴ다는 것이",
+            "example_ko": "도와준다는 것이 오히려 방해가 되었어요.",
+            "example_en": "I intended to help, but it ended up getting in the way.",
+            "description": "Intention vs unintended outcome.",
+            "tip": "Explains mishaps without sounding defensive."
+          },
+          {
+            "pattern": "-(으)려고 들다",
+            "example_ko": "자꾸 간섭하려 들어서 불편해요.",
+            "example_en": "He keeps trying to interfere, and it’s uncomfortable.",
+            "description": "Insistent attempt/intention (often unwelcome).",
+            "tip": "Useful for boundaries and complaints."
+          },
+          {
+            "pattern": "-(으)려다가",
+            "example_ko": "나가려다가 비가 와서 포기했어요.",
+            "example_en": "I was about to go out, but it rained so I gave up.",
+            "description": "About to do A, but B happened and stopped it.",
+            "tip": "Great for 'almost did' narratives."
+          }
+        ]
+      },
+      {
+        "chapter": 15,
+        "title": "Guess & Possibility",
+        "patterns": [
+          {
+            "pattern": "-는 듯이",
+            "example_ko": "아무 일도 없다는 듯이 웃었다.",
+            "example_en": "He smiled as if nothing had happened.",
+            "description": "‘As if’; describes manner resembling a state.",
+            "tip": "Nice for body-language descriptions."
+          },
+          {
+            "pattern": "-(느)ㄴ다는 듯이",
+            "example_ko": "괜찮다는 듯이 고개를 끄덕였다.",
+            "example_en": "He nodded as if to say it’s okay.",
+            "description": "Non-verbal sign implying a quoted message.",
+            "tip": "Pairs with gestures (끄덕이다, 미소 짓다)."
+          },
+          {
+            "pattern": "-는 듯하다",
+            "example_ko": "피곤해 보이는 듯하다.",
+            "example_en": "He seems tired.",
+            "description": "Hedged guess based on appearance.",
+            "tip": "Softer than 단정; polite inferences."
+          },
+          {
+            "pattern": "-(으)ㄹ 게 뻔하다",
+            "example_ko": "차가 막힐 게 뻔해요.",
+            "example_en": "It’s bound to be heavy traffic.",
+            "description": "Predictable outcome (often negative).",
+            "tip": "Use for 'called it' moments—don’t overdo negativity."
+          },
+          {
+            "pattern": "-(으)ㄹ 법하다",
+            "example_ko": "그럴 법도 하죠.",
+            "example_en": "That sounds plausible.",
+            "description": "Likely/probable given context.",
+            "tip": "Neutral probability—good for balanced takes."
+          },
+          {
+            "pattern": "-(으)ㄹ 리가 없다",
+            "example_ko": "그럴 리가 없어요.",
+            "example_en": "There’s no way that’s true.",
+            "description": "Strong disbelief/impossibility.",
+            "tip": "Stronger than 안/못; keep tone in mind."
+          },
+          {
+            "pattern": "-기 십상이다",
+            "example_ko": "무리하면 다치기 십상이다.",
+            "example_en": "If you overdo it, you’re likely to get hurt.",
+            "description": "Tends to / is prone to happen.",
+            "tip": "Useful for warnings and common-sense advice."
+          }
+        ]
+      },
+      {
+        "chapter": 16,
+        "title": "Inevitability / Naturalness",
+        "patterns": [
+          {
+            "pattern": "-기 마련이다",
+            "example_ko": "사람은 실수하기 마련이다.",
+            "example_en": "People are bound to make mistakes.",
+            "description": "General truth/inevitability.",
+            "tip": "Gentle reassurance in feedback/coaching."
+          },
+          {
+            "pattern": "-는 법이다",
+            "example_ko": "노력하면 보람을 느끼는 법이다.",
+            "example_en": "When you put in effort, you naturally feel rewarded.",
+            "description": "Customary/expected outcome.",
+            "tip": "Sounds proverbial—great for conclusions."
+          }
+        ]
+      },
+      {
+        "chapter": 17,
+        "title": "Enumeration",
+        "patterns": [
+          {
+            "pattern": "-는가 하면",
+            "example_ko": "어렵다 하는가 하면 재밌다고도 해요.",
+            "example_en": "Some say it’s hard, while others say it’s fun.",
+            "description": "Lists contrasting/coexisting perspectives.",
+            "tip": "Balances two sides of an argument."
+          },
+          {
+            "pattern": "-느니 -느니 하다",
+            "example_ko": "가느니 마느니 말만 많네.",
+            "example_en": "You keep going on about whether to go or not.",
+            "description": "Enumerates alternatives under consideration.",
+            "tip": "Often carries a slightly exasperated tone."
+          },
+          {
+            "pattern": "-(으)랴 -(으)랴",
+            "example_ko": "청소하랴 요리하랴 하루 종일 바빴다.",
+            "example_en": "I was busy all day cleaning and cooking.",
+            "description": "Busy with A and B (hectic listing).",
+            "tip": "Evokes bustle—nice in story openings."
+          },
+          {
+            "pattern": "(이)며 (이)며",
+            "example_ko": "책이며 노트며 다 챙겨라.",
+            "example_en": "Bring everything—books, notebooks, and all.",
+            "description": "Inclusive listing of items.",
+            "tip": "Good for casual lists; keep items concrete."
+          }
+        ]
+      },
+      {
+        "chapter": 18,
+        "title": "Results & Retrospective",
+        "patterns": [
+          {
+            "pattern": "-(으)ㄴ 끝에",
+            "example_ko": "오랜 논의 끝에 합의했다.",
+            "example_en": "After long discussions, they reached an agreement.",
+            "description": "Result after a long process.",
+            "tip": "Pairs well with nouns like 노력/논의/고민."
+          },
+          {
+            "pattern": "-아/어 내다",
+            "example_ko": "결국 해내고 말았다.",
+            "example_en": "I finally pulled it off.",
+            "description": "Completion/achievement (often after struggle).",
+            "tip": "Adds triumph; great for motivational contexts."
+          },
+          {
+            "pattern": "-(으)ㄴ 나머지",
+            "example_ko": "피곤한 나머지 대답도 못 했다.",
+            "example_en": "I was so tired that I couldn’t even respond.",
+            "description": "Excessive degree causing a result.",
+            "tip": "Use with emotions/conditions (기쁜/슬픈/화난)."
+          },
+          {
+            "pattern": "-데요",
+            "example_ko": "생각보다 어렵더라고요.",
+            "example_en": "It turned out harder than I thought.",
+            "description": "Speaker’s discovery or soft assertion.",
+            "tip": "Conversational—keeps tone friendly and light."
+          }
+        ]
+      },
+      {
+        "chapter": 19,
+        "title": "Situations / Criteria",
+        "patterns": [
+          {
+            "pattern": "-는 가운데",
+            "example_ko": "많은 이들이 지켜보는 가운데 발표했다.",
+            "example_en": "I presented while many people were watching.",
+            "description": "‘Amid/among’—action within a broader situation.",
+            "tip": "Useful for formal event descriptions."
+          },
+          {
+            "pattern": "-는 마당에",
+            "example_ko": "다 끝난 마당에 이제 와서 왜 그래?",
+            "example_en": "Now that it’s all over, why bring it up?",
+            "description": "Highlights a (late) stage that makes the point stronger.",
+            "tip": "Often rhetorical and slightly scolding."
+          },
+          {
+            "pattern": "치고",
+            "example_ko": "초보치고 발음이 꽤 좋아요.",
+            "example_en": "For a beginner, your pronunciation is quite good.",
+            "description": "‘For (a kind/group), …’—sets an expectation frame.",
+            "tip": "Nice for compliments with context."
+          },
+          {
+            "pattern": "-(으)ㅁ에 따라",
+            "example_ko": "나이에 따라 취향이 달라진다.",
+            "example_en": "Preferences change according to age.",
+            "description": "Variation depending on a criterion.",
+            "tip": "Common in surveys, reports, and analyses."
+          }
+        ]
+      },
+      {
+        "chapter": 20,
+        "title": "Emphasis",
+        "patterns": [
+          {
+            "pattern": "여간 -지 않다",
+            "example_ko": "여간 어려운 일이 아니었다.",
+            "example_en": "It was extremely (by no means easy).",
+            "description": "Idiomatic double negative for strong emphasis.",
+            "tip": "Sounds formal/stylistic; great for emphasis in writing."
+          },
+          {
+            "pattern": "-기가 이를 데 없다",
+            "example_ko": "만족스럽기가 이를 데 없다.",
+            "example_en": "I was extremely satisfied.",
+            "description": "Maximal degree ('couldn’t be more…').",
+            "tip": "Perfect for polished reviews and speeches."
+          },
+          {
+            "pattern": "-(으)ㄹ래야 -(으)ㄹ 수가 없다",
+            "example_ko": "믿으려야 믿을 수가 없다.",
+            "example_en": "Even if I wanted to believe it, I can’t.",
+            "description": "Expresses impossibility despite intention.",
+            "tip": "Good for expressing constraints beyond one’s control."
+          }
+        ]
+      },
+      {
+        "chapter": 21,
+        "title": "Honorific Forms",
+        "patterns": [
+          {
+            "pattern": "하오체",
+            "example_ko": "그리 하오.",
+            "example_en": "Do so (old/formal tone).",
+            "description": "Traditional speech level; archaic/literary.",
+            "tip": "Use in historical/literary contexts; avoid in daily speech."
+          },
+          {
+            "pattern": "하게체",
+            "example_ko": "그렇게 하게.",
+            "example_en": "Do it that way (semi-formal directive).",
+            "description": "Older/formal style, senior-to-junior or in literature.",
+            "tip": "Shows hierarchy; sounds old-fashioned in modern settings."
+          }
+        ]
+      },
+      {
+        "chapter": 22,
+        "title": "Other Useful Expressions",
+        "patterns": [
+          {
+            "pattern": "-(으)므로",
+            "example_ko": "시간이 없으므로 다음에 합시다.",
+            "example_en": "Since there’s no time, let’s do it next time.",
+            "description": "Formal 'since/because'.",
+            "tip": "Solid for reports and official notices."
+          },
+          {
+            "pattern": "-(으)나",
+            "example_ko": "도움이 되나 한계가 있다.",
+            "example_en": "It helps, but there are limits.",
+            "description": "Formal contrast similar to 'but/although'.",
+            "tip": "Smoother than 하지만 in formal writing."
+          },
+          {
+            "pattern": "-(으)며",
+            "example_ko": "가격이 저렴하며 품질도 좋다.",
+            "example_en": "The price is low, and the quality is good.",
+            "description": "Formal 'and' connector in lists.",
+            "tip": "Great for specs, brochures, and resumes."
+          },
+          {
+            "pattern": "피동과 사동",
+            "example_ko": "문이 닫혔다 / 문을 닫게 했다.",
+            "example_en": "The door was closed / (I) made someone close the door.",
+            "description": "Passive vs. causative voice formation and usage.",
+            "tip": "Teach side-by-side to contrast subject roles clearly."
+          },
+          {
+            "pattern": "-(으)ㄹ세라",
+            "example_ko": "늦을세라 서둘렀다.",
+            "example_en": "I hurried for fear of being late.",
+            "description": "Precautionary fear leading to action.",
+            "tip": "Elevated tone; pairs with 걱정/염려 contexts."
+          },
+          {
+            "pattern": "-는 양",
+            "example_ko": "모르는 양 행동했다.",
+            "example_en": "He acted as if he didn’t know.",
+            "description": "Pretending/acting as though a state is true.",
+            "tip": "Conveys subtle sarcasm or indirect criticism."
+          },
+          {
+            "pattern": "-는 한편",
+            "example_ko": "연구를 진행하는 한편 교육도 병행했다.",
+            "example_en": "While conducting research, we also carried out teaching.",
+            "description": "Parallel/simultaneous actions in formal style.",
+            "tip": "Use in project write-ups and CVs."
+          },
+          {
+            "pattern": "-(으)ㄹ 턱이 없다",
+            "example_ko": "그럴 턱이 없다.",
+            "example_en": "There’s no way that could happen.",
+            "description": "Strong denial of plausibility.",
+            "tip": "Emphatic; keep for decisive rebuttals."
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "note": "Official/product listing confirming the 22-chapter structure and themes",
+        "citations": [
+          "twoChois product page (chapter list)",
+          "Darakwon official book page (series overview)"
+        ]
+      }
+    ]
+  }
+  

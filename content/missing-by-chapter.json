@@ -1,0 +1,188 @@
+{
+  "1": [
+    {
+      "__index": 2,
+      "pattern": "-건 -건",
+      "example": "날씨가 덥건 춥건 운동은 해야 해요.",
+      "exampleEn": ""
+    }
+  ],
+  "2": [
+    {
+      "__index": 5,
+      "pattern": "-다기에",
+      "example": "맛있다기에 먹어봤어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 4,
+      "pattern": "-대요/-래요",
+      "example": "민수가 내일 온대요.",
+      "exampleEn": ""
+    }
+  ],
+  "3": [
+    {
+      "__index": 7,
+      "pattern": "-기",
+      "example": "한국어 배우기가 어려워요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 9,
+      "pattern": "-는 것",
+      "example": "한국어를 배우는 것이 재미있어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 10,
+      "pattern": "-바",
+      "example": "제가 아는 바로는...",
+      "exampleEn": ""
+    }
+  ],
+  "6": [
+    {
+      "__index": 20,
+      "pattern": "-(으)ㄴ/는 김에",
+      "example": "마트에 가는 김에 우유도 사세요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 19,
+      "pattern": "-고서야",
+      "example": "숙제를 다 하고서야 놀 수 있어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 21,
+      "pattern": "-기 위해(서)",
+      "example": "한국어를 배우기 위해서 한국에 왔어요.",
+      "exampleEn": ""
+    }
+  ],
+  "7": [
+    {
+      "__index": 25,
+      "pattern": "-기에 달려 있다",
+      "example": "결과는 당신의 노력에 달려 있어요.",
+      "exampleEn": ""
+    }
+  ],
+  "8": [
+    {
+      "__index": 26,
+      "pattern": "-(으)랴 -(으)랴",
+      "example": "청소하랴 요리하랴 바빠요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 27,
+      "pattern": "-(이)며 -(이)며",
+      "example": "책이며 펜이며 모두 가져가세요.",
+      "exampleEn": ""
+    }
+  ],
+  "9": [
+    {
+      "__index": 28,
+      "pattern": "-(으)ㄴ 반면(에)",
+      "example": "형은 키가 큰 반면에 동생은 작아요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 29,
+      "pattern": "-는 대신(에)",
+      "example": "돈 대신에 카드로 계산할게요.",
+      "exampleEn": ""
+    }
+  ],
+  "10": [
+    {
+      "__index": 30,
+      "pattern": "-(으)ㄴ 셈이다",
+      "example": "이미 끝난 셈이에요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 31,
+      "pattern": "-(으)나 마나",
+      "example": "말해도 소용없으니까 말하나 마나예요.",
+      "exampleEn": ""
+    }
+  ],
+  "19": [
+    {
+      "__index": 63,
+      "pattern": "-는 까닭에",
+      "example": "그런 까닭에 결정을 바꿨어요.",
+      "exampleEn": ""
+    }
+  ],
+  "20": [
+    {
+      "__index": 66,
+      "pattern": "-(으)ㄹ 정도로",
+      "example": "죽을 정도로 아팠어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 64,
+      "pattern": "-는 정도",
+      "example": "울 정도로 감동했어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 65,
+      "pattern": "-아/어서",
+      "example": "너무 추워서 나갈 수 없어요.",
+      "exampleEn": ""
+    }
+  ],
+  "21": [
+    {
+      "__index": 68,
+      "pattern": "-는 가운데",
+      "example": "많은 사람들이 지켜보는 가운데 연설했어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 70,
+      "pattern": "-는 도중에",
+      "example": "회의하는 도중에 전화가 왔어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 69,
+      "pattern": "-는 동안",
+      "example": "방학 동안 여행을 갔어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 67,
+      "pattern": "-는 중",
+      "example": "지금 공부하는 중이에요.",
+      "exampleEn": ""
+    }
+  ],
+  "22": [
+    {
+      "__index": 73,
+      "pattern": "-고서",
+      "example": "숙제를 하고서 놀았어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 71,
+      "pattern": "-는 길에",
+      "example": "집에 가는 길에 마트에 들렀어요.",
+      "exampleEn": ""
+    },
+    {
+      "__index": 72,
+      "pattern": "-는 참에",
+      "example": "청소하는 참에 정리도 했어요.",
+      "exampleEn": ""
+    }
+  ]
+}

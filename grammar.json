@@ -1,0 +1,2719 @@
+{
+  "items": [
+    {
+      "chapter": 1,
+      "title": "선택을 나타낼 때",
+      "subtitle": "Expressing choices",
+      "pattern": "-(느)ㄴ다기보다는",
+      "example": "화났다기보다는 실망했다고 보는 게 맞아요.",
+      "exampleEn": "It’s more accurate to say I was disappointed than angry.",
+      "description": "Refines/corrects a label: 'not so much A as B.'",
+      "tip": "Useful for nuanced feedback or polite disagreement.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EA%B8%B0%EB%B3%B4%EB%8B%A4%EB%8A%94",
+          "title": "HowToStudyKorean: -(느)ㄴ다기보다는 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "title": "선택을 나타낼 때",
+      "subtitle": "Expressing choices",
+      "pattern": "-(으)ㄹ 바에야",
+      "example": "늦게 출발할 바에야 안 가는 게 낫죠.",
+      "tip": "Stronger than -느니. It implies that because the first option is so bad, doing the second (often opposite) action is a much better choice.",
+      "exampleEn": "If we’re going to leave late, let’s just leave tomorrow.",
+      "description": "Stronger concession than -느니; if A is that bad, B is distinctly better.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8MRi7HQefG0",
+          "title": "Advanced Korean Grammar: -(으)ㄹ 바에야",
+          "channel": "Korean Studio"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fY9F_vBjMcQ",
+          "title": "-(으)ㄹ 바에(야)",
+          "channel": "Tammy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "title": "선택을 나타낼 때",
+      "subtitle": "Expressing choices",
+      "pattern": "-건 -건",
+      "example": "날씨가 덥건 춥건 운동은 해야 해요.",
+      "tip": "Connects two contrasting words to mean \"regardless of whether it's A or B.\" The outcome remains the same.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ucgcrqi5iY8",
+          "title": "Korean Advanced Grammar │-건",
+          "channel": "masterTOPIK"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=BiM2f7O0xd0",
+          "title": "-건 -건",
+          "channel": "김광순 Korean"
+        }
+      ],
+      "exampleEn": "Whether it's hot or cold, you have to exercise."
+    },
+    {
+      "chapter": 1,
+      "title": "선택을 나타낼 때",
+      "subtitle": "Expressing choices",
+      "pattern": "-건만",
+      "example": "열심히 준비했건만 결과가 기대에 못 미쳤다.",
+      "exampleEn": "I prepared hard, yet the result fell short of expectations.",
+      "description": "Contrasts effort/expectation with an opposite outcome.",
+      "tip": "Adds a regretful tone; good for reflective or formal narratives.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B1%B4%EB%A7%8C",
+          "title": "HowToStudyKorean: -건만 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "title": "선택을 나타낼 때",
+      "subtitle": "Expressing choices",
+      "pattern": "-느니",
+      "example": "비 오느니 차라리 집에 있을래.",
+      "tip": "Use this when choosing the \"lesser of two evils.\" Both options are undesirable, but you're picking the one that's slightly better. Often used with 차라리 (rather).",
+      "exampleEn": "Rather than buying it at the market, I’d buy it at the department store even if it’s pricey.",
+      "description": "Choose the lesser of two undesirable options: 'rather than A, (do) B.'",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=iVArQbPOFX4",
+          "title": "How to use -느니 (Rather than...)",
+          "channel": "KoreanClass101"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "인용을 나타낼 때",
+      "subtitle": "Reporting / quoting",
+      "pattern": "-(느)ㄴ다니까",
+      "example": "그가 온다니까 기다렸는데 결국 안 왔어요.",
+      "exampleEn": "He said he’d come, so I waited, but he didn’t show up.",
+      "description": "Report what someone said; often implies expectation based on it.",
+      "tip": "Can carry a faint 'and yet…' nuance if the outcome differed.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%8B%88%EA%B9%8C",
+          "title": "HowToStudyKorean: -(느)ㄴ다니까 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "인용을 나타낼 때",
+      "subtitle": "Reporting / quoting",
+      "pattern": "-(느)ㄴ다면서",
+      "example": "내일 이사한다면서요?",
+      "exampleEn": "I heard you’re moving tomorrow?",
+      "description": "Confirms secondhand information ('I hear that…').",
+      "tip": "Softens a question and checks facts without sounding blunt.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%A9%B4%EC%84%9C",
+          "title": "HowToStudyKorean: -(느)ㄴ다면서 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "인용을 나타낼 때",
+      "subtitle": "Reporting / quoting",
+      "pattern": "-다기에",
+      "example": "맛있다기에 먹어봤어요.",
+      "tip": "Used when you do something based on what you heard from others. Shows the reason for your action.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8B%A4%EA%B8%B0%EC%97%90",
+          "title": "HowToStudyKorean: -다기에 검색",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "I tried it because (they said) it was delicious."
+    },
+    {
+      "chapter": 2,
+      "title": "인용을 나타낼 때",
+      "subtitle": "Reporting / quoting",
+      "pattern": "-다니까(요)",
+      "example": "아니라니까요!",
+      "tip": "Use when the justification comes from an external source (news, teacher, friend).",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8B%A4%EB%8B%88%EA%B9%8C(%EC%9A%94)",
+          "title": "HowToStudyKorean: -다니까(요) 검색",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "I'm telling you it's not true!",
+      "description": "Cites reported information as the reason or basis for a suggestion, action, or insistence (short for -(느)ㄴ다고 하니까)."
+    },
+    {
+      "chapter": 2,
+      "title": "인용을 나타낼 때",
+      "subtitle": "Reporting / quoting",
+      "pattern": "-다면서(요)",
+      "example": "내일 비가 온다면서요?",
+      "tip": "Polite confirmation; without -요, it is casual.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kWF-y9xGgI0",
+          "title": "~다면서요? / ~(이)라면서요?",
+          "channel": "Korean Grammar Channel"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Ow8EyRiAEqQ",
+          "title": "다면서요 vs 다니까요 - Differences Explained",
+          "channel": "Korean with Ina"
+        }
+      ],
+      "exampleEn": "I heard it will rain tomorrow, is that right?",
+      "description": "Confirms information the speaker previously heard from someone else."
+    },
+    {
+      "chapter": 2,
+      "title": "인용을 나타낼 때",
+      "subtitle": "Reporting / quoting",
+      "pattern": "-대요/-래요",
+      "example": "민수가 내일 온대요.",
+      "tip": "Used to report what someone else said. -대요 for statements, -래요 for questions/commands.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Ow8EyRiAEqQ",
+          "title": "대요 & -(이)래요 grammar / Intermediate Level",
+          "channel": "Korean Practice Channel"
+        }
+      ],
+      "exampleEn": "Minsu says he's coming tomorrow."
+    },
+    {
+      "chapter": 2,
+      "title": "인용을 나타낼 때",
+      "subtitle": "Reporting / quoting",
+      "pattern": "에 의하면",
+      "example": "기상청에 의하면 내일 눈이 올 거래요.",
+      "exampleEn": "According to the weather agency, it will snow tomorrow.",
+      "description": "Formal source attribution: ‘according to N’. Distinct from N에 의해(서) which marks cause/agent.",
+      "tip": "Use in reports/presentations to give authority to a claim.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=%EC%97%90%20%EC%9D%98%ED%95%98%EB%A9%B4",
+          "title": "HowToStudyKorean: 에 의하면 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "명사화",
+      "subtitle": "Nominalisation & fact statements",
+      "pattern": "-(으)ㅁ",
+      "example": "지원에 합격했음을 알려 드립니다.",
+      "exampleEn": "We inform you that you have been accepted.",
+      "description": "Formal nominalization often seen in notices and writing.",
+      "tip": "Great for headings, notices, and succinct formal statements.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81",
+          "title": "HowToStudyKorean: -(으)ㅁ 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "명사화",
+      "subtitle": "Nominalisation & fact statements",
+      "pattern": "-기",
+      "example": "한국어 배우기가 어려워요.",
+      "tip": "Turns verbs into nouns. Used for general activities or habits.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4IwwOdzmZ6Y",
+          "title": "Learn Korean Ep. 10: Nominalization | ~기, ~는 것, ~음/ㅁ",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "Learning Korean is difficult."
+    },
+    {
+      "chapter": 3,
+      "title": "명사화",
+      "subtitle": "Nominalisation & fact statements",
+      "pattern": "-는 것",
+      "example": "한국어를 배우는 것이 재미있어요.",
+      "tip": "Most common way to nominalize verbs. Can be shortened to -는 거 in casual speech.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4IwwOdzmZ6Y",
+          "title": "Learn Korean Ep. 10: Nominalization | ~기, ~는 것, ~음/ㅁ",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "Learning Korean is interesting."
+    },
+    {
+      "chapter": 3,
+      "title": "명사화",
+      "subtitle": "Nominalisation & fact statements",
+      "pattern": "-는 데",
+      "example": "이 문제를 해결하는 데 시간이 많이 걸렸어요.",
+      "exampleEn": "It took a lot of time to solve this problem.",
+      "description": "Nominalizes a clause to indicate purpose/extent/context.",
+      "tip": "Commonly used with 들다/걸리다/필요하다 to express resources.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%8D%B0",
+          "title": "HowToStudyKorean: -는 데 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "명사화",
+      "subtitle": "Nominalisation & fact statements",
+      "pattern": "-는 바",
+      "example": "제가 보는 바로는 틀렸어요.",
+      "tip": "Formal way to express \"from what I see/know.\" Used in formal speech and writing.",
+      "exampleEn": "As we inform you, the schedule has changed.",
+      "description": "Formal device meaning 'as (stated/known).'",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=tPiV4q28F5Y",
+          "title": "Live Korean Class | [Advanced] Dependent Noun 바 vs 것",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "명사화",
+      "subtitle": "Nominalisation & fact statements",
+      "pattern": "-바",
+      "example": "제가 아는 바로는...",
+      "tip": "Formal dependent noun meaning \"fact\" or \"thing.\" Often used in formal contexts.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=tPiV4q28F5Y",
+          "title": "Live Korean Class | [Advanced] Dependent Noun 바 vs 것",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "As far as I know..."
+    },
+    {
+      "chapter": 3,
+      "title": "명사화",
+      "subtitle": "Nominalisation & fact statements",
+      "pattern": "-음/-ㅁ",
+      "example": "그의 잘못임이 확실해요.",
+      "tip": "Common in notices, reports, and concise memos (…함/…임).",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=HDaVE6ZfH8w",
+          "title": "A/V-음/ㅁ nominalizer",
+          "channel": "Korean Grammar Lesson"
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-44/",
+          "title": "Lesson 44: Nominalization ~는 것 vs ~기 vs ~ㅁ/음",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "It is certain that it is his fault.",
+      "description": "Formal nominalizer used in written language to state facts or completed actions; more abstract than -기."
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-(느)ㄴ답시고",
+      "example": "도와준답시고 오히려 방해만 했어요.",
+      "exampleEn": "They said they were helping, but they just got in the way.",
+      "description": "Ironically frames someone’s stated intent vs. poor result.",
+      "tip": "Carries a critical/ironic tone—avoid in delicate contexts.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%B5%EC%8B%9C%EA%B3%A0",
+          "title": "HowToStudyKorean: -(느)ㄴ답시고 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-(으)로 말미암아",
+      "example": "태풍으로 말미암아 피해가 컸어요.",
+      "tip": "Very formal way to express cause. Often used in news, reports, and formal writing.",
+      "exampleEn": "Because of the typhoon, there was significant damage.",
+      "description": "Very formal/literary 'owing to, due to.'",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=LFX7S2yXAJA",
+          "title": "[#고급문법] 으로/로말미암아 #말미암아",
+          "channel": "Korean Advanced Grammar"
+        },
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=(%EC%9C%BC)%EB%A1%9C%20%EB%A7%90%EB%AF%B8%EC%95%94%EC%95%84",
+          "title": "HowToStudyKorean: (으)로 말미암아 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-(으)로 인해서",
+      "example": "사고로 인해서 지각했어요.",
+      "tip": "Formal way to express \"due to\" or \"because of.\" Common in formal speech and writing.",
+      "exampleEn": "Due to the accident, traffic was paralyzed.",
+      "description": "Very formal 'due to/because of.'",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ouuBf8opagA",
+          "title": "[Korean/Coreano] N으로 인해서 (because of) grammar",
+          "channel": "HANIJEMI Korean Lesson"
+        },
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=(%EC%9C%BC)%EB%A1%9C%20%EC%9D%B8%ED%95%B4%EC%84%9C",
+          "title": "HowToStudyKorean: (으)로 인해서 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-(으)ㅁ으로써",
+      "example": "협력함으로써 시너지를 냈다.",
+      "exampleEn": "By cooperating, they created synergy.",
+      "description": "Means/measure that achieves a result: 'by V-ing.'",
+      "tip": "Formal, good for reports and process descriptions.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81%EC%9C%BC%EB%A1%9C%EC%8D%A8",
+          "title": "HowToStudyKorean: -(으)ㅁ으로써 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-기로서니",
+      "example": "바쁘기로서니 연락 한 번은 할 수 있잖아요.",
+      "exampleEn": "Busy as you may be, you could at least call once.",
+      "description": "Concedes A but pushes back: 'even if A, still B.'",
+      "tip": "Adds a slightly reproachful tone—use carefully.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EB%A1%9C%EC%84%9C%EB%8B%88",
+          "title": "HowToStudyKorean: -기로서니 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-기에",
+      "example": "늦은 시간에 전화하기에 미안했어요.",
+      "exampleEn": "I felt sorry calling at a late hour.",
+      "description": "‘Because/since’ (often with evaluative nuance).",
+      "tip": "Sits between spoken/written styles; keep sentences compact.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EC%97%90",
+          "title": "HowToStudyKorean: -기에 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-기에 망정이지",
+      "example": "빨리 발견했기에 망정이지 큰일 날 뻔했어요.",
+      "exampleEn": "It’s a good thing we found it early; otherwise it could’ve been serious.",
+      "description": "‘Good thing (that)…’—averted a worse outcome.",
+      "tip": "Pairs well with 뻔했다 to highlight near-miss scenarios.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EC%97%90%20%EB%A7%9D%EC%A0%95%EC%9D%B4%EC%A7%80",
+          "title": "HowToStudyKorean: -기에 망정이지 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-길래",
+      "example": "비가 오길래 우산을 가져왔어요.",
+      "exampleEn": "It looked like rain, so I brought an umbrella.",
+      "description": "Speaker’s observation/reason for subsequent action.",
+      "tip": "Conversational; explains reactive decisions.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B8%B8%EB%9E%98",
+          "title": "HowToStudyKorean: -길래 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-느니만큼",
+      "example": "도와주기로 했느니만큼 책임을 다해야죠.",
+      "exampleEn": "Since you agreed to help, you should fulfill your responsibility.",
+      "description": "Given that A is true, B is expected/justified.",
+      "tip": "Bridges past commitment to present expectation.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%90%EB%8B%88%EB%A7%8C%ED%81%BC",
+          "title": "HowToStudyKorean: -느니만큼 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-는 이상",
+      "example": "약속한 이상 지켜야 합니다.",
+      "exampleEn": "Now that you’ve promised, you must keep it.",
+      "description": "‘Now that/since’—implies obligation or inevitability.",
+      "tip": "Great for rules, policies, and principled stances.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EC%9D%B4%EC%83%81",
+          "title": "HowToStudyKorean: -는 이상 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "원인과 이유",
+      "subtitle": "Formal causes",
+      "pattern": "-는 통에",
+      "example": "아이들이 떠드는 통에 잠을 못 잤어요.",
+      "tip": "Used to express a chaotic or troublesome situation that causes a negative result.",
+      "exampleEn": "Because the kids were noisy, I couldn’t concentrate.",
+      "description": "Chaotic/troublesome cause leading to a negative result.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=WRb83QkeHw0",
+          "title": "Korean Grammar Intermediate-level (158) V는 통에, V는 바람에",
+          "channel": "Teacher Jinee's Korean Class"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "가정·양보",
+      "subtitle": "Hypothesis & concession",
+      "pattern": "-(느)ㄴ다고 치다",
+      "example": "그가 온다고 치면 준비가 필요해요.",
+      "exampleEn": "Assuming he comes, we need to prepare.",
+      "description": "Sets a hypothetical premise.",
+      "tip": "Useful for planning and scenario analysis.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EA%B3%A0%20%EC%B9%98%EB%8B%A4",
+          "title": "HowToStudyKorean: -(느)ㄴ다고 치다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "가정·양보",
+      "subtitle": "Hypothesis & concession",
+      "pattern": "-(으)ㄴ들",
+      "example": "돈이 많은들 행복할까요?",
+      "tip": "Rhetorical \"even if.\" Often used in questions to suggest the answer is negative.",
+      "exampleEn": "Even with lots of money, would one be happy?",
+      "description": "Rhetorical 'even if' casting doubt.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SIlPBJZokg4",
+          "title": "Live Korean Class | [Intermediate] 리가 없다 \"There's no way\"",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "가정·양보",
+      "subtitle": "Hypothesis & concession",
+      "pattern": "-(으)ㄹ 망정",
+      "example": "죽을 망정 포기하지 않겠어요.",
+      "tip": "Strong expression meaning \"would rather\" or \"even if it means.\" Shows extreme determination.",
+      "exampleEn": "I’d rather die than break my promise.",
+      "description": "Extreme resolve or concession.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=dUEEijhzYi0",
+          "title": "고급 문법 / \"-을망정\" 문법 배우기 / Learning Korean",
+          "channel": "Korean Advanced Grammar"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "가정·양보",
+      "subtitle": "Hypothesis & concession",
+      "pattern": "-(으)ㄹ지라도",
+      "example": "비가 올지라도 갈 거예요.",
+      "tip": "Formal way to say \"even if.\" More formal than -더라도.",
+      "exampleEn": "Even if it’s hard, don’t give up.",
+      "description": "More formal version of -더라도.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=AdsnFvvlSx4",
+          "title": "Live Korean Class | [Advanced] ~더라도 & ~ㄹ지라도 \"Even If\"",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "가정·양보",
+      "subtitle": "Hypothesis & concession",
+      "pattern": "-는 셈치다",
+      "example": "못 들은 셈치고 넘어가 줄게요.",
+      "exampleEn": "I’ll pretend I didn’t hear it and let it go.",
+      "description": "Treats something as if it (had) happened/not happened.",
+      "tip": "Great for smoothing social interactions.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EC%85%88%EC%B9%98%EB%8B%A4",
+          "title": "HowToStudyKorean: -는 셈치다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "가정·양보",
+      "subtitle": "Hypothesis & concession",
+      "pattern": "-더라도",
+      "example": "힘들더라도 포기하지 마세요.",
+      "tip": "Used to express \"even if\" or \"even though.\" Shows concession.",
+      "exampleEn": "Even if it rains, we’ll depart.",
+      "description": "Concession despite a condition.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=AdsnFvvlSx4",
+          "title": "Live Korean Class | [Advanced] ~더라도 & ~ㄹ지라도 \"Even If\"",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "순차 & 기회",
+      "subtitle": "Sequence & \"while I'm at it\"",
+      "pattern": "-(으)ㄴ/는 김에",
+      "example": "마트에 가는 김에 우유도 사세요.",
+      "tip": "Used when doing something additional \"while you're at it\" or taking advantage of an opportunity.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=H0ykZKNF0JU",
+          "title": "Korean Grammar - ~김에 (While you're at it)",
+          "channel": "Learn Korean with KoreanClass101.com"
+        }
+      ],
+      "exampleEn": "While you're going to the mart, buy some milk too."
+    },
+    {
+      "chapter": 6,
+      "title": "순차 & 기회",
+      "subtitle": "Sequence & \"while I'm at it\"",
+      "pattern": "-고서야",
+      "example": "숙제를 다 하고서야 놀 수 있어요.",
+      "tip": "Emphasizes that something happens only after completing the first action.",
+      "resources": [
+        {
+          "type": "interactive",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/",
+          "title": "Lesson 72: ~고서야, ~고 나서야",
+          "channel": ""
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/",
+          "title": "Lesson 72: ~고서야, ~고 나서야",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "Only after finishing homework can you play."
+    },
+    {
+      "chapter": 6,
+      "title": "순차 & 기회",
+      "subtitle": "Sequence & \"while I'm at it\"",
+      "pattern": "-기 위해(서)",
+      "example": "한국어를 배우기 위해서 한국에 왔어요.",
+      "tip": "Expresses purpose - \"in order to\" or \"for the purpose of.\"",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=zVUqw32OSTI",
+          "title": "Korean Grammar - How to use 위해 or 위해서",
+          "channel": "Korean Grammar Channel"
+        }
+      ],
+      "exampleEn": "I came to Korea in order to learn Korean."
+    },
+    {
+      "chapter": 6,
+      "title": "순차 & 기회",
+      "subtitle": "Sequence & \"while I'm at it\"",
+      "pattern": "-기가 무섭게",
+      "example": "수업이 끝나기가 무섭게 학생들이 나갔다.",
+      "exampleEn": "The moment class ended, students headed out.",
+      "description": "Immediate follow-up action.",
+      "tip": "Narrative flourish; emphasizes speed/abruptness.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EA%B0%80%20%EB%AC%B4%EC%84%AD%EA%B2%8C",
+          "title": "HowToStudyKorean: -기가 무섭게 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "순차 & 기회",
+      "subtitle": "Sequence & \"while I'm at it\"",
+      "pattern": "-자",
+      "example": "도착하자 그는 바로 전화를 걸었다.",
+      "exampleEn": "As soon as he arrived, he called.",
+      "description": "Short for -자마자; tightly links two actions.",
+      "tip": "Good for concise storytelling.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EC%9E%90",
+          "title": "HowToStudyKorean: -자 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "조건 & 의존",
+      "subtitle": "Conditions & dependence",
+      "pattern": "-(으)ㄹ라치면",
+      "example": "말을 하랴치면 눈물이 난다.",
+      "exampleEn": "When I try to speak, I feel like crying.",
+      "description": "When attempting to do A, B (often obstacle/emotion) follows.",
+      "tip": "Adds intimacy to recounting difficult moments.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EB%9D%BC%EC%B9%98%EB%A9%B4",
+          "title": "HowToStudyKorean: -(으)ㄹ라치면 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "조건 & 의존",
+      "subtitle": "Conditions & dependence",
+      "pattern": "-기 나름이다",
+      "example": "성공은 노력하기 나름이에요.",
+      "tip": "Means \"it depends on\" how you do something. Shows that the result varies based on approach.",
+      "exampleEn": "Success depends on your mindset.",
+      "description": "‘It depends on how/what…’.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ZKq_VEqSf9k",
+          "title": "Depending on (~에 따라서, 나름, 다르다) | Live Class Abridged",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "조건 & 의존",
+      "subtitle": "Conditions & dependence",
+      "pattern": "-기에 달려 있다",
+      "example": "결과는 당신의 노력에 달려 있어요.",
+      "tip": "Means \"depends on\" or \"is up to.\" Shows dependency on a factor.",
+      "resources": [
+        {
+          "type": "interactive",
+          "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-149/",
+          "title": "Lesson 149: To depend on: ~에 달려 있다",
+          "channel": ""
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-149/",
+          "title": "Lesson 149: To depend on: ~에 달려 있다",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "The result depends on your effort."
+    },
+    {
+      "chapter": 7,
+      "title": "조건 & 의존",
+      "subtitle": "Conditions & dependence",
+      "pattern": "-노라면",
+      "example": "계속 공부하노라면 실력이 늘 거예요.",
+      "tip": "Means \"if you keep doing\" something. Shows a continuous action leading to a result.",
+      "exampleEn": "If you keep reading, your understanding deepens.",
+      "description": "Literary: if one keeps doing A, B results.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=UjCe3PGKtAU",
+          "title": "Live Korean Class | [Advanced] ~다 보면 \"If you keep...\"",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "조건 & 의존",
+      "subtitle": "Conditions & dependence",
+      "pattern": "-느냐에 달려 있다",
+      "example": "결과는 어떻게 준비하느냐에 달려 있다.",
+      "exampleEn": "The result depends on how you prepare.",
+      "description": "Outcome depends on a factor.",
+      "tip": "Great for advice and coaching language.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%90%EB%83%90%EC%97%90%20%EB%8B%AC%EB%A0%A4%20%EC%9E%88%EB%8B%A4",
+          "title": "HowToStudyKorean: -느냐에 달려 있다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "조건 & 의존",
+      "subtitle": "Conditions & dependence",
+      "pattern": "-는 한",
+      "example": "살아있는 한 포기하지 않겠어요.",
+      "tip": "Means \"as long as\" or \"while.\" Shows a condition that must be maintained.",
+      "exampleEn": "As long as it’s possible, I’ll do my best.",
+      "description": "‘As long as…’ with ongoing condition.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ijmgIvPwp5k",
+          "title": "Live Korean Class | [Advanced] 한 \"As long as\"",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "따로·같이",
+      "subtitle": "Listing hectic actions",
+      "pattern": "-(으)랴 -(으)랴",
+      "example": "청소하랴 요리하랴 바빠요.",
+      "tip": "Lists multiple actions that make someone busy or overwhelmed. Shows hectic situations.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VKIlNQDnkWU",
+          "title": "Live Korean Class [Advanced] \"About to\" ~락 말락 하다 & ~랑 말랑 하다",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "I'm busy cleaning and cooking (and everything else)."
+    },
+    {
+      "chapter": 8,
+      "title": "따로·같이",
+      "subtitle": "Listing hectic actions",
+      "pattern": "-(이)며 -(이)며",
+      "example": "책이며 펜이며 모두 가져가세요.",
+      "tip": "Lists items or actions inclusively. Similar to \"including\" or \"such as.\"",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=uejoXZnxr2k",
+          "title": "Korean Grammar 201: V/A-으며/며, N-이다 + 며",
+          "channel": "Basic Korean"
+        }
+      ],
+      "exampleEn": "Take everything - books, pens, and all."
+    },
+    {
+      "chapter": 8,
+      "title": "따로·같이",
+      "subtitle": "Listing hectic actions",
+      "pattern": "-는 김에",
+      "example": "은행 가는 김에 우편도 보내 주세요.",
+      "exampleEn": "Since you’re going to the bank, please mail this too.",
+      "description": "‘While at it’; piggyback a task on another.",
+      "tip": "Natural in daily planning; don’t overuse in formal writing.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EA%B9%80%EC%97%90",
+          "title": "HowToStudyKorean: -는 김에 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "따로·같이",
+      "subtitle": "Listing hectic actions",
+      "pattern": "-는 대로",
+      "example": "도착하는 대로 연락 주세요.",
+      "exampleEn": "Contact me as soon as you arrive.",
+      "description": "‘As soon as’ / ‘just as’ depending on context.",
+      "tip": "For 'immediately when', use with action verbs in present/future.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%8C%80%EB%A1%9C",
+          "title": "HowToStudyKorean: -는 대로 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "대조",
+      "subtitle": "Contrast",
+      "pattern": "-(느)ㄴ다기보다는",
+      "example": "기분이 좋다기보다는 마음이 편안해요.",
+      "exampleEn": "Rather than feeling good, I feel at ease.",
+      "description": "Refines or corrects a label: ‘not so much A as B’; polite way to offer a more accurate characterization.",
+      "tip": "Avoid direct antonyms (e.g., 어렵다기보다는 쉽다). Offer a more precise alternative instead.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=h7Kss82zJjc",
+          "title": "~다기보다(는) detailed class",
+          "channel": "GO! Billy Korean (Live Class)"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "대조",
+      "subtitle": "Contrast",
+      "pattern": "-(으)ㄴ 반면(에)",
+      "example": "형은 키가 큰 반면에 동생은 작아요.",
+      "tip": "Used to show contrast between two things. Means \"on the other hand\" or \"whereas.\"",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5opH-v0kcJo",
+          "title": "Learn Korean Ep. 116: 반면에 \"On the Other Hand\"",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "While the older brother is tall, the younger one is short."
+    },
+    {
+      "chapter": 9,
+      "title": "대조",
+      "subtitle": "Contrast",
+      "pattern": "-(으)ㅁ에도 불구하고",
+      "example": "비용이 높음에도 불구하고 계약했다.",
+      "exampleEn": "Despite the high cost, we signed the contract.",
+      "description": "Formal 'despite/in spite of.'",
+      "tip": "Suited for reports, essays, and business contexts.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81%EC%97%90%EB%8F%84%20%EB%B6%88%EA%B5%AC%ED%95%98%EA%B3%A0",
+          "title": "HowToStudyKorean: -(으)ㅁ에도 불구하고 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "대조",
+      "subtitle": "Contrast",
+      "pattern": "-건만",
+      "example": "최선을 다했건만 시험에 떨어졌다.",
+      "exampleEn": "Even though I did my best, I failed the exam.",
+      "description": "Literary concessive connector conveying frustrated expectation or regret; stronger than -지만.",
+      "tip": "Suited to literary/formal tones; rare in casual conversation.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=%EA%B1%B4%EB%A7%8C",
+          "title": "Search: -건만",
+          "channel": "HowToStudyKorean"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "대조",
+      "subtitle": "Contrast",
+      "pattern": "-고도",
+      "example": "사과하고도 용서받지 못했다.",
+      "exampleEn": "Even after apologizing, I wasn’t forgiven.",
+      "description": "Despite doing A, (unexpected) B happened.",
+      "tip": "Good for surprising or disappointing outcomes.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B3%A0%EB%8F%84",
+          "title": "HowToStudyKorean: -고도 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "대조",
+      "subtitle": "Contrast",
+      "pattern": "-는 대신(에)",
+      "example": "돈 대신에 카드로 계산할게요.",
+      "tip": "Means \"instead of\" or \"in place of.\" Shows substitution or alternative choice.",
+      "resources": [
+        {
+          "type": "interactive",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-69/",
+          "title": "Lesson 69: Instead of: 대신에",
+          "channel": ""
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-69/",
+          "title": "Lesson 69: Instead of: 대신에",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "I'll pay by card instead of cash."
+    },
+    {
+      "chapter": 10,
+      "title": "유사",
+      "subtitle": "Similarity & virtuality",
+      "pattern": "-(으)ㄴ 셈이다",
+      "example": "이미 끝난 셈이에요.",
+      "tip": "Means \"practically\" or \"as good as.\" Shows that something is virtually the case.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=T6KJkF2nVUY",
+          "title": "셈이다",
+          "channel": "Teacher Jinee"
+        }
+      ],
+      "exampleEn": "It's as good as finished already."
+    },
+    {
+      "chapter": 10,
+      "title": "유사",
+      "subtitle": "Similarity & virtuality",
+      "pattern": "-(으)나 마나",
+      "example": "말해도 소용없으니까 말하나 마나예요.",
+      "tip": "Means \"whether or not\" with the implication that it doesn't matter.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=uvEpMDzhNNQ",
+          "title": "Learn Korean Ep. 113: (으)나 마나 and 봤자 \"No Matter\"",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "There's no point in saying it, so it's the same whether you say it or not."
+    },
+    {
+      "chapter": 10,
+      "title": "유사",
+      "subtitle": "Similarity & virtuality",
+      "pattern": "-는 것과 다름없다",
+      "example": "이건 거짓말하는 것과 다름없어요.",
+      "tip": "Often used to criticize or emphasize equivalence to an undesirable act.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=YzdGqMsxz5k",
+          "title": "[Intermediate Korean 57] –(이)나 다름없다 , –마저 , –고만 있다",
+          "channel": "Tammy Korean"
+        }
+      ],
+      "exampleEn": "That's no different from lying.",
+      "description": "Means 'no different from' / 'practically the same as.'"
+    },
+    {
+      "chapter": 10,
+      "title": "유사",
+      "subtitle": "Similarity & virtuality",
+      "pattern": "-다시피 하다",
+      "example": "밤낮없이 일하다시피 했다.",
+      "exampleEn": "I worked almost day and night.",
+      "description": "‘Practically/almost (did)…’.",
+      "tip": "Conveys strong effort or near-total extent.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8B%A4%EC%8B%9C%ED%94%BC%20%ED%95%98%EB%8B%A4",
+          "title": "HowToStudyKorean: -다시피 하다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "유사",
+      "subtitle": "Similarity & virtuality",
+      "pattern": "-듯이",
+      "example": "꿈에서 본 듯이 낯익었다.",
+      "exampleEn": "It felt familiar, as if I’d seen it in a dream.",
+      "description": "‘As if/like’; simile or resemblance.",
+      "tip": "Nice for expressive descriptions and narratives.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%93%AF%EC%9D%B4",
+          "title": "HowToStudyKorean: -듯이 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "추가·포함",
+      "subtitle": "Addition & inclusion",
+      "pattern": "-(으)ㄹ뿐더러",
+      "example": "그는 성실할뿐더러 능력도 뛰어나다.",
+      "exampleEn": "He’s not only diligent but also highly capable.",
+      "description": "Adds an extra positive/negative trait.",
+      "tip": "More neutral than -기는커녕; good in endorsements.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EB%BF%90%EB%8D%94%EB%9F%AC",
+          "title": "HowToStudyKorean: -(으)ㄹ뿐더러 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "추가·포함",
+      "subtitle": "Addition & inclusion",
+      "pattern": "-(이)거니와",
+      "example": "비싸거니와 맛도 없어요.",
+      "tip": "Sounds bookish/formal; great for essays, reviews, or newsy tones.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=a8tL1B26ZN4",
+          "title": "거니와 \"Not only\" | Live Class Abridged",
+          "channel": "Learn Korean with GO! Billy Korean"
+        },
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B1%B0%EB%8B%88%EC%99%80",
+          "title": "HowToStudyKorean: -거니와 검색",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "Not only is it expensive, it also tastes bad.",
+      "description": "Formal ‘not only…but also,’ frequently adding negative info."
+    },
+    {
+      "chapter": 11,
+      "title": "추가·포함",
+      "subtitle": "Addition & inclusion",
+      "pattern": "-기는커녕",
+      "example": "도와주기는커녕 오히려 방해만 했다.",
+      "exampleEn": "Far from helping, they only got in the way.",
+      "description": "‘Far from A, (even) B…’.",
+      "tip": "Emphatic; avoid overuse to keep tone balanced.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EB%8A%94%EC%BB%A4%EB%85%95",
+          "title": "HowToStudyKorean: -기는커녕 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "추가·포함",
+      "subtitle": "Addition & inclusion",
+      "pattern": "-느니만 못하다",
+      "example": "이 음식은 라면보다 느니만 못해요.",
+      "tip": "Sounds a bit evaluative/critical; often contrasts a fancy option with a simpler one.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=HgIX6NUqWsI",
+          "title": "느니만 못하다 vs 만 못하다",
+          "channel": "Korean Language Teacher"
+        }
+      ],
+      "exampleEn": "This food is worse than just having ramen.",
+      "description": "‘Not as good as doing A’ (doing B would be worse than A)."
+    },
+    {
+      "chapter": 11,
+      "title": "추가·포함",
+      "subtitle": "Addition & inclusion",
+      "pattern": "-되",
+      "example": "허락하되 조건이 있다.",
+      "exampleEn": "I’ll allow it, but with conditions.",
+      "description": "Formal connector: '…but/and yet'.",
+      "tip": "Feels legalistic/official—fits rules and clauses.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%90%98",
+          "title": "HowToStudyKorean: -되 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "추가·포함",
+      "subtitle": "Addition & inclusion",
+      "pattern": "-은/는 물론이고",
+      "example": "한국어는 물론이고 중국어도 할 수 있어요.",
+      "tip": "Common in spoken and written Korean; pairs naturally with 도 to add the extra item.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=xw3RloPlQJQ",
+          "title": "GU5.6 ~은/는 물론이고 (not to mention, to say nothing of)",
+          "channel": "Korean Grammar Channel"
+        }
+      ],
+      "exampleEn": "Not only Korean, I can also speak Chinese.",
+      "description": "‘Not to mention…’ / ‘in addition to…’ to stack a stronger item after a given item."
+    },
+    {
+      "chapter": 11,
+      "title": "추가·포함",
+      "subtitle": "Addition & inclusion",
+      "pattern": "-조차/-마저",
+      "example": "친구조차 나를 믿지 않아요.",
+      "tip": "Means \"even\" with emphasis. -조차 is more formal, -마저 more emotional.",
+      "exampleEn": "Even my family didn’t believe me.",
+      "description": "‘Even (the last/expected)’.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=bHLnGFM3bkw",
+          "title": "도, 까지, 마저, 조차 \"Even\" | Live Class Abridged",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "추가·포함",
+      "subtitle": "Addition & inclusion",
+      "pattern": "마저",
+      "example": "가족마저 나를 믿지 않았다.",
+      "exampleEn": "Even my family didn’t believe me.",
+      "description": "‘Even (the last/expected)’.",
+      "tip": "Heightens drama; use to mark final straw or surprise.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=%EB%A7%88%EC%A0%80",
+          "title": "HowToStudyKorean: 마저 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "추가·포함",
+      "subtitle": "Addition & inclusion",
+      "pattern": "을/를 비롯해서",
+      "example": "서울을 비롯해서 전국 곳곳에 분점이 있다.",
+      "exampleEn": "There are branches nationwide, starting with Seoul.",
+      "description": "‘Starting with A, including B…’.",
+      "tip": "Great for spotlighting a key example among many.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=%EC%9D%84%2F%EB%A5%BC%20%EB%B9%84%EB%A1%AF%ED%95%B4%EC%84%9C",
+          "title": "HowToStudyKorean: 을/를 비롯해서 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "습관 & 태도",
+      "subtitle": "Habits & tendencies",
+      "pattern": "-곤 하다",
+      "example": "어릴 때 자주 놀러 가곤 했어요.",
+      "tip": "You’ll see it with time phrases (옛날에, 예전에) or frequency adverbs (자주).",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=CAnB-QRas_c",
+          "title": "TOPIK II 문법 수업 (6): [ 곤하다, 기 일쑤이다, -아/어 대다 ]",
+          "channel": "Korean TOPIK Study"
+        }
+      ],
+      "exampleEn": "When I was young, I used to go out and play often.",
+      "description": "Marks a past habit or repeated action (similar to ‘used to’)."
+    },
+    {
+      "chapter": 12,
+      "title": "습관 & 태도",
+      "subtitle": "Habits & tendencies",
+      "pattern": "-기 일쑤이다",
+      "example": "그는 약속에 늦기 일쑤예요.",
+      "tip": "Means \"it's common for\" or \"tends to.\" Shows frequent occurrence of undesirable things.",
+      "exampleEn": "He’s habitually late to appointments.",
+      "description": "Frequent/typical occurrence (usually undesirable).",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=CAnB-QRas_c",
+          "title": "TOPIK II 문법 수업 (6) : [ 곤하다, 기 일쑤이다, 아 대다 ]",
+          "channel": "Korean TOPIK Study"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "습관 & 태도",
+      "subtitle": "Habits & tendencies",
+      "pattern": "-는 둥 마는 둥 하다",
+      "example": "밥은 먹는 둥 마는 둥 했어.",
+      "exampleEn": "I barely ate at all.",
+      "description": "Half-hearted/incomplete action.",
+      "tip": "Colloquial; conveys dissatisfaction with the effort.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%91%A5%20%EB%A7%88%EB%8A%94%20%EB%91%A5%20%ED%95%98%EB%8B%A4",
+          "title": "HowToStudyKorean: -는 둥 마는 둥 하다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "습관 & 태도",
+      "subtitle": "Habits & tendencies",
+      "pattern": "-아/어 대다",
+      "example": "아이가 계속 울어 대요.",
+      "tip": "Shows continuous or repeated action, often with negative connotation.",
+      "exampleEn": "These days, he keeps grumbling.",
+      "description": "Repetitive/annoying continued action.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4hqGCADL0gg",
+          "title": "~대다 Habits | Live Class Abridged",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "정도·강조",
+      "subtitle": "Degree & emphasis",
+      "pattern": "-(으)ㄹ 따름이다",
+      "example": "감사할 따름입니다.",
+      "tip": "Frequent in speeches or formal writing; set phrase: 감사할 따름입니다.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=W_VNm0uffBM",
+          "title": "Learn Korean Ep. 127: 뿐이다 & 따름이다 “Only”",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "I’m simply grateful.",
+      "description": "Formal ‘only/merely’ showing limitation or humility."
+    },
+    {
+      "chapter": 13,
+      "title": "정도·강조",
+      "subtitle": "Degree & emphasis",
+      "pattern": "-(으)리만치",
+      "example": "터질리만치 배가 불렀다.",
+      "exampleEn": "My stomach was about to burst (that full).",
+      "description": "Extreme degree: 'to the point that…'.",
+      "tip": "Vivid exaggeration—use for color in narratives.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A6%AC%EB%A7%8C%EC%B9%98",
+          "title": "HowToStudyKorean: -(으)리만치 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "정도·강조",
+      "subtitle": "Degree & emphasis",
+      "pattern": "-기(가) 이를 데 없다",
+      "example": "기쁘기가 이를 데 없어요.",
+      "tip": "Common with adjectives like 기쁘다/만족스럽다/불편하다 + 기가 이를 데 없다.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://studying-korean.tistory.com/197",
+          "title": "A-기(가) 이를 데 없다",
+          "channel": "Studying Korean (Tistory)"
+        },
+        {
+          "type": "interactive article",
+          "url": "https://studying-korean.tistory.com/197",
+          "title": "A-기(가) 이를 데 없다 Korean grammar",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "I’m extremely happy (couldn’t be happier).",
+      "description": "‘To the utmost degree’ for strong praise/complaint about a state."
+    },
+    {
+      "chapter": 13,
+      "title": "정도·강조",
+      "subtitle": "Degree & emphasis",
+      "pattern": "-다 못해",
+      "example": "기다리다 못해 먼저 떠났어요.",
+      "exampleEn": "I waited and waited, then finally left.",
+      "description": "So much that it crosses a threshold.",
+      "tip": "Implies buildup → breaking point.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8B%A4%20%EB%AA%BB%ED%95%B4",
+          "title": "HowToStudyKorean: -다 못해 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "정도·강조",
+      "subtitle": "Degree & emphasis",
+      "pattern": "여간 -지 않다",
+      "example": "여간 어렵지 않아요.",
+      "tip": "Translate to a natural intensifier in English (‘pretty’, ‘quite’, ‘really’) not literally ‘not easy’.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eMJ2vrfy-i8",
+          "title": "Korean expression: 여간 (intermediate/Advanced)",
+          "channel": "Korean Grammar Channel"
+        }
+      ],
+      "exampleEn": "It’s quite (really) difficult.",
+      "description": "A litotes (double-negative) meaning ‘very/quite’ with emphasis."
+    },
+    {
+      "chapter": 14,
+      "title": "의도",
+      "subtitle": "Intentions & plans",
+      "pattern": "-(느)ㄴ다는 것이",
+      "example": "도와준다는 것이 오히려 방해가 되었어요.",
+      "exampleEn": "I intended to help, but it ended up getting in the way.",
+      "description": "Intention vs unintended outcome.",
+      "tip": "Explains mishaps without sounding defensive.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%8A%94%20%EA%B2%83%EC%9D%B4",
+          "title": "HowToStudyKorean: -(느)ㄴ다는 것이 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "의도",
+      "subtitle": "Intentions & plans",
+      "pattern": "-(으)ㄹ 작정이다",
+      "example": "이번에는 꼭 성공할 작정이에요.",
+      "tip": "Close to ‘I fully intend to…’—use for decisive plans or resolutions.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-50/",
+          "title": "Lesson 50: 예정/계획/준비/작정",
+          "channel": "HowToStudyKorean"
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-50/",
+          "title": "Lesson 50: ~ㄹ/을 예정, 계획, 준비",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "This time, I’m determined to succeed.",
+      "description": "Firm intention/resolve (stronger than 단순 계획)."
+    },
+    {
+      "chapter": 14,
+      "title": "의도",
+      "subtitle": "Intentions & plans",
+      "pattern": "-(으)려고 들다",
+      "example": "자꾸 간섭하려 들어서 불편해요.",
+      "exampleEn": "He keeps trying to interfere, and it’s uncomfortable.",
+      "description": "Insistent attempt/intention (often unwelcome).",
+      "tip": "Useful for boundaries and complaints.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A0%A4%EA%B3%A0%20%EB%93%A4%EB%8B%A4",
+          "title": "HowToStudyKorean: -(으)려고 들다 검색",
+          "channel": ""
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SqBA0JHaXug",
+          "title": "V-(으)려고 들다",
+          "channel": "Korean Grammar (Lecture)"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "의도",
+      "subtitle": "Intentions & plans",
+      "pattern": "-(으)려다가",
+      "example": "나가려다가 비가 와서 포기했어요.",
+      "exampleEn": "I was about to go out, but it rained so I gave up.",
+      "description": "About to do A, but B happened and stopped it.",
+      "tip": "Great for 'almost did' narratives.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A0%A4%EB%8B%A4%EA%B0%80",
+          "title": "HowToStudyKorean: -(으)려다가 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "추측·가능성",
+      "subtitle": "Guess & probability",
+      "pattern": "-(느)ㄴ다는 듯이",
+      "example": "괜찮다는 듯이 고개를 끄덕였다.",
+      "exampleEn": "He nodded as if to say it’s okay.",
+      "description": "Non-verbal sign implying a quoted message.",
+      "tip": "Pairs with gestures (끄덕이다, 미소 짓다).",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%8A%94%20%EB%93%AF%EC%9D%B4",
+          "title": "HowToStudyKorean: -(느)ㄴ다는 듯이 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "추측·가능성",
+      "subtitle": "Guess & probability",
+      "pattern": "-(으)ㄹ 게 뻔하다",
+      "example": "차가 막힐 게 뻔해요.",
+      "exampleEn": "It’s bound to be heavy traffic.",
+      "description": "Predictable outcome (often negative).",
+      "tip": "Use for 'called it' moments—don’t overdo negativity.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%20%EA%B2%8C%20%EB%BB%94%ED%95%98%EB%8B%A4",
+          "title": "HowToStudyKorean: -(으)ㄹ 게 뻔하다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "추측·가능성",
+      "subtitle": "Guess & probability",
+      "pattern": "-(으)ㄹ 리가 없다",
+      "example": "그가 거짓말할 리가 없어요.",
+      "tip": "Expresses impossibility or disbelief. Means \"there's no way\" or \"impossible.\"",
+      "exampleEn": "There’s no way that’s true.",
+      "description": "Strong disbelief/impossibility.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SIlPBJZokg4",
+          "title": "Live Korean Class | [Intermediate] 리가 없다 \"There's no way\"",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "추측·가능성",
+      "subtitle": "Guess & probability",
+      "pattern": "-(으)ㄹ 법하다",
+      "example": "그럴 법해요.",
+      "tip": "Expresses likelihood or probability. Means \"it's likely\" or \"it's probable.\"",
+      "exampleEn": "That sounds plausible.",
+      "description": "Likely/probable given context.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=OBeYMklsf64",
+          "title": "Live Korean Class [Advanced] ~법하다 \"Likely...\"",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "추측·가능성",
+      "subtitle": "Guess & probability",
+      "pattern": "-(으)ㄹ 수가 없다",
+      "example": "믿을 수가 없어요.",
+      "tip": "Contrast with 지 못하다 (skill/ability) vs (으)ㄹ 수 없다 (circumstance/possibility).",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%20%EC%88%98%EA%B0%80%20%EC%97%86%EB%8B%A4",
+          "title": "HowToStudyKorean: -(으)ㄹ 수가 없다 검색",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "I can’t believe it.",
+      "description": "Emphatic inability/impossibility (with the focus on circumstances)."
+    },
+    {
+      "chapter": 15,
+      "title": "추측·가능성",
+      "subtitle": "Guess & probability",
+      "pattern": "-(으)ㄹ 수밖에 없다",
+      "example": "이렇게 할 수밖에 없어요.",
+      "tip": "Often paired with 그래서/결국 to explain why something was inevitable.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8CammJ-KCzw",
+          "title": "[Intermediate Korean 43] –는 수밖에 (없다) , –는 중이다 , –느니",
+          "channel": "Tammy Korean"
+        }
+      ],
+      "exampleEn": "There’s no choice but to do it this way.",
+      "description": "Indicates inevitability / lack of alternatives."
+    },
+    {
+      "chapter": 15,
+      "title": "추측·가능성",
+      "subtitle": "Guess & probability",
+      "pattern": "-기 십상이다",
+      "example": "무리하면 다치기 십상이다.",
+      "exampleEn": "If you overdo it, you’re likely to get hurt.",
+      "description": "Tends to / is prone to happen.",
+      "tip": "Useful for warnings and common-sense advice.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%20%EC%8B%AD%EC%83%81%EC%9D%B4%EB%8B%A4",
+          "title": "HowToStudyKorean: -기 십상이다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "추측·가능성",
+      "subtitle": "Guess & probability",
+      "pattern": "-는 듯이",
+      "example": "아무 일도 없다는 듯이 웃었다.",
+      "exampleEn": "He smiled as if nothing had happened.",
+      "description": "‘As if’; describes manner resembling a state.",
+      "tip": "Nice for body-language descriptions.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%93%AF%EC%9D%B4",
+          "title": "HowToStudyKorean: -는 듯이 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "추측·가능성",
+      "subtitle": "Guess & probability",
+      "pattern": "-는 듯하다",
+      "example": "피곤해 보이는 듯하다.",
+      "exampleEn": "He seems tired.",
+      "description": "Hedged guess based on appearance.",
+      "tip": "Softer than 단정; polite inferences.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%93%AF%ED%95%98%EB%8B%A4",
+          "title": "HowToStudyKorean: -는 듯하다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "title": "제외",
+      "subtitle": "Exclusion",
+      "pattern": "-기 마련이다",
+      "example": "사람은 실수하기 마련이다.",
+      "exampleEn": "People are bound to make mistakes.",
+      "description": "General truth/inevitability.",
+      "tip": "Gentle reassurance in feedback/coaching.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%20%EB%A7%88%EB%A0%A8%EC%9D%B4%EB%8B%A4",
+          "title": "HowToStudyKorean: -기 마련이다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "title": "제외",
+      "subtitle": "Exclusion",
+      "pattern": "-는 법이다",
+      "example": "노력하면 보람을 느끼는 법이다.",
+      "exampleEn": "When you put in effort, you naturally feel rewarded.",
+      "description": "Customary/expected outcome.",
+      "tip": "Sounds proverbial—great for conclusions.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%B2%95%EC%9D%B4%EB%8B%A4",
+          "title": "HowToStudyKorean: -는 법이다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "title": "제외",
+      "subtitle": "Exclusion",
+      "pattern": "-말고는",
+      "example": "너 말고는 아무도 몰라요.",
+      "tip": "Often used with negative predicates (모르다/없다/못하다).",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=H0DP5OAvkPY",
+          "title": "HOW TO USE 말고 IN KOREAN SENTENCE",
+          "channel": "Korean Grammar Channel"
+        }
+      ],
+      "exampleEn": "No one but you knows.",
+      "description": "‘Except for / other than’—excludes all but the specified noun."
+    },
+    {
+      "chapter": 16,
+      "title": "제외",
+      "subtitle": "Exclusion",
+      "pattern": "-없이는",
+      "example": "당신의 도움 없이는 불가능해요.",
+      "tip": "Often pairs with 불가능하다/어렵다/안 된다 to stress indispensability.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-74/",
+          "title": "Lesson 74: (topic on ‘regardless of’ / contrastive forms; use as a fallback reading)",
+          "channel": "HowToStudyKorean"
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-74/",
+          "title": "Lesson 74: It doesn't matter/ Regardless of (상관없다/상관없이)",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "Without your help, it’s impossible.",
+      "description": "‘Without X’ with emphasis on necessity of X."
+    },
+    {
+      "chapter": 16,
+      "title": "제외",
+      "subtitle": "Exclusion",
+      "pattern": "-외에는",
+      "example": "이것 외에는 다른 방법이 없어요.",
+      "tip": "Slightly more formal than 말고는; reads more written/polite.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-87/",
+          "title": "",
+          "channel": ""
+        },
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-71/",
+          "title": "Lesson 71: 포함/제외 (include/exclude) — background reading",
+          "channel": "HowToStudyKorean"
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-71/",
+          "title": "Lesson 71: To include (포함하다), to exclude (제외하다)",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "Other than this, there’s no other way.",
+      "description": "Formal ‘other than/except for’."
+    },
+    {
+      "chapter": 17,
+      "title": "비교",
+      "subtitle": "Comparison",
+      "pattern": "-(으)랴 -(으)랴",
+      "example": "청소하랴 요리하랴 하루 종일 바빴다.",
+      "exampleEn": "I was busy all day cleaning and cooking.",
+      "description": "Busy with A and B (hectic listing).",
+      "tip": "Evokes bustle—nice in story openings.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%9E%B4%20-(%EC%9C%BC)%EB%9E%B4",
+          "title": "HowToStudyKorean: -(으)랴 -(으)랴 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "title": "비교",
+      "subtitle": "Comparison",
+      "pattern": "-느니 -느니 하다",
+      "example": "가느니 마느니 말만 많네.",
+      "exampleEn": "You keep going on about whether to go or not.",
+      "description": "Enumerates alternatives under consideration.",
+      "tip": "Often carries a slightly exasperated tone.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%90%EB%8B%88%20-%EB%8A%90%EB%8B%88%20%ED%95%98%EB%8B%A4",
+          "title": "HowToStudyKorean: -느니 -느니 하다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "title": "비교",
+      "subtitle": "Comparison",
+      "pattern": "-는가 하면",
+      "example": "어렵다 하는가 하면 재밌다고도 해요.",
+      "exampleEn": "Some say it’s hard, while others say it’s fun.",
+      "description": "Lists contrasting/coexisting perspectives.",
+      "tip": "Balances two sides of an argument.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%EA%B0%80%20%ED%95%98%EB%A9%B4",
+          "title": "HowToStudyKorean: -는가 하면 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "title": "비교",
+      "subtitle": "Comparison",
+      "pattern": "-만 못하다",
+      "example": "이 영화는 전작만 못해요.",
+      "tip": "Politer/softer than saying something is ‘bad’ outright.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=pgdbJrozqp4",
+          "title": "Korean Grammar Intermediate (172) N만 못하다",
+          "channel": "Teacher Jinee"
+        }
+      ],
+      "exampleEn": "This movie isn’t as good as the previous one.",
+      "description": "‘Not as good as N’ (N만 못하다)."
+    },
+    {
+      "chapter": 17,
+      "title": "비교",
+      "subtitle": "Comparison",
+      "pattern": "-만하다",
+      "example": "이 일은 할 만해요.",
+      "tip": "시험 볼 만하다 / 가 볼 만하다 are common ‘recommendation’ patterns.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=JYcXa6oW3_g",
+          "title": "Learn Korean Ep. 78: \"Worth Doing\" | 만하다",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "This job is doable / worth doing.",
+      "description": "Assesses adequacy or worth doing of an action/state."
+    },
+    {
+      "chapter": 17,
+      "title": "비교",
+      "subtitle": "Comparison",
+      "pattern": "-에 비해서",
+      "example": "작년에 비해서 많이 좋아졌어요.",
+      "tip": "You can flip to 에 비해(서) in casual writing; both are fine.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-70/",
+          "title": "Lesson 70: 비교하다/비하다 (comparison)",
+          "channel": "HowToStudyKorean"
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-70/",
+          "title": "Lesson 70: To compare: 비교하다, 비하다",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "Compared to last year, it has improved a lot.",
+      "description": "‘Compared to…’—sets a standard for comparison."
+    },
+    {
+      "chapter": 17,
+      "title": "비교",
+      "subtitle": "Comparison",
+      "pattern": "(이)며 (이)며",
+      "example": "책이며 노트며 다 챙겨라.",
+      "exampleEn": "Bring everything—books, notebooks, and all.",
+      "description": "Inclusive listing of items.",
+      "tip": "Good for casual lists; keep items concrete.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=(%EC%9D%B4)%EB%A9%B0%20(%EC%9D%B4)%EB%A9%B0",
+          "title": "HowToStudyKorean: (이)며 (이)며 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-(으)ㄴ 끝에",
+      "example": "오랜 논의 끝에 합의했다.",
+      "exampleEn": "After long discussions, they reached an agreement.",
+      "description": "Result after a long process.",
+      "tip": "Pairs well with nouns like 노력/논의/고민.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B4%20%EB%81%9D%EC%97%90",
+          "title": "HowToStudyKorean: -(으)ㄴ 끝에 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-(으)ㄴ 나머지",
+      "example": "피곤한 나머지 대답도 못 했다.",
+      "exampleEn": "I was so tired that I couldn’t even respond.",
+      "description": "Excessive degree causing a result.",
+      "tip": "Use with emotions/conditions (기쁜/슬픈/화난).",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B4%20%EB%82%98%EB%A8%B8%EC%A7%80",
+          "title": "HowToStudyKorean: -(으)ㄴ 나머지 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-는 대로",
+      "example": "도착하는 대로 연락하세요.",
+      "tip": "Two core senses: immediacy (오자마자) and ‘the way’ (말하는 대로).",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=rVaJDs_aaGQ",
+          "title": "Live Korean Class | [Intermediate] \"As soon as\" 대로",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "Contact me as soon as you arrive.",
+      "description": "‘As soon as / just as’—immediate sequence or ‘the way (someone does)’."
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-는 만큼",
+      "example": "노력하는 만큼 결과가 나올 거예요.",
+      "tip": "Pairs naturally with 만큼…-다 structure for comparisons.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ssblWhKO4gM",
+          "title": "Live Korean Class [Intermediate] ~만큼 “As Much As” & “Because”",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "You’ll get results in proportion to how much you work.",
+      "description": "‘As much as / to the extent that’—proportional relationship."
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-다 보니까",
+      "example": "계속 공부하다 보니까 실력이 늘었어요.",
+      "tip": "Narrative/explanatory; great in personal stories and reflections.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=EbFdl4hJoWg",
+          "title": "Live Korean Class | [Advanced] ~다 보니까 “Realizing”",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "As I kept studying, my skills improved.",
+      "description": "After doing something for a while, you realize/arrive at a result."
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-다가",
+      "example": "공부하다가 잠들었어요.",
+      "tip": "Follow it with a 2nd action that cuts in (잠들다/넘어지다/떨어뜨리다).",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VXUCeUwVC2Q",
+          "title": "Live Korean Class | While (면서, 동안, 다가)",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "I fell asleep while studying.",
+      "description": "Shows interruption/change while doing an action."
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-다가는",
+      "example": "이렇게 하다가는 실패할 거예요.",
+      "tip": "Common in advice/warnings: 그렇게 먹다가는~, 그렇게 늦잠 자다가는~.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NNlhAN1awWY",
+          "title": "다가는 Continuing Actions | Live Class Abridged",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "If you keep doing it like this, you’ll fail.",
+      "description": "Warns that continuing the current action will lead to a bad result."
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-더니",
+      "example": "아프더니 결국 병원에 갔어요.",
+      "tip": "Usually the subject is 3rd-person or someone other than the speaker for A.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=T68WpJPbO6c",
+          "title": "Learn Korean Ep. 72: 더니",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "He was sick, and in the end he went to the hospital.",
+      "description": "Speaker’s observation of A followed by a related outcome B."
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-데요",
+      "example": "생각보다 어렵더라고요.",
+      "exampleEn": "It turned out harder than I thought.",
+      "description": "Speaker’s discovery or soft assertion.",
+      "tip": "Conversational—keeps tone friendly and light.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8D%B0%EC%9A%94",
+          "title": "HowToStudyKorean: -데요 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "title": "시간 표현",
+      "subtitle": "Time expressions",
+      "pattern": "-아/어 내다",
+      "example": "결국 해내고 말았다.",
+      "exampleEn": "I finally pulled it off.",
+      "description": "Completion/achievement (often after struggle).",
+      "tip": "Adds triumph; great for motivational contexts.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EC%95%84%2F%EC%96%B4%20%EB%82%B4%EB%8B%A4",
+          "title": "HowToStudyKorean: -아/어 내다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "title": "원인 표현",
+      "subtitle": "Cause expressions",
+      "pattern": "-(으)ㅁ에 따라",
+      "example": "나이에 따라 취향이 달라진다.",
+      "exampleEn": "Preferences change according to age.",
+      "description": "Variation depending on a criterion.",
+      "tip": "Common in surveys, reports, and analyses.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81%EC%97%90%20%EB%94%B0%EB%9D%BC",
+          "title": "HowToStudyKorean: -(으)ㅁ에 따라 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "title": "원인 표현",
+      "subtitle": "Cause expressions",
+      "pattern": "-는 가운데",
+      "example": "많은 이들이 지켜보는 가운데 발표했다.",
+      "exampleEn": "I presented while many people were watching.",
+      "description": "‘Amid/among’—action within a broader situation.",
+      "tip": "Useful for formal event descriptions.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EA%B0%80%EC%9A%B4%EB%8D%B0",
+          "title": "HowToStudyKorean: -는 가운데 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "title": "원인 표현",
+      "subtitle": "Cause expressions",
+      "pattern": "-는 까닭에",
+      "example": "그런 까닭에 결정을 바꿨어요.",
+      "tip": "Formal way to express reason or cause. Often used in written Korean.",
+      "resources": [
+        {
+          "type": "interactive",
+          "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-147/",
+          "title": "Lesson 147: ~는 바람에 – A negative result occurred because of an action",
+          "channel": ""
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-147/",
+          "title": "Lesson 147: ~는 바람에 – A negative result occurred because of an action",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "For that reason, I changed my decision."
+    },
+    {
+      "chapter": 19,
+      "title": "원인 표현",
+      "subtitle": "Cause expressions",
+      "pattern": "-는 마당에",
+      "example": "다 끝난 마당에 이제 와서 왜 그래?",
+      "exampleEn": "Now that it’s all over, why bring it up?",
+      "description": "Highlights a (late) stage that makes the point stronger.",
+      "tip": "Often rhetorical and slightly scolding.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%A7%88%EB%8B%B9%EC%97%90",
+          "title": "HowToStudyKorean: -는 마당에 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "title": "원인 표현",
+      "subtitle": "Cause expressions",
+      "pattern": "-는 바람에",
+      "example": "비가 오는 바람에 소풍이 취소됐어요.",
+      "tip": "Natural with weather/accidents/outside conditions; tone is a bit apologetic/explanatory.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XTZSG4BqC1s",
+          "title": "Live Korean Class | [Intermediate] ~는 바람에 “Because of”",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "Because it rained, the picnic was canceled.",
+      "description": "Uncontrollable external cause leading to a negative result."
+    },
+    {
+      "chapter": 19,
+      "title": "원인 표현",
+      "subtitle": "Cause expressions",
+      "pattern": "-는 탓에",
+      "example": "교통체증 탓에 늦었어요.",
+      "tip": "Use carefully in sensitive contexts—sounds like you’re attributing fault.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ZOShgYxqm5U",
+          "title": "Live Korean Class | “Because of” 탓에",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "I was late because of the traffic jam.",
+      "description": "Cause with a subtle sense of blame/responsibility (more formal than 바람에)."
+    },
+    {
+      "chapter": 19,
+      "title": "원인 표현",
+      "subtitle": "Cause expressions",
+      "pattern": "치고",
+      "example": "초보치고 발음이 꽤 좋아요.",
+      "exampleEn": "For a beginner, your pronunciation is quite good.",
+      "description": "‘For (a kind/group), …’—sets an expectation frame.",
+      "tip": "Nice for compliments with context.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=%EC%B9%98%EA%B3%A0",
+          "title": "HowToStudyKorean: 치고 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "title": "정도 표현",
+      "subtitle": "Degree expressions",
+      "pattern": "-(으)ㄹ 정도로",
+      "example": "죽을 정도로 아팠어요.",
+      "tip": "Emphasizes extreme degree. Stronger than just -는 정도.",
+      "resources": [
+        {
+          "type": "interactive",
+          "url": "https://www.koreantopik.com/2017/05/l2g42-av-grammar-to-extent-thatexpress.html",
+          "title": "(으)ㄹ 정도로 and -(으)ㄹ 정도이다 grammar = to the extent that",
+          "channel": ""
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.koreantopik.com/2017/05/l2g42-av-grammar-to-extent-thatexpress.html",
+          "title": "(으)ㄹ 정도로 and -(으)ㄹ 정도이다 grammar = to the extent that",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "I was so sick I thought I would die."
+    },
+    {
+      "chapter": 20,
+      "title": "정도 표현",
+      "subtitle": "Degree expressions",
+      "pattern": "-(으)ㄹ래야 -(으)ㄹ 수가 없다",
+      "example": "믿으려야 믿을 수가 없다.",
+      "exampleEn": "Even if I wanted to believe it, I can’t.",
+      "description": "Expresses impossibility despite intention.",
+      "tip": "Good for expressing constraints beyond one’s control.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EB%9E%98%EC%95%BC%20-(%EC%9C%BC)%E3%84%B9%20%EC%88%98%EA%B0%80%20%EC%97%86%EB%8B%A4",
+          "title": "HowToStudyKorean: -(으)ㄹ래야 -(으)ㄹ 수가 없다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "title": "정도 표현",
+      "subtitle": "Degree expressions",
+      "pattern": "-기가 이를 데 없다",
+      "example": "만족스럽기가 이를 데 없다.",
+      "exampleEn": "I was extremely satisfied.",
+      "description": "Maximal degree ('couldn’t be more…').",
+      "tip": "Perfect for polished reviews and speeches.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EA%B0%80%20%EC%9D%B4%EB%A5%BC%20%EB%8D%B0%20%EC%97%86%EB%8B%A4",
+          "title": "HowToStudyKorean: -기가 이를 데 없다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "title": "정도 표현",
+      "subtitle": "Degree expressions",
+      "pattern": "-는 정도",
+      "example": "울 정도로 감동했어요.",
+      "tip": "Shows degree or extent. Means \"to the extent that\" or \"so much that.\"",
+      "resources": [
+        {
+          "type": "interactive",
+          "url": "https://www.koreantopik.com/2017/05/l2g42-av-grammar-to-extent-thatexpress.html",
+          "title": "(으)ㄹ 정도로 and -(으)ㄹ 정도이다 grammar = to the extent that",
+          "channel": ""
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.koreantopik.com/2017/05/l2g42-av-grammar-to-extent-thatexpress.html",
+          "title": "(으)ㄹ 정도로 and -(으)ㄹ 정도이다 grammar = to the extent that",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "I was moved to the point of tears."
+    },
+    {
+      "chapter": 20,
+      "title": "정도 표현",
+      "subtitle": "Degree expressions",
+      "pattern": "-아/어서",
+      "example": "너무 추워서 나갈 수 없어요.",
+      "tip": "Shows cause and effect. Basic way to express \"so... that\" or \"because.\"",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=O1jhWMfJFdE",
+          "title": "How to Say \"Because\" Using Arthur/Eoseo - Korean Grammar",
+          "channel": "Learn Korean with KoreanClass101.com"
+        }
+      ],
+      "exampleEn": "It's so cold that I can't go out."
+    },
+    {
+      "chapter": 20,
+      "title": "정도 표현",
+      "subtitle": "Degree expressions",
+      "pattern": "여간 -지 않다",
+      "example": "여간 어려운 일이 아니었다.",
+      "exampleEn": "It was extremely (by no means easy).",
+      "description": "Idiomatic double negative for strong emphasis.",
+      "tip": "Sounds formal/stylistic; great for emphasis in writing.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=%EC%97%AC%EA%B0%84%20-%EC%A7%80%20%EC%95%8A%EB%8B%A4",
+          "title": "HowToStudyKorean: 여간 -지 않다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "title": "상황 표현",
+      "subtitle": "Situation expressions",
+      "pattern": "-는 가운데",
+      "example": "많은 사람들이 지켜보는 가운데 연설했어요.",
+      "tip": "Formal expression meaning \"while\" or \"among.\" Often used in formal contexts.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=orR7t8Orgm0",
+          "title": "Live Korean Class [Advanced] \"While\" 가운데",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "I gave a speech while many people were watching."
+    },
+    {
+      "chapter": 21,
+      "title": "상황 표현",
+      "subtitle": "Situation expressions",
+      "pattern": "-는 도중에",
+      "example": "회의하는 도중에 전화가 왔어요.",
+      "tip": "Means \"in the middle of\" with emphasis on interruption or specific moment.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=J-m5LHbHdAI",
+          "title": "[ Intermediate Korean 40 ] –는 도중에 , –는 길에 , –는 대로",
+          "channel": "Tammy Korean"
+        }
+      ],
+      "exampleEn": "A phone call came during the meeting."
+    },
+    {
+      "chapter": 21,
+      "title": "상황 표현",
+      "subtitle": "Situation expressions",
+      "pattern": "-는 동안",
+      "example": "방학 동안 여행을 갔어요.",
+      "tip": "Means \"while\" or \"during.\" Shows time period when something happens.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IvRfhNO2vCk",
+          "title": "Korean Grammar - 는 동안에 during / while",
+          "channel": "Korean Grammar Channel"
+        }
+      ],
+      "exampleEn": "I went traveling during vacation."
+    },
+    {
+      "chapter": 21,
+      "title": "상황 표현",
+      "subtitle": "Situation expressions",
+      "pattern": "-는 중",
+      "example": "지금 공부하는 중이에요.",
+      "tip": "Shows ongoing action. Means \"in the middle of\" or \"currently doing.\"",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QBZFSeXZf_E",
+          "title": "In the middle (中) 중 & 중이다 (한자) | Korean FAQ",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "I'm studying right now."
+    },
+    {
+      "chapter": 21,
+      "title": "상황 표현",
+      "subtitle": "Situation expressions",
+      "pattern": "하게체",
+      "example": "그렇게 하게.",
+      "exampleEn": "Do it that way (semi-formal directive).",
+      "description": "Older/formal style, senior-to-junior or in literature.",
+      "tip": "Shows hierarchy; sounds old-fashioned in modern settings.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=%ED%95%98%EA%B2%8C%EC%B2%B4",
+          "title": "HowToStudyKorean: 하게체 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "title": "상황 표현",
+      "subtitle": "Situation expressions",
+      "pattern": "하오체",
+      "example": "그리 하오.",
+      "exampleEn": "Do so (old/formal tone).",
+      "description": "Traditional speech level; archaic/literary.",
+      "tip": "Use in historical/literary contexts; avoid in daily speech.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=%ED%95%98%EC%98%A4%EC%B2%B4",
+          "title": "HowToStudyKorean: 하오체 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-(으)나",
+      "example": "도움이 되나 한계가 있다.",
+      "exampleEn": "It helps, but there are limits.",
+      "description": "Formal contrast similar to 'but/although'.",
+      "tip": "Smoother than 하지만 in formal writing.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%82%98",
+          "title": "HowToStudyKorean: -(으)나 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-(으)ㄹ 턱이 없다",
+      "example": "그럴 턱이 없다.",
+      "exampleEn": "There’s no way that could happen.",
+      "description": "Strong denial of plausibility.",
+      "tip": "Emphatic; keep for decisive rebuttals.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%20%ED%84%B1%EC%9D%B4%20%EC%97%86%EB%8B%A4",
+          "title": "HowToStudyKorean: -(으)ㄹ 턱이 없다 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-(으)ㄹ세라",
+      "example": "늦을세라 서둘렀다.",
+      "exampleEn": "I hurried for fear of being late.",
+      "description": "Precautionary fear leading to action.",
+      "tip": "Elevated tone; pairs with 걱정/염려 contexts.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EC%84%B8%EB%9D%BC",
+          "title": "HowToStudyKorean: -(으)ㄹ세라 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-(으)며",
+      "example": "가격이 저렴하며 품질도 좋다.",
+      "exampleEn": "The price is low, and the quality is good.",
+      "description": "Formal 'and' connector in lists.",
+      "tip": "Great for specs, brochures, and resumes.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A9%B0",
+          "title": "HowToStudyKorean: -(으)며 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-(으)므로",
+      "example": "시간이 없으므로 다음에 합시다.",
+      "exampleEn": "Since there’s no time, let’s do it next time.",
+      "description": "Formal 'since/because'.",
+      "tip": "Solid for reports and official notices.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%AF%80%EB%A1%9C",
+          "title": "HowToStudyKorean: -(으)므로 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-고서",
+      "example": "숙제를 하고서 놀았어요.",
+      "tip": "Shows sequence - \"after doing\" something. Emphasizes completion before next action.",
+      "resources": [
+        {
+          "type": "interactive",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/",
+          "title": "Lesson 72: ~고서야, ~고 나서야",
+          "channel": ""
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/",
+          "title": "Lesson 72: ~고서야, ~고 나서야",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "I played after doing my homework."
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-는 길에",
+      "example": "집에 가는 길에 마트에 들렀어요.",
+      "tip": "Means \"on the way\" to somewhere. Shows doing something while going somewhere.",
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Zrh-chSOD0M",
+          "title": "길에 \"On the Way\" | Live Class Abridged",
+          "channel": "Learn Korean with GO! Billy Korean"
+        }
+      ],
+      "exampleEn": "I stopped by the mart on my way home."
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-는 양",
+      "example": "모르는 양 행동했다.",
+      "exampleEn": "He acted as if he didn’t know.",
+      "description": "Pretending/acting as though a state is true.",
+      "tip": "Conveys subtle sarcasm or indirect criticism.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EC%96%91",
+          "title": "HowToStudyKorean: -는 양 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-는 참에",
+      "example": "청소하는 참에 정리도 했어요.",
+      "tip": "Means \"while at it\" or \"taking the opportunity.\" Similar to 김에 but more formal.",
+      "resources": [
+        {
+          "type": "interactive",
+          "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-156/",
+          "title": "Lesson 156: ~(으)려는 참 and ~(으)려던 참 – One was just about to",
+          "channel": ""
+        },
+        {
+          "type": "interactive article",
+          "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-156/",
+          "title": "Lesson 156: ~(으)려는 참 and ~(으)려던 참 – One was just about to",
+          "channel": ""
+        }
+      ],
+      "exampleEn": "While I was cleaning, I also organized things."
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "-는 한편",
+      "example": "연구를 진행하는 한편 교육도 병행했다.",
+      "exampleEn": "While conducting research, we also carried out teaching.",
+      "description": "Parallel/simultaneous actions in formal style.",
+      "tip": "Use in project write-ups and CVs.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%ED%95%9C%ED%8E%B8",
+          "title": "HowToStudyKorean: -는 한편 검색",
+          "channel": ""
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "기타 고급 표현",
+      "subtitle": "Other advanced expressions",
+      "pattern": "피동과 사동",
+      "example": "문이 닫혔다 / 문을 닫게 했다.",
+      "exampleEn": "The door was closed / (I) made someone close the door.",
+      "description": "Passive vs. causative voice formation and usage.",
+      "tip": "Teach side-by-side to contrast subject roles clearly.",
+      "resources": [
+        {
+          "type": "article",
+          "url": "https://www.howtostudykorean.com/?s=%ED%94%BC%EB%8F%99%EA%B3%BC%20%EC%82%AC%EB%8F%99",
+          "title": "HowToStudyKorean: 피동과 사동 검색",
+          "channel": ""
+        }
+      ]
+    }
+  ]
+}

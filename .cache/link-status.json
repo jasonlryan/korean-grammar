@@ -1,0 +1,1491 @@
+{
+  "https://www.youtube.com/watch?v=BiM2f7O0xd0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=BiM2f7O0xd0",
+    "reason": "oembed-ok",
+    "timestamp": 1754650687789
+  },
+  "https://www.youtube.com/watch?v=fY9F_vBjMcQ": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=fY9F_vBjMcQ",
+    "reason": "oembed-ok",
+    "timestamp": 1754650687858
+  },
+  "https://www.youtube.com/watch?v=ucgcrqi5iY8": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=ucgcrqi5iY8",
+    "reason": "oembed-ok",
+    "timestamp": 1754650687974
+  },
+  "https://www.youtube.com/watch?v=iVArQbPOFX4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=iVArQbPOFX4",
+    "reason": "oembed-ok",
+    "timestamp": 1754650687988
+  },
+  "https://www.youtube.com/watch?v=0_yZzRJ_0Z0": {
+    "status": "broken",
+    "code": 401,
+    "finalUrl": "https://www.youtube.com/watch?v=0_yZzRJ_0Z0",
+    "reason": "oembed-error",
+    "timestamp": 1754650687993
+  },
+  "https://www.youtube.com/watch?v=sbn1tCGvFSg": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=sbn1tCGvFSg",
+    "reason": "oembed-error",
+    "timestamp": 1754650687994
+  },
+  "https://www.youtube.com/watch?v=8MRi7HQefG0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=8MRi7HQefG0",
+    "reason": "oembed-ok",
+    "timestamp": 1754650688056
+  },
+  "https://www.youtube.com/watch?v=1Qd8Tbgn9j8": {
+    "status": "broken",
+    "code": 401,
+    "finalUrl": "https://www.youtube.com/watch?v=1Qd8Tbgn9j8",
+    "reason": "oembed-error",
+    "timestamp": 1754650688068
+  },
+  "https://www.youtube.com/watch?v=kWF-y9xGgI0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=kWF-y9xGgI0",
+    "reason": "oembed-ok",
+    "timestamp": 1754650688073
+  },
+  "https://www.youtube.com/watch?v=Ow8EyRiAEqQ": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=Ow8EyRiAEqQ",
+    "reason": "oembed-ok",
+    "timestamp": 1754650688114
+  },
+  "https://www.youtube.com/watch?v=4IwwOdzmZ6Y": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=4IwwOdzmZ6Y",
+    "reason": "oembed-ok",
+    "timestamp": 1754650688195
+  },
+  "https://www.youtube.com/watch?v=tPiV4q28F5Y": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=tPiV4q28F5Y",
+    "reason": "oembed-ok",
+    "timestamp": 1754650688256
+  },
+  "https://www.youtube.com/watch?v=HDaVE6ZfH8w": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=HDaVE6ZfH8w",
+    "reason": "oembed-ok",
+    "timestamp": 1754650688277
+  },
+  "https://www.youtube.com/watch?v=LFX7S2yXAJA": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=LFX7S2yXAJA",
+    "reason": "oembed-ok",
+    "timestamp": 1754650688363
+  },
+  "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EA%B8%B0%EB%B3%B4%EB%8B%A4%EB%8A%94": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EA%B8%B0%EB%B3%B4%EB%8B%A4%EB%8A%94",
+    "timestamp": 1754650689058
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%8D%B0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%8D%B0",
+    "timestamp": 1754650689081
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B1%B4%EB%A7%8C": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B1%B4%EB%A7%8C",
+    "timestamp": 1754650689092
+  },
+  "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%A9%B4%EC%84%9C": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%A9%B4%EC%84%9C",
+    "timestamp": 1754650689104
+  },
+  "https://www.youtube.com/watch?v=ouuBf8opagA": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=ouuBf8opagA",
+    "reason": "oembed-ok",
+    "timestamp": 1754650689166
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81",
+    "timestamp": 1754650689199
+  },
+  "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%8B%88%EA%B9%8C": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%8B%88%EA%B9%8C",
+    "timestamp": 1754650689216
+  },
+  "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-44/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-44/",
+    "timestamp": 1754650689252
+  },
+  "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%B5%EC%8B%9C%EA%B3%A0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%B5%EC%8B%9C%EA%B3%A0",
+    "timestamp": 1754650689365
+  },
+  "https://www.howtostudykorean.com/?s=(%EC%9C%BC)%EB%A1%9C%20%EB%A7%90%EB%AF%B8%EC%95%94%EC%95%84": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=(%EC%9C%BC)%EB%A1%9C%20%EB%A7%90%EB%AF%B8%EC%95%94%EC%95%84",
+    "timestamp": 1754650689505
+  },
+  "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-59-66/lesson-63/": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-59-66/lesson-63/",
+    "timestamp": 1754650689533
+  },
+  "https://www.youtube.com/watch?v=WRb83QkeHw0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=WRb83QkeHw0",
+    "reason": "oembed-ok",
+    "timestamp": 1754650689605
+  },
+  "https://www.youtube.com/watch?v=SIlPBJZokg4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=SIlPBJZokg4",
+    "reason": "oembed-ok",
+    "timestamp": 1754650694406
+  },
+  "https://www.youtube.com/watch?v=dUEEijhzYi0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=dUEEijhzYi0",
+    "reason": "oembed-ok",
+    "timestamp": 1754650689825
+  },
+  "https://www.youtube.com/watch?v=AdsnFvvlSx4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=AdsnFvvlSx4",
+    "reason": "oembed-ok",
+    "timestamp": 1754650690287
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B8%B8%EB%9E%98": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B8%B8%EB%9E%98",
+    "timestamp": 1754650690172
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EC%97%90": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EC%97%90",
+    "timestamp": 1754650690203
+  },
+  "https://www.youtube.com/watch?v=H0ykZKNF0JU": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=H0ykZKNF0JU",
+    "reason": "oembed-ok",
+    "timestamp": 1754650690309
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EB%A1%9C%EC%84%9C%EB%8B%88": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EB%A1%9C%EC%84%9C%EB%8B%88",
+    "timestamp": 1754650690476
+  },
+  "https://www.howtostudykorean.com/?s=(%EC%9C%BC)%EB%A1%9C%20%EC%9D%B8%ED%95%B4%EC%84%9C": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=(%EC%9C%BC)%EB%A1%9C%20%EC%9D%B8%ED%95%B4%EC%84%9C",
+    "timestamp": 1754650690483
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81%EC%9C%BC%EB%A1%9C%EC%8D%A8": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81%EC%9C%BC%EB%A1%9C%EC%8D%A8",
+    "timestamp": 1754650690503
+  },
+  "https://www.youtube.com/watch?v=zVUqw32OSTI": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=zVUqw32OSTI",
+    "reason": "oembed-ok",
+    "timestamp": 1754650690596
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EC%9D%B4%EC%83%81": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EC%9D%B4%EC%83%81",
+    "timestamp": 1754650690699
+  },
+  "https://www.youtube.com/watch?v=ZKq_VEqSf9k": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=ZKq_VEqSf9k",
+    "reason": "oembed-ok",
+    "timestamp": 1754650690822
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EC%85%88%EC%B9%98%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EC%85%88%EC%B9%98%EB%8B%A4",
+    "timestamp": 1754650690874
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%90%EB%8B%88%EB%A7%8C%ED%81%BC": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%90%EB%8B%88%EB%A7%8C%ED%81%BC",
+    "timestamp": 1754650690989
+  },
+  "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/",
+    "timestamp": 1754650699267
+  },
+  "https://www.youtube.com/watch?v=UjCe3PGKtAU": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=UjCe3PGKtAU",
+    "reason": "oembed-ok",
+    "timestamp": 1754650691108
+  },
+  "https://www.youtube.com/watch?v=ijmgIvPwp5k": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=ijmgIvPwp5k",
+    "reason": "oembed-ok",
+    "timestamp": 1754650691184
+  },
+  "https://www.youtube.com/watch?v=VKIlNQDnkWU": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=VKIlNQDnkWU",
+    "reason": "oembed-ok",
+    "timestamp": 1754650691204
+  },
+  "https://www.youtube.com/watch?v=uejoXZnxr2k": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=uejoXZnxr2k",
+    "reason": "oembed-ok",
+    "timestamp": 1754650691324
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EC%97%90%20%EB%A7%9D%EC%A0%95%EC%9D%B4%EC%A7%80": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EC%97%90%20%EB%A7%9D%EC%A0%95%EC%9D%B4%EC%A7%80",
+    "timestamp": 1754650691343
+  },
+  "https://www.youtube.com/watch?v=h7Kss82zJjc": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=h7Kss82zJjc",
+    "reason": "oembed-ok",
+    "timestamp": 1754650691436
+  },
+  "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EA%B3%A0%20%EC%B9%98%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EA%B3%A0%20%EC%B9%98%EB%8B%A4",
+    "timestamp": 1754650691450
+  },
+  "https://www.youtube.com/watch?v=5opH-v0kcJo": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=5opH-v0kcJo",
+    "reason": "oembed-ok",
+    "timestamp": 1754650691535
+  },
+  "https://www.howtostudykorean.com/?s=-%EC%9E%90": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EC%9E%90",
+    "timestamp": 1754650691748
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EA%B0%80%20%EB%AC%B4%EC%84%AD%EA%B2%8C": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EA%B0%80%20%EB%AC%B4%EC%84%AD%EA%B2%8C",
+    "timestamp": 1754650691887
+  },
+  "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-149/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-149/",
+    "timestamp": 1754650691954
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EB%9D%BC%EC%B9%98%EB%A9%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EB%9D%BC%EC%B9%98%EB%A9%B4",
+    "timestamp": 1754650691969
+  },
+  "https://www.youtube.com/watch?v=T6KJkF2nVUY": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=T6KJkF2nVUY",
+    "reason": "oembed-ok",
+    "timestamp": 1754650692036
+  },
+  "https://www.youtube.com/watch?v=uvEpMDzhNNQ": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=uvEpMDzhNNQ",
+    "reason": "oembed-ok",
+    "timestamp": 1754650692069
+  },
+  "https://www.youtube.com/watch?v=YzdGqMsxz5k": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=YzdGqMsxz5k",
+    "reason": "oembed-ok",
+    "timestamp": 1754650692135
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%90%EB%83%90%EC%97%90%20%EB%8B%AC%EB%A0%A4%20%EC%9E%88%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%90%EB%83%90%EC%97%90%20%EB%8B%AC%EB%A0%A4%20%EC%9E%88%EB%8B%A4",
+    "timestamp": 1754650692213
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%8C%80%EB%A1%9C": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%8C%80%EB%A1%9C",
+    "timestamp": 1754650692254
+  },
+  "https://www.youtube.com/watch?v=a8tL1B26ZN4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=a8tL1B26ZN4",
+    "reason": "oembed-ok",
+    "timestamp": 1754650692364
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EA%B9%80%EC%97%90": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EA%B9%80%EC%97%90",
+    "timestamp": 1754650692445
+  },
+  "https://www.howtostudykorean.com/?s=%EA%B1%B4%EB%A7%8C": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=%EA%B1%B4%EB%A7%8C",
+    "timestamp": 1754650692620
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B3%A0%EB%8F%84": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B3%A0%EB%8F%84",
+    "timestamp": 1754650692656
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81%EC%97%90%EB%8F%84%20%EB%B6%88%EA%B5%AC%ED%95%98%EA%B3%A0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81%EC%97%90%EB%8F%84%20%EB%B6%88%EA%B5%AC%ED%95%98%EA%B3%A0",
+    "timestamp": 1754650692660
+  },
+  "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-69/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-69/",
+    "timestamp": 1754650692820
+  },
+  "https://www.youtube.com/watch?v=HgIX6NUqWsI": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=HgIX6NUqWsI",
+    "reason": "oembed-ok",
+    "timestamp": 1754650692773
+  },
+  "https://www.youtube.com/watch?v=xw3RloPlQJQ": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=xw3RloPlQJQ",
+    "reason": "oembed-ok",
+    "timestamp": 1754650692779
+  },
+  "https://www.youtube.com/watch?v=bHLnGFM3bkw": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=bHLnGFM3bkw",
+    "reason": "oembed-ok",
+    "timestamp": 1754650692854
+  },
+  "https://www.youtube.com/watch?v=CAnB-QRas_c": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=CAnB-QRas_c",
+    "reason": "oembed-ok",
+    "timestamp": 1754650692936
+  },
+  "https://www.youtube.com/watch?v=4hqGCADL0gg": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=4hqGCADL0gg",
+    "reason": "oembed-ok",
+    "timestamp": 1754650693052
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EB%BF%90%EB%8D%94%EB%9F%AC": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EB%BF%90%EB%8D%94%EB%9F%AC",
+    "timestamp": 1754650693102
+  },
+  "https://www.youtube.com/watch?v=W_VNm0uffBM": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=W_VNm0uffBM",
+    "reason": "oembed-ok",
+    "timestamp": 1754650693184
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8B%A4%EC%8B%9C%ED%94%BC%20%ED%95%98%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8B%A4%EC%8B%9C%ED%94%BC%20%ED%95%98%EB%8B%A4",
+    "timestamp": 1754650693188
+  },
+  "https://www.youtube.com/watch?v=tvQv_K-1hBw": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=tvQv_K-1hBw",
+    "reason": "oembed-error",
+    "timestamp": 1754650693290
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EB%8A%94%EC%BB%A4%EB%85%95": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EB%8A%94%EC%BB%A4%EB%85%95",
+    "timestamp": 1754650693388
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%93%AF%EC%9D%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%93%AF%EC%9D%B4",
+    "timestamp": 1754650693391
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B1%B0%EB%8B%88%EC%99%80": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B1%B0%EB%8B%88%EC%99%80",
+    "timestamp": 1754650693391
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%90%98": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%90%98",
+    "timestamp": 1754650693506
+  },
+  "https://www.youtube.com/watch?v=eMJ2vrfy-i8": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=eMJ2vrfy-i8",
+    "reason": "oembed-ok",
+    "timestamp": 1754650693508
+  },
+  "https://www.youtube.com/watch?v=mcV_qiFEKQg": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=mcV_qiFEKQg",
+    "reason": "oembed-error",
+    "timestamp": 1754650693606
+  },
+  "https://www.howtostudykorean.com/?s=%EC%9D%84%2F%EB%A5%BC%20%EB%B9%84%EB%A1%AF%ED%95%B4%EC%84%9C": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=%EC%9D%84%2F%EB%A5%BC%20%EB%B9%84%EB%A1%AF%ED%95%B4%EC%84%9C",
+    "timestamp": 1754650693715
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%91%A5%20%EB%A7%88%EB%8A%94%20%EB%91%A5%20%ED%95%98%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%91%A5%20%EB%A7%88%EB%8A%94%20%EB%91%A5%20%ED%95%98%EB%8B%A4",
+    "timestamp": 1754650693755
+  },
+  "https://www.howtostudykorean.com/?s=%EB%A7%88%EC%A0%80": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=%EB%A7%88%EC%A0%80",
+    "timestamp": 1754650693842
+  },
+  "https://www.youtube.com/watch?v=SqBA0JHaXug": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=SqBA0JHaXug",
+    "reason": "oembed-ok",
+    "timestamp": 1754650693858
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A6%AC%EB%A7%8C%EC%B9%98": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A6%AC%EB%A7%8C%EC%B9%98",
+    "timestamp": 1754650693950
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8B%A4%20%EB%AA%BB%ED%95%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8B%A4%20%EB%AA%BB%ED%95%B4",
+    "timestamp": 1754650694303
+  },
+  "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-50/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-50/",
+    "timestamp": 1754650694446
+  },
+  "https://www.youtube.com/watch?v=OBeYMklsf64": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=OBeYMklsf64",
+    "reason": "oembed-ok",
+    "timestamp": 1754650694425
+  },
+  "https://www.youtube.com/watch?v=iiYtnzNl-mY": {
+    "status": "broken",
+    "code": 401,
+    "finalUrl": "https://www.youtube.com/watch?v=iiYtnzNl-mY",
+    "reason": "oembed-error",
+    "timestamp": 1754650694510
+  },
+  "https://www.youtube.com/watch?v=8CammJ-KCzw": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=8CammJ-KCzw",
+    "reason": "oembed-ok",
+    "timestamp": 1754650694514
+  },
+  "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%8A%94%20%EA%B2%83%EC%9D%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%8A%94%20%EA%B2%83%EC%9D%B4",
+    "timestamp": 1754650694744
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A0%A4%EB%8B%A4%EA%B0%80": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A0%A4%EB%8B%A4%EA%B0%80",
+    "timestamp": 1754650694914
+  },
+  "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%8A%94%20%EB%93%AF%EC%9D%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EB%8A%90)%E3%84%B4%EB%8B%A4%EB%8A%94%20%EB%93%AF%EC%9D%B4",
+    "timestamp": 1754650694957
+  },
+  "https://studying-korean.tistory.com/197": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://studying-korean.tistory.com/197",
+    "timestamp": 1754650695075
+  },
+  "https://www.youtube.com/watch?v=H0DP5OAvkPY": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=H0DP5OAvkPY",
+    "reason": "oembed-ok",
+    "timestamp": 1754650695079
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%20%EA%B2%8C%20%EB%BB%94%ED%95%98%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%20%EA%B2%8C%20%EB%BB%94%ED%95%98%EB%8B%A4",
+    "timestamp": 1754650695082
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A0%A4%EA%B3%A0%20%EB%93%A4%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A0%A4%EA%B3%A0%20%EB%93%A4%EB%8B%A4",
+    "timestamp": 1754650695105
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B8%B0%20%EC%8B%AD%EC%83%81%EC%9D%B4%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%20%EC%8B%AD%EC%83%81%EC%9D%B4%EB%8B%A4",
+    "timestamp": 1754650695184
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%93%AF%ED%95%98%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%93%AF%ED%95%98%EB%8B%A4",
+    "timestamp": 1754650695290
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%93%AF%EC%9D%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%93%AF%EC%9D%B4",
+    "timestamp": 1754650695348
+  },
+  "https://www.youtube.com/watch?v=pgdbJrozqp4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=pgdbJrozqp4",
+    "reason": "oembed-ok",
+    "timestamp": 1754650695472
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B8%B0%20%EB%A7%88%EB%A0%A8%EC%9D%B4%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%20%EB%A7%88%EB%A0%A8%EC%9D%B4%EB%8B%A4",
+    "timestamp": 1754650695562
+  },
+  "https://www.youtube.com/watch?v=JYcXa6oW3_g": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=JYcXa6oW3_g",
+    "reason": "oembed-ok",
+    "timestamp": 1754650695579
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%B2%95%EC%9D%B4%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%B2%95%EC%9D%B4%EB%8B%A4",
+    "timestamp": 1754650695725
+  },
+  "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-74/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-74/",
+    "timestamp": 1754650695958
+  },
+  "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-71/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-71/",
+    "timestamp": 1754650695980
+  },
+  "https://www.youtube.com/watch?v=rVaJDs_aaGQ": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=rVaJDs_aaGQ",
+    "reason": "oembed-ok",
+    "timestamp": 1754650696207
+  },
+  "https://www.youtube.com/watch?v=ssblWhKO4gM": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=ssblWhKO4gM",
+    "reason": "oembed-ok",
+    "timestamp": 1754650696217
+  },
+  "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-70/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-70/",
+    "timestamp": 1754650696325
+  },
+  "https://www.youtube.com/watch?v=EbFdl4hJoWg": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=EbFdl4hJoWg",
+    "reason": "oembed-ok",
+    "timestamp": 1754650696303
+  },
+  "https://www.youtube.com/watch?v=VXUCeUwVC2Q": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=VXUCeUwVC2Q",
+    "reason": "oembed-ok",
+    "timestamp": 1754650696327
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%90%EB%8B%88%20-%EB%8A%90%EB%8B%88%20%ED%95%98%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%90%EB%8B%88%20-%EB%8A%90%EB%8B%88%20%ED%95%98%EB%8B%A4",
+    "timestamp": 1754650696374
+  },
+  "https://www.youtube.com/watch?v=NNlhAN1awWY": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=NNlhAN1awWY",
+    "reason": "oembed-ok",
+    "timestamp": 1754650696386
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%9E%B4%20-(%EC%9C%BC)%EB%9E%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%9E%B4%20-(%EC%9C%BC)%EB%9E%B4",
+    "timestamp": 1754650696457
+  },
+  "https://www.youtube.com/watch?v=T68WpJPbO6c": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=T68WpJPbO6c",
+    "reason": "oembed-ok",
+    "timestamp": 1754650696505
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%EA%B0%80%20%ED%95%98%EB%A9%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%EA%B0%80%20%ED%95%98%EB%A9%B4",
+    "timestamp": 1754650696544
+  },
+  "https://www.howtostudykorean.com/?s=(%EC%9D%B4)%EB%A9%B0%20(%EC%9D%B4)%EB%A9%B0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=(%EC%9D%B4)%EB%A9%B0%20(%EC%9D%B4)%EB%A9%B0",
+    "timestamp": 1754650696846
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B4%20%EB%81%9D%EC%97%90": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B4%20%EB%81%9D%EC%97%90",
+    "timestamp": 1754650696858
+  },
+  "https://www.youtube.com/watch?v=XTZSG4BqC1s": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=XTZSG4BqC1s",
+    "reason": "oembed-ok",
+    "timestamp": 1754650696940
+  },
+  "https://www.youtube.com/watch?v=ZOShgYxqm5U": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=ZOShgYxqm5U",
+    "reason": "oembed-ok",
+    "timestamp": 1754650696956
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EA%B0%80%EC%9A%B4%EB%8D%B0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EA%B0%80%EC%9A%B4%EB%8D%B0",
+    "timestamp": 1754650697256
+  },
+  "https://www.howtostudykorean.com/?s=-%EC%95%84%2F%EC%96%B4%20%EB%82%B4%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EC%95%84%2F%EC%96%B4%20%EB%82%B4%EB%8B%A4",
+    "timestamp": 1754650697285
+  },
+  "https://www.koreantopik.com/2017/05/l2g42-av-grammar-to-extent-thatexpress.html": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.koreantopik.com/2017/05/l2g42-av-grammar-to-extent-thatexpress.html",
+    "timestamp": 1754650697738
+  },
+  "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-147/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-147/",
+    "timestamp": 1754650697536
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B4%20%EB%82%98%EB%A8%B8%EC%A7%80": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B4%20%EB%82%98%EB%A8%B8%EC%A7%80",
+    "timestamp": 1754650697439
+  },
+  "https://www.youtube.com/watch?v=O1jhWMfJFdE": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=O1jhWMfJFdE",
+    "reason": "oembed-ok",
+    "timestamp": 1754650697570
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8D%B0%EC%9A%94": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8D%B0%EC%9A%94",
+    "timestamp": 1754650697606
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%A7%88%EB%8B%B9%EC%97%90": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EB%A7%88%EB%8B%B9%EC%97%90",
+    "timestamp": 1754650697623
+  },
+  "https://www.youtube.com/watch?v=orR7t8Orgm0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=orR7t8Orgm0",
+    "reason": "oembed-ok",
+    "timestamp": 1754650697654
+  },
+  "https://www.youtube.com/watch?v=J-m5LHbHdAI": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=J-m5LHbHdAI",
+    "reason": "oembed-ok",
+    "timestamp": 1754650697715
+  },
+  "https://www.youtube.com/watch?v=IvRfhNO2vCk": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=IvRfhNO2vCk",
+    "reason": "oembed-ok",
+    "timestamp": 1754650697743
+  },
+  "https://www.youtube.com/watch?v=QBZFSeXZf_E": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=QBZFSeXZf_E",
+    "reason": "oembed-ok",
+    "timestamp": 1754650697757
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81%EC%97%90%20%EB%94%B0%EB%9D%BC": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%85%81%EC%97%90%20%EB%94%B0%EB%9D%BC",
+    "timestamp": 1754650697779
+  },
+  "https://www.howtostudykorean.com/?s=%EC%B9%98%EA%B3%A0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=%EC%B9%98%EA%B3%A0",
+    "timestamp": 1754650697867
+  },
+  "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EA%B0%80%20%EC%9D%B4%EB%A5%BC%20%EB%8D%B0%20%EC%97%86%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EA%B8%B0%EA%B0%80%20%EC%9D%B4%EB%A5%BC%20%EB%8D%B0%20%EC%97%86%EB%8B%A4",
+    "timestamp": 1754650698195
+  },
+  "https://www.howtostudykorean.com/?s=%EC%97%AC%EA%B0%84%20-%EC%A7%80%20%EC%95%8A%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=%EC%97%AC%EA%B0%84%20-%EC%A7%80%20%EC%95%8A%EB%8B%A4",
+    "timestamp": 1754650698557
+  },
+  "https://www.howtostudykorean.com/?s=%ED%95%98%EC%98%A4%EC%B2%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=%ED%95%98%EC%98%A4%EC%B2%B4",
+    "timestamp": 1754650698673
+  },
+  "https://www.youtube.com/watch?v=Zrh-chSOD0M": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=Zrh-chSOD0M",
+    "reason": "oembed-ok",
+    "timestamp": 1754650698773
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%82%98": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%82%98",
+    "timestamp": 1754650698848
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EB%9E%98%EC%95%BC%20-(%EC%9C%BC)%E3%84%B9%20%EC%88%98%EA%B0%80%20%EC%97%86%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EB%9E%98%EC%95%BC%20-(%EC%9C%BC)%E3%84%B9%20%EC%88%98%EA%B0%80%20%EC%97%86%EB%8B%A4",
+    "timestamp": 1754650699016
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%AF%80%EB%A1%9C": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%AF%80%EB%A1%9C",
+    "timestamp": 1754650699169
+  },
+  "https://www.howtostudykorean.com/?s=%ED%95%98%EA%B2%8C%EC%B2%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=%ED%95%98%EA%B2%8C%EC%B2%B4",
+    "timestamp": 1754650699280
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A9%B0": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%EB%A9%B0",
+    "timestamp": 1754650699292
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EC%84%B8%EB%9D%BC": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%EC%84%B8%EB%9D%BC",
+    "timestamp": 1754650699394
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%20%ED%84%B1%EC%9D%B4%20%EC%97%86%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%20%ED%84%B1%EC%9D%B4%20%EC%97%86%EB%8B%A4",
+    "timestamp": 1754650699456
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EC%96%91": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%EC%96%91",
+    "timestamp": 1754650699462
+  },
+  "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-156/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-156/",
+    "timestamp": 1754650699823
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%ED%95%9C%ED%8E%B8": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8A%94%20%ED%95%9C%ED%8E%B8",
+    "timestamp": 1754650699845
+  },
+  "https://www.howtostudykorean.com/?s=%ED%94%BC%EB%8F%99%EA%B3%BC%20%EC%82%AC%EB%8F%99": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=%ED%94%BC%EB%8F%99%EA%B3%BC%20%EC%82%AC%EB%8F%99",
+    "timestamp": 1754650700157
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8B%A4%EA%B8%B0%EC%97%90": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8B%A4%EA%B8%B0%EC%97%90",
+    "timestamp": 1754650920111
+  },
+  "https://www.howtostudykorean.com/?s=-%EB%8B%A4%EB%8B%88%EA%B9%8C(%EC%9A%94)": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-%EB%8B%A4%EB%8B%88%EA%B9%8C(%EC%9A%94)",
+    "timestamp": 1754650920111
+  },
+  "https://www.howtostudykorean.com/?s=%EC%97%90%20%EC%9D%98%ED%95%98%EB%A9%B4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=%EC%97%90%20%EC%9D%98%ED%95%98%EB%A9%B4",
+    "timestamp": 1754650920215
+  },
+  "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%20%EC%88%98%EA%B0%80%20%EC%97%86%EB%8B%A4": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/?s=-(%EC%9C%BC)%E3%84%B9%20%EC%88%98%EA%B0%80%20%EC%97%86%EB%8B%A4",
+    "timestamp": 1754650920415
+  },
+  "https://www.youtube.com/watch?v=P113MaVsf1A": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=P113MaVsf1A",
+    "reason": "oembed-error",
+    "timestamp": 1754651631165
+  },
+  "https://www.youtube.com/watch?v=PqMlq6AGa7w": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=PqMlq6AGa7w",
+    "reason": "oembed-error",
+    "timestamp": 1754651630931
+  },
+  "https://www.youtube.com/watch?v=S2a89346a8c": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=S2a89346a8c",
+    "reason": "oembed-error",
+    "timestamp": 1754651630933
+  },
+  "https://www.youtube.com/watch?v=JcYGnN144rA": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=JcYGnN144rA",
+    "reason": "oembed-error",
+    "timestamp": 1754651630950
+  },
+  "https://www.youtube.com/watch?v=1FMoI5v2W98": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=1FMoI5v2W98",
+    "reason": "oembed-error",
+    "timestamp": 1754651630951
+  },
+  "https://www.youtube.com/watch?v=o5y-dO7g7-k": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=o5y-dO7g7-k",
+    "reason": "oembed-error",
+    "timestamp": 1754651630956
+  },
+  "https://www.youtube.com/watch?v=wXqGg5kQYwQ": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=wXqGg5kQYwQ",
+    "reason": "oembed-error",
+    "timestamp": 1754651630997
+  },
+  "https://www.youtube.com/watch?v=j3d5E_b2LzI": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=j3d5E_b2LzI",
+    "reason": "oembed-error",
+    "timestamp": 1754651630999
+  },
+  "https://www.youtube.com/watch?v=9g7nQd7z9yU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=9g7nQd7z9yU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631000
+  },
+  "https://www.youtube.com/watch?v=uFSTr-tSj4A": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=uFSTr-tSj4A",
+    "reason": "oembed-error",
+    "timestamp": 1754651631001
+  },
+  "https://www.youtube.com/watch?v=f-8Fj6W4j8w": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=f-8Fj6W4j8w",
+    "reason": "oembed-error",
+    "timestamp": 1754651631028
+  },
+  "https://www.youtube.com/watch?v=52i3yKbjCSk": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=52i3yKbjCSk",
+    "reason": "oembed-error",
+    "timestamp": 1754651631029
+  },
+  "https://www.youtube.com/watch?v=L2Gj31hT248": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=L2Gj31hT248",
+    "reason": "oembed-error",
+    "timestamp": 1754651631045
+  },
+  "https://www.youtube.com/watch?v=522CExg_c84": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=522CExg_c84",
+    "reason": "oembed-error",
+    "timestamp": 1754651631077
+  },
+  "https://www.youtube.com/watch?v=2Tz7gEptQcE": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=2Tz7gEptQcE",
+    "reason": "oembed-error",
+    "timestamp": 1754651631078
+  },
+  "https://www.youtube.com/watch?v=XhYbwkS3TjU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=XhYbwkS3TjU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631079
+  },
+  "https://www.youtube.com/watch?v=3-p8c4-Q7sM": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=3-p8c4-Q7sM",
+    "reason": "oembed-error",
+    "timestamp": 1754651631085
+  },
+  "https://www.youtube.com/watch?v=Vz52IdvZZvI": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=Vz52IdvZZvI",
+    "reason": "oembed-error",
+    "timestamp": 1754651631089
+  },
+  "https://www.youtube.com/watch?v=JdZboXxlFlU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=JdZboXxlFlU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631133
+  },
+  "https://www.youtube.com/watch?v=mSaecj4q_mI": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=mSaecj4q_mI",
+    "reason": "oembed-error",
+    "timestamp": 1754651631133
+  },
+  "https://www.youtube.com/watch?v=vL4wY-87f5A": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=vL4wY-87f5A",
+    "reason": "oembed-error",
+    "timestamp": 1754651631134
+  },
+  "https://www.youtube.com/watch?v=5dKK1b-sQvQ": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=5dKK1b-sQvQ",
+    "reason": "oembed-error",
+    "timestamp": 1754651631135
+  },
+  "https://www.youtube.com/watch?v=K_3o_2o_2oU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=K_3o_2o_2oU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631166
+  },
+  "https://www.youtube.com/watch?v=t5yUvM-I1D0": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=t5yUvM-I1D0",
+    "reason": "oembed-error",
+    "timestamp": 1754651631167
+  },
+  "https://www.youtube.com/watch?v=l494ZJtL-wM": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=l494ZJtL-wM",
+    "reason": "oembed-error",
+    "timestamp": 1754651631168
+  },
+  "https://www.youtube.com/watch?v=wX-yU4H8wG8": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=wX-yU4H8wG8",
+    "reason": "oembed-error",
+    "timestamp": 1754651631169
+  },
+  "https://www.youtube.com/watch?v=M9wB-3y_S-o": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=M9wB-3y_S-o",
+    "reason": "oembed-error",
+    "timestamp": 1754651631219
+  },
+  "https://www.youtube.com/watch?v=2YfO2B-i_gA": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=2YfO2B-i_gA",
+    "reason": "oembed-error",
+    "timestamp": 1754651631220
+  },
+  "https://www.youtube.com/watch?v=bOolqLj8kSo": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=bOolqLj8kSo",
+    "reason": "oembed-error",
+    "timestamp": 1754651631254
+  },
+  "https://www.youtube.com/watch?v=o_E5q6Y3a2c": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=o_E5q6Y3a2c",
+    "reason": "oembed-error",
+    "timestamp": 1754651631254
+  },
+  "https://www.youtube.com/watch?v=zJjVfW8N-V0": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=zJjVfW8N-V0",
+    "reason": "oembed-error",
+    "timestamp": 1754651631254
+  },
+  "https://www.youtube.com/watch?v=S0T0e-j_wGI": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=S0T0e-j_wGI",
+    "reason": "oembed-error",
+    "timestamp": 1754651631255
+  },
+  "https://www.youtube.com/watch?v=f9d4kOYtU3A": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=f9d4kOYtU3A",
+    "reason": "oembed-error",
+    "timestamp": 1754651631256
+  },
+  "https://www.youtube.com/watch?v=L_9o_8o_8oY": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=L_9o_8o_8oY",
+    "reason": "oembed-error",
+    "timestamp": 1754651631321
+  },
+  "https://www.youtube.com/watch?v=p42kFSCM5e4": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=p42kFSCM5e4",
+    "reason": "oembed-error",
+    "timestamp": 1754651631397
+  },
+  "https://www.youtube.com/watch?v=56fQYgZE2s4": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=56fQYgZE2s4",
+    "reason": "oembed-error",
+    "timestamp": 1754651631702
+  },
+  "https://www.youtube.com/watch?v=4d0kF1-q7eM": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=4d0kF1-q7eM",
+    "reason": "oembed-error",
+    "timestamp": 1754651631762
+  },
+  "https://www.youtube.com/watch?v=q6Kqf-zL5Rk": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=q6Kqf-zL5Rk",
+    "reason": "oembed-error",
+    "timestamp": 1754651631334
+  },
+  "https://www.youtube.com/watch?v=7uU33s3v8_A": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=7uU33s3v8_A",
+    "reason": "oembed-error",
+    "timestamp": 1754651631337
+  },
+  "https://www.youtube.com/watch?v=lQvQvjYqeys": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=lQvQvjYqeys",
+    "reason": "oembed-error",
+    "timestamp": 1754651631376
+  },
+  "https://www.youtube.com/watch?v=0h3N-g3g0aA": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=0h3N-g3g0aA",
+    "reason": "oembed-error",
+    "timestamp": 1754651631379
+  },
+  "https://www.youtube.com/watch?v=4P4rWw_n-kY": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=4P4rWw_n-kY",
+    "reason": "oembed-error",
+    "timestamp": 1754651631380
+  },
+  "https://www.youtube.com/watch?v=G3qgR-q2YQo": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=G3qgR-q2YQo",
+    "reason": "oembed-error",
+    "timestamp": 1754651631399
+  },
+  "https://www.youtube.com/watch?v=O_5u_4u_4uE": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=O_5u_4u_4uE",
+    "reason": "oembed-error",
+    "timestamp": 1754651631767
+  },
+  "https://www.youtube.com/watch?v=S2U3wW92gMc": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=S2U3wW92gMc",
+    "reason": "oembed-error",
+    "timestamp": 1754651631416
+  },
+  "https://www.youtube.com/watch?v=Q_9o_8o_8oY": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=Q_9o_8o_8oY",
+    "reason": "oembed-error",
+    "timestamp": 1754651631475
+  },
+  "https://www.youtube.com/watch?v=O_1o_0o_0oU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=O_1o_0o_0oU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631482
+  },
+  "https://www.youtube.com/watch?v=3n_8Y3j_8yA": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=3n_8Y3j_8yA",
+    "reason": "oembed-error",
+    "timestamp": 1754651631491
+  },
+  "https://www.youtube.com/watch?v=S_1o_0o_0oU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=S_1o_0o_0oU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631493
+  },
+  "https://www.youtube.com/watch?v=T_3o_2o_2oU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=T_3o_2o_2oU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631494
+  },
+  "https://www.youtube.com/watch?v=Y_9o_8o_8oY": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=Y_9o_8o_8oY",
+    "reason": "oembed-error",
+    "timestamp": 1754651631495
+  },
+  "https://www.youtube.com/watch?v=A-n8sI-qC_E": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=A-n8sI-qC_E",
+    "reason": "oembed-error",
+    "timestamp": 1754651631503
+  },
+  "https://www.youtube.com/watch?v=t-Qkcz8R-eQ": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=t-Qkcz8R-eQ",
+    "reason": "oembed-error",
+    "timestamp": 1754651631569
+  },
+  "https://www.youtube.com/watch?v=a_5u_4u_4uE": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=a_5u_4u_4uE",
+    "reason": "oembed-error",
+    "timestamp": 1754651631570
+  },
+  "https://www.youtube.com/watch?v=Z_3o_2o_2oU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=Z_3o_2o_2oU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631582
+  },
+  "https://www.youtube.com/watch?v=X_1o_0o_0oU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=X_1o_0o_0oU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631809
+  },
+  "https://www.youtube.com/watch?v=W_9o_8o_8oY": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=W_9o_8o_8oY",
+    "reason": "oembed-error",
+    "timestamp": 1754651631583
+  },
+  "https://www.youtube.com/watch?v=UeA5X-3yV_g": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=UeA5X-3yV_g",
+    "reason": "oembed-error",
+    "timestamp": 1754651631627
+  },
+  "https://www.youtube.com/watch?v=gT8yM-4M-yQ": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=gT8yM-4M-yQ",
+    "reason": "oembed-error",
+    "timestamp": 1754651631628
+  },
+  "https://www.youtube.com/watch?v=T0lYhXGgD8s": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=T0lYhXGgD8s",
+    "reason": "oembed-error",
+    "timestamp": 1754651631656
+  },
+  "https://www.youtube.com/watch?v=F0fKz_Vv5qM": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=F0fKz_Vv5qM",
+    "reason": "oembed-error",
+    "timestamp": 1754651631694
+  },
+  "https://www.youtube.com/watch?v=VlS-zTSD4-I": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=VlS-zTSD4-I",
+    "reason": "oembed-error",
+    "timestamp": 1754651631693
+  },
+  "https://koreanly.com/eom-euroseo/": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://koreanly.com/eom-euroseo/",
+    "timestamp": 1754651631696
+  },
+  "https://www.youtube.com/watch?v=H_1o_0o_0oU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=H_1o_0o_0oU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631714
+  },
+  "https://www.youtube.com/watch?v=c_9o_8o_8oY": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=c_9o_8o_8oY",
+    "reason": "oembed-error",
+    "timestamp": 1754651631718
+  },
+  "https://www.youtube.com/watch?v=b_7u_6u_6uS": {
+    "status": "broken",
+    "code": 400,
+    "finalUrl": "https://www.youtube.com/watch?v=b_7u_6u_6uS",
+    "reason": "oembed-error",
+    "timestamp": 1754651631724
+  },
+  "https://www.youtube.com/watch?v=J_8u_7u_7uS": {
+    "status": "broken",
+    "code": 400,
+    "finalUrl": "https://www.youtube.com/watch?v=J_8u_7u_7uS",
+    "reason": "oembed-error",
+    "timestamp": 1754651631763
+  },
+  "https://www.youtube.com/watch?v=rTOfpWnI_w8": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=rTOfpWnI_w8",
+    "reason": "oembed-error",
+    "timestamp": 1754651631764
+  },
+  "https://www.youtube.com/watch?v=d_1o_0o_0oU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=d_1o_0o_0oU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631769
+  },
+  "https://www.youtube.com/watch?v=PqM6v-lI8yY": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=PqM6v-lI8yY",
+    "reason": "oembed-error",
+    "timestamp": 1754651631792
+  },
+  "https://www.youtube.com/watch?v=P_4q_3q_3qQ": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=P_4q_3q_3qQ",
+    "reason": "oembed-error",
+    "timestamp": 1754651631795
+  },
+  "https://www.youtube.com/watch?v=e_3o_2o_2oU": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://www.youtube.com/watch?v=e_3o_2o_2oU",
+    "reason": "oembed-error",
+    "timestamp": 1754651631841
+  },
+  "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-87/": {
+    "status": "ok",
+    "code": 200,
+    "finalUrl": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-87/",
+    "timestamp": 1754651632087
+  },
+  "https://domandhyo.com/2021/04/korean-particle-eobsi-without.html": {
+    "status": "broken",
+    "code": 404,
+    "finalUrl": "https://domandhyo.com/2021/04/korean-particle-eobsi-without.html",
+    "timestamp": 1754651632729
+  }
+}

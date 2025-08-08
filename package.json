@@ -1,0 +1,21 @@
+{
+  "name": "korean_grammar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extract": "node ./scripts/extract-grammar.mjs",
+    "merge": "node ./scripts/merge-content.mjs",
+    "apply-updates": "node ./scripts/apply-updates.mjs",
+    "validate": "node ./scripts/validate-grammar.mjs",
+    "report": "node ./scripts/report-missing.mjs",
+    "summary": "node ./scripts/report-summary.mjs",
+    "build-content": "npm run extract && npm run merge && npm run apply-updates && npm run validate",
+    "serve": "npx --yes serve . --single",
+    "check-links": "node ./scripts/check-links.mjs",
+    "remove-broken-links": "node ./scripts/remove-broken-links.mjs",
+    "ingest-incoming-resources": "node ./scripts/ingest-incoming-resources.mjs",
+    "clean-reports": "rm -f ./content/report-*.json && echo 'Reports cleaned.'"
+  }
+}
+
+

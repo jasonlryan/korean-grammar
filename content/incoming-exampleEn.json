@@ -1,0 +1,274 @@
+[
+  {
+    "__index": 2,
+    "chapter": 1,
+    "title": "선택을 나타낼 때",
+    "subtitle": "Expressing choices",
+    "pattern": "-건 -건",
+    "example": "날씨가 덥건 춥건 운동은 해야 해요.",
+    "exampleEn": "Whether it's hot or cold, you have to exercise.",
+    "videoLink": "https://www.youtube.com/watch?v=_sMRe-DiJZc"
+  },
+  {
+    "__index": 5,
+    "chapter": 2,
+    "title": "인용을 나타낼 때",
+    "subtitle": "Reporting / quoting",
+    "pattern": "-다기에",
+    "example": "맛있다기에 먹어봤어요.",
+    "exampleEn": "I tried it because (they said) it was delicious.",
+    "videoLink": "https://www.youtube.com/watch?v=bJr2sX3P4bo"
+  },
+  {
+    "__index": 4,
+    "chapter": 2,
+    "title": "인용을 나타낼 때",
+    "subtitle": "Reporting / quoting",
+    "pattern": "-대요/-래요",
+    "example": "민수가 내일 온대요.",
+    "exampleEn": "Minsu says he's coming tomorrow.",
+    "videoLink": "https://www.youtube.com/watch?v=5MqQQ2vEHB8"
+  },
+  {
+    "__index": 7,
+    "chapter": 3,
+    "title": "명사화",
+    "subtitle": "Nominalisation & fact statements",
+    "pattern": "-기",
+    "example": "한국어 배우기가 어려워요.",
+    "exampleEn": "Learning Korean is difficult.",
+    "videoLink": "https://www.youtube.com/watch?v=LbOkARSkigs"
+  },
+  {
+    "__index": 9,
+    "chapter": 3,
+    "title": "명사화",
+    "subtitle": "Nominalisation & fact statements",
+    "pattern": "-는 것",
+    "example": "한국어를 배우는 것이 재미있어요.",
+    "exampleEn": "Learning Korean is interesting.",
+    "videoLink": "https://www.youtube.com/watch?v=8nCqj42VZQA"
+  },
+  {
+    "__index": 10,
+    "chapter": 3,
+    "title": "명사화",
+    "subtitle": "Nominalisation & fact statements",
+    "pattern": "-바",
+    "example": "제가 아는 바로는...",
+    "exampleEn": "As far as I know...",
+    "videoLink": "https://www.youtube.com/watch?v=vF0JcBRQPmI"
+  },
+  {
+    "__index": 20,
+    "chapter": 6,
+    "title": "순차 & 기회",
+    "subtitle": "Sequence & \"while I'm at it\"",
+    "pattern": "-(으)ㄴ/는 김에",
+    "example": "마트에 가는 김에 우유도 사세요.",
+    "exampleEn": "While you're going to the mart, buy some milk too.",
+    "videoLink": "https://www.youtube.com/watch?v=1dmW_3tHWJg"
+  },
+  {
+    "__index": 19,
+    "chapter": 6,
+    "title": "순차 & 기회",
+    "subtitle": "Sequence & \"while I'm at it\"",
+    "pattern": "-고서야",
+    "example": "숙제를 다 하고서야 놀 수 있어요.",
+    "exampleEn": "Only after finishing homework can you play.",
+    "videoLink": "https://www.youtube.com/watch?v=XdGkl6P7oAg"
+  },
+  {
+    "__index": 21,
+    "chapter": 6,
+    "title": "순차 & 기회",
+    "subtitle": "Sequence & \"while I'm at it\"",
+    "pattern": "-기 위해(서)",
+    "example": "한국어를 배우기 위해서 한국에 왔어요.",
+    "exampleEn": "I came to Korea in order to learn Korean.",
+    "videoLink": "https://www.youtube.com/watch?v=40Hq8QXqgCo"
+  },
+  {
+    "__index": 25,
+    "chapter": 7,
+    "title": "조건 & 의존",
+    "subtitle": "Conditions & dependence",
+    "pattern": "-기에 달려 있다",
+    "example": "결과는 당신의 노력에 달려 있어요.",
+    "exampleEn": "The result depends on your effort.",
+    "videoLink": "https://www.youtube.com/watch?v=8EbqPDXO0w0"
+  },
+  {
+    "__index": 26,
+    "chapter": 8,
+    "title": "따로·같이",
+    "subtitle": "Listing hectic actions",
+    "pattern": "-(으)랴 -(으)랴",
+    "example": "청소하랴 요리하랴 바빠요.",
+    "exampleEn": "I'm busy cleaning and cooking (and everything else).",
+    "videoLink": "https://www.youtube.com/watch?v=BssFygCpD0Y"
+  },
+  {
+    "__index": 27,
+    "chapter": 8,
+    "title": "따로·같이",
+    "subtitle": "Listing hectic actions",
+    "pattern": "-(이)며 -(이)며",
+    "example": "책이며 펜이며 모두 가져가세요.",
+    "exampleEn": "Take everything - books, pens, and all.",
+    "videoLink": "https://www.youtube.com/watch?v=Mj5FSKI96Lk"
+  },
+  {
+    "__index": 28,
+    "chapter": 9,
+    "title": "대조",
+    "subtitle": "Contrast",
+    "pattern": "-(으)ㄴ 반면(에)",
+    "example": "형은 키가 큰 반면에 동생은 작아요.",
+    "exampleEn": "While the older brother is tall, the younger one is short.",
+    "videoLink": "https://www.youtube.com/watch?v=kJEx0vRZLgo"
+  },
+  {
+    "__index": 29,
+    "chapter": 9,
+    "title": "대조",
+    "subtitle": "Contrast",
+    "pattern": "-는 대신(에)",
+    "example": "돈 대신에 카드로 계산할게요.",
+    "exampleEn": "I'll pay by card instead of cash.",
+    "videoLink": "https://www.youtube.com/watch?v=CgfBF0oVseY"
+  },
+  {
+    "__index": 30,
+    "chapter": 10,
+    "title": "유사",
+    "subtitle": "Similarity & virtuality",
+    "pattern": "-(으)ㄴ 셈이다",
+    "example": "이미 끝난 셈이에요.",
+    "exampleEn": "It's as good as finished already.",
+    "videoLink": "https://www.youtube.com/watch?v=p6G0s8IkX7I"
+  },
+  {
+    "__index": 31,
+    "chapter": 10,
+    "title": "유사",
+    "subtitle": "Similarity & virtuality",
+    "pattern": "-(으)나 마나",
+    "example": "말해도 소용없으니까 말하나 마나예요.",
+    "exampleEn": "There's no point in saying it, so it's the same whether you say it or not.",
+    "videoLink": "https://www.youtube.com/watch?v=5Dqr6mLRZnU"
+  },
+  {
+    "__index": 63,
+    "chapter": 19,
+    "title": "원인 표현",
+    "subtitle": "Cause expressions",
+    "pattern": "-는 까닭에",
+    "example": "그런 까닭에 결정을 바꿨어요.",
+    "exampleEn": "For that reason, I changed my decision.",
+    "videoLink": "https://www.youtube.com/watch?v=Z4fPzw_EPUU"
+  },
+  {
+    "__index": 66,
+    "chapter": 20,
+    "title": "정도 표현",
+    "subtitle": "Degree expressions",
+    "pattern": "-(으)ㄹ 정도로",
+    "example": "죽을 정도로 아팠어요.",
+    "exampleEn": "I was so sick I thought I would die.",
+    "videoLink": "https://www.youtube.com/watch?v=ioreZSa-lVE"
+  },
+  {
+    "__index": 64,
+    "chapter": 20,
+    "title": "정도 표현",
+    "subtitle": "Degree expressions",
+    "pattern": "-는 정도",
+    "example": "울 정도로 감동했어요.",
+    "exampleEn": "I was moved to the point of tears.",
+    "videoLink": "https://www.youtube.com/watch?v=ioreZSa-lVE"
+  },
+  {
+    "__index": 65,
+    "chapter": 20,
+    "title": "정도 표현",
+    "subtitle": "Degree expressions",
+    "pattern": "-아/어서",
+    "example": "너무 추워서 나갈 수 없어요.",
+    "exampleEn": "It's so cold that I can't go out.",
+    "videoLink": "https://www.youtube.com/watch?v=YcbMtBq3XDo"
+  },
+  {
+    "__index": 68,
+    "chapter": 21,
+    "title": "상황 표현",
+    "subtitle": "Situation expressions",
+    "pattern": "-는 가운데",
+    "example": "많은 사람들이 지켜보는 가운데 연설했어요.",
+    "exampleEn": "I gave a speech while many people were watching.",
+    "videoLink": "https://www.youtube.com/watch?v=dKzY64PommE"
+  },
+  {
+    "__index": 70,
+    "chapter": 21,
+    "title": "상황 표현",
+    "subtitle": "Situation expressions",
+    "pattern": "-는 도중에",
+    "example": "회의하는 도중에 전화가 왔어요.",
+    "exampleEn": "A phone call came during the meeting.",
+    "videoLink": "https://www.youtube.com/watch?v=c7GMQwg0yYw"
+  },
+  {
+    "__index": 69,
+    "chapter": 21,
+    "title": "상황 표현",
+    "subtitle": "Situation expressions",
+    "pattern": "-는 동안",
+    "example": "방학 동안 여행을 갔어요.",
+    "exampleEn": "I went traveling during vacation.",
+    "videoLink": "https://www.youtube.com/watch?v=7iSeR8sZjfU"
+  },
+  {
+    "__index": 67,
+    "chapter": 21,
+    "title": "상황 표현",
+    "subtitle": "Situation expressions",
+    "pattern": "-는 중",
+    "example": "지금 공부하는 중이에요.",
+    "exampleEn": "I'm studying right now.",
+    "videoLink": "https://www.youtube.com/watch?v=3nwLWwQC4kE"
+  },
+  {
+    "__index": 73,
+    "chapter": 22,
+    "title": "기타 고급 표현",
+    "subtitle": "Other advanced expressions",
+    "pattern": "-고서",
+    "example": "숙제를 하고서 놀았어요.",
+    "exampleEn": "I played after doing my homework.",
+    "videoLink": "https://www.youtube.com/watch?v=0GzvDfyPUMg"
+  },
+  {
+    "__index": 71,
+    "chapter": 22,
+    "title": "기타 고급 표현",
+    "subtitle": "Other advanced expressions",
+    "pattern": "-는 길에",
+    "example": "집에 가는 길에 마트에 들렀어요.",
+    "exampleEn": "I stopped by the mart on my way home.",
+    "videoLink": "https://www.youtube.com/watch?v=MxYNMH8cWq8"
+  },
+  {
+    "__index": 72,
+    "chapter": 22,
+    "title": "기타 고급 표현",
+    "subtitle": "Other advanced expressions",
+    "pattern": "-는 참에",
+    "example": "청소하는 참에 정리도 했어요.",
+    "exampleEn": "While I was cleaning, I also organized things.",
+    "videoLink": "https://www.youtube.com/watch?v=PxlJWvzpg-8"
+  }
+]
+
+

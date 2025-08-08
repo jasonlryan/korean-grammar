@@ -1,0 +1,50 @@
+[
+  {
+    "chapter": 4,
+    "pattern": "(으)로 인해서",
+    "example": "사고로 인해서 교통이 마비되었다.",
+    "__index": 81
+  },
+  {
+    "chapter": 4,
+    "pattern": "(으)로 말미암아",
+    "example": "태풍으로 말미암아 큰 피해가 발생했다.",
+    "__index": 82
+  },
+  {
+    "chapter": 4,
+    "pattern": "-느니만큼",
+    "example": "도와주기로 했느니만큼 책임을 다해야죠.",
+    "__index": 83
+  },
+  {
+    "chapter": 4,
+    "pattern": "-는 이상",
+    "example": "약속한 이상 지켜야 합니다.",
+    "__index": 84
+  },
+  {
+    "chapter": 4,
+    "pattern": "-기로서니",
+    "example": "바쁘기로서니 연락 한 번은 할 수 있잖아요.",
+    "__index": 85
+  },
+  {
+    "chapter": 4,
+    "pattern": "-기에 망정이지",
+    "example": "빨리 발견했기에 망정이지 큰일 날 뻔했어요.",
+    "__index": 86
+  },
+  {
+    "chapter": 4,
+    "pattern": "-(느)ㄴ답시고",
+    "example": "도와준답시고 오히려 방해만 했어요.",
+    "__index": 87
+  },
+  {
+    "chapter": 4,
+    "pattern": "-(으)ㅁ으로써",
+    "example": "협력함으로써 시너지를 냈다.",
+    "__index": 88
+  }
+]

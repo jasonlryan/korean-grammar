@@ -1,0 +1,1462 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Korean Grammar in Use (Advanced) - Complete Video Learning Guide</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Noto Sans KR', 'Inter', sans-serif;
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+        }
+        .nav-link.active {
+            background: linear-gradient(135deg, #0ea5e9, #0284c7);
+            color: white;
+            font-weight: 600;
+        }
+        .grammar-card {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e2e8f0;
+            margin-bottom: 2rem;
+        }
+        .pattern-title {
+            background: linear-gradient(135deg, #1e40af, #3b82f6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 700;
+        }
+        .example-box {
+            background: linear-gradient(135deg, #fef3c7, #fde68a);
+            border-left: 4px solid #f59e0b;
+            padding: 16px;
+            border-radius: 8px;
+            margin: 12px 0;
+        }
+        .tip-box {
+            background: linear-gradient(135deg, #dbeafe, #bfdbfe);
+            border-left: 4px solid #3b82f6;
+            padding: 16px;
+            border-radius: 8px;
+            margin: 12px 0;
+        }
+        .korean-text {
+            font-weight: 500;
+            color: #1e40af;
+        }
+        .english-text {
+            color: #64748b;
+            font-style: italic;
+        }
+        .chapter-badge {
+            background: linear-gradient(135deg, #10b981, #059669);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .video-container {
+            background: #f8fafc;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 16px;
+            border: 2px dashed #cbd5e1;
+            display: none;
+        }
+        .video-container.show {
+            display: block;
+            animation: slideDown 0.3s ease-out;
+        }
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .video-button {
+            background: linear-gradient(135deg, #dc2626, #b91c1c);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 25px;
+            font-weight: 600;
+            transition: all 0.3s;
+            border: none;
+            cursor: pointer;
+        }
+        .video-button:hover {
+            background: linear-gradient(135deg, #b91c1c, #991b1b);
+            transform: translateY(-1px);
+        }
+        .resource-report {
+            background: linear-gradient(135deg, #f0fdf4, #dcfce7);
+            border-left: 4px solid #16a34a;
+            padding: 12px;
+            border-radius: 8px;
+            margin: 12px 0;
+            font-size: 14px;
+        }
+        .resource-type {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 12px;
+            margin-right: 6px;
+        }
+        .video-res { background-color: #fecaca; color: #b91c1c; }
+        .article-res { background-color: #bbf7d0; color: #15803d; }
+        .interactive-res { background-color: #bfdbfe; color: #1d4ed8; }
+    </style>
+</head>
+<body class="text-gray-800">
+    <div class="flex flex-col lg:flex-row min-h-screen">
+        <!-- Sidebar Navigation -->
+        <aside class="w-full lg:w-80 bg-white border-r border-gray-200 flex-shrink-0 shadow-lg">
+            <div class="p-6 border-b border-gray-200 bg-gradient-to-r from-blue-600 to-blue-700 text-white">
+                <h1 class="text-xl font-bold">고급 한국어 문법</h1>
+                <p class="text-sm text-blue-100">Korean Grammar in Use - Advanced</p>
+                <div class="flex gap-2 mt-3">
+                    <span class="chapter-badge">✅ 66 Resources</span>
+                    <span class="chapter-badge">📚 22 Chapters</span>
+                </div>
+            </div>
+            <nav id="chapter-nav" class="p-3 space-y-2">
+                <!-- Navigation will be populated by JavaScript -->
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="flex-1 p-6 lg:p-8">
+            <div class="max-w-5xl mx-auto">
+                <div class="mb-8">
+                    <input type="text" id="search-input" placeholder="문법 검색... (예: -느니, -다가, -만큼)" 
+                           class="w-full px-6 py-4 text-lg border-2 border-gray-300 rounded-full focus:ring-4 focus:ring-blue-500 focus:border-blue-500 transition shadow-lg">
+                </div>
+                
+                <div class="mb-8 pb-4 border-b-2 border-gray-200" id="content-header">
+                    <h2 id="chapter-title" class="text-3xl font-bold text-gray-800"></h2>
+                    <p id="chapter-subtitle" class="text-lg text-gray-600 mt-2"></p>
+                </div>
+
+                <div id="grammar-cards-container">
+                    <!-- Content will be populated by JavaScript -->
+                </div>
+
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // Content now loaded from grammar.json only
+        let grammarData = [];
+        /* INLINE_LEGACY_CONTENT
+        let grammarData_legacy = [
+            // Chapter 1: Expressing choices
+            { 
+                chapter: 1, 
+                title: '선택을 나타낼 때', 
+                subtitle: 'Expressing choices', 
+                pattern: '-느니', 
+                example: '비 오느니 차라리 집에 있을래.', 
+                tip: 'Use this when choosing the "lesser of two evils." Both options are undesirable, but you\'re picking the one that\'s slightly better. Often used with 차라리 (rather).', 
+                videoUrl: 'https://www.youtube.com/watch?v=iVArQbPOFX4', 
+                videoTitle: 'How to use -느니 (Rather than...)', 
+                channel: 'KoreanClass101',
+                resourceType: 'video',
+                resourceNote: 'Directly teaches -느니 with clear examples and comparisons to similar patterns'
+            },
+            { 
+                chapter: 1, 
+                title: '선택을 나타낼 때', 
+                subtitle: 'Expressing choices', 
+                pattern: '-(으)ㄹ 바에야', 
+                example: '늦게 출발할 바에야 안 가는 게 낫죠.', 
+                tip: 'Stronger than -느니. It implies that because the first option is so bad, doing the second (often opposite) action is a much better choice.', 
+                videos: [
+                    { url: 'https://www.youtube.com/watch?v=8MRi7HQefG0', title: 'Advanced Korean Grammar: -(으)ㄹ 바에야', channel: 'Korean Studio' },
+                    { url: 'https://www.youtube.com/watch?v=fY9F_vBjMcQ', title: '-(으)ㄹ 바에(야)', channel: 'Tammy Korean' }
+                ],
+                resourceType: 'video',
+                resourceNote: 'Two focused lessons presenting nuances and examples from different instructors'
+            },
+            { 
+                chapter: 1, 
+                title: '선택을 나타낼 때', 
+                subtitle: 'Expressing choices', 
+                pattern: '-건 -건', 
+                example: '날씨가 덥건 춥건 운동은 해야 해요.', 
+                tip: 'Connects two contrasting words to mean "regardless of whether it\'s A or B." The outcome remains the same.', 
+                videos: [
+                    { url: 'https://www.youtube.com/watch?v=ucgcrqi5iY8', title: 'Korean Advanced Grammar │-건', channel: 'masterTOPIK' },
+                    { url: 'https://www.youtube.com/watch?v=BiM2f7O0xd0', title: '-건 -건', channel: '김광순 Korean' }
+                ],
+                resourceType: 'video',
+                resourceNote: 'Two solid explanations; one TOPIK-oriented, one usage-focused'
+            },
+
+            // Chapter 2: Reporting/quoting
+            { 
+                chapter: 2, 
+                title: '인용을 나타낼 때', 
+                subtitle: 'Reporting / quoting', 
+                pattern: '-다면서(요)', 
+                example: '내일 비가 온다면서요?', 
+                tip: 'Used to confirm information you heard from someone else. Often has a questioning tone, seeking confirmation.', 
+                videoUrl: 'https://www.youtube.com/watch?v=Ow8EyRiAEqQ', 
+                videoTitle: '다면서요 vs 다니까요 - Differences Explained', 
+                channel: 'Korean with Ina',
+                resourceType: 'video',
+                resourceNote: 'Compares similar patterns to prevent confusion'
+            },
+            { 
+                chapter: 2, 
+                title: '인용을 나타낼 때', 
+                subtitle: 'Reporting / quoting', 
+                pattern: '-대요/-래요', 
+                example: '민수가 내일 온대요.', 
+                tip: 'Used to report what someone else said. -대요 for statements, -래요 for questions/commands.', 
+                videoUrl: 'https://www.youtube.com/watch?v=Ow8EyRiAEqQ', 
+                videoTitle: '대요 & -(이)래요 grammar / Intermediate Level', 
+                channel: 'Korean Practice Channel',
+                resourceType: 'video',
+                resourceNote: 'Clear explanation with conversation examples'
+            },
+            { 
+                chapter: 2, 
+                title: '인용을 나타낼 때', 
+                subtitle: 'Reporting / quoting', 
+                pattern: '-다기에', 
+                example: '맛있다기에 먹어봤어요.', 
+                tip: 'Used when you do something based on what you heard from others. Shows the reason for your action.', 
+                videoUrl: 'https://www.youtube.com/watch?v=sbn1tCGvFSg', 
+                videoTitle: '-다기에', 
+                channel: 'Tammy Korean',
+                resourceType: 'video',
+                resourceNote: 'Focused lesson with practical examples'
+            },
+            { 
+                chapter: 2, 
+                title: '인용을 나타낼 때', 
+                subtitle: 'Reporting / quoting', 
+                pattern: '-다니까(요)', 
+                example: '아니라니까요!', 
+                tip: 'Used to emphasize or insist on what you\'re saying, often when the listener doesn\'t believe you.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-59-66/lesson-63/', 
+                resourceTitle: 'Lesson 63: Quoting in Korean', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Comprehensive guide with interactive exercises'
+            },
+
+            // Chapter 3: Nominalization
+            { 
+                chapter: 3, 
+                title: '명사화', 
+                subtitle: 'Nominalisation & fact statements', 
+                pattern: '-기', 
+                example: '한국어 배우기가 어려워요.', 
+                tip: 'Turns verbs into nouns. Used for general activities or habits.', 
+                videoUrl: 'https://www.youtube.com/watch?v=4IwwOdzmZ6Y', 
+                videoTitle: 'Learn Korean Ep. 10: Nominalization | ~기, ~는 것, ~음/ㅁ', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Compares all nominalization forms'
+            },
+            { 
+                chapter: 3, 
+                title: '명사화', 
+                subtitle: 'Nominalisation & fact statements', 
+                pattern: '-음/-ㅁ', 
+                example: '그의 잘못임이 확실해요.', 
+                tip: 'Formal nominalization. Often used in written Korean and formal speech.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-44/', 
+                resourceTitle: 'Lesson 44: Nominalization ~는 것 vs ~기 vs ~ㅁ/음', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Detailed comparison with practice quizzes'
+            },
+            { 
+                chapter: 3, 
+                title: '명사화', 
+                subtitle: 'Nominalisation & fact statements', 
+                pattern: '-는 것', 
+                example: '한국어를 배우는 것이 재미있어요.', 
+                tip: 'Most common way to nominalize verbs. Can be shortened to -는 거 in casual speech.', 
+                videoUrl: 'https://www.youtube.com/watch?v=4IwwOdzmZ6Y', 
+                videoTitle: 'Learn Korean Ep. 10: Nominalization | ~기, ~는 것, ~음/ㅁ', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Practical usage in everyday conversation'
+            },
+            { 
+                chapter: 3, 
+                title: '명사화', 
+                subtitle: 'Nominalisation & fact statements', 
+                pattern: '-바', 
+                example: '제가 아는 바로는...', 
+                tip: 'Formal dependent noun meaning "fact" or "thing." Often used in formal contexts.', 
+                videoUrl: 'https://www.youtube.com/watch?v=tPiV4q28F5Y', 
+                videoTitle: 'Live Korean Class | [Advanced] Dependent Noun 바 vs 것', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Live class format with Q&A'
+            },
+            { 
+                chapter: 3, 
+                title: '명사화', 
+                subtitle: 'Nominalisation & fact statements', 
+                pattern: '-는 바', 
+                example: '제가 보는 바로는 틀렸어요.', 
+                tip: 'Formal way to express "from what I see/know." Used in formal speech and writing.', 
+                videoUrl: 'https://www.youtube.com/watch?v=tPiV4q28F5Y', 
+                videoTitle: 'Live Korean Class | [Advanced] Dependent Noun 바 vs 것', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Detailed explanation with formal examples'
+            },
+
+            // Chapter 4: Formal causes
+            { 
+                chapter: 4, 
+                title: '원인과 이유', 
+                subtitle: 'Formal causes', 
+                pattern: '-는 통에', 
+                example: '아이들이 떠드는 통에 잠을 못 잤어요.', 
+                tip: 'Used to express a chaotic or troublesome situation that causes a negative result.', 
+                videoUrl: 'https://www.youtube.com/watch?v=WRb83QkeHw0', 
+                videoTitle: 'Korean Grammar Intermediate-level (158) V는 통에, V는 바람에', 
+                channel: 'Teacher Jinee\'s Korean Class',
+                resourceType: 'video',
+                resourceNote: 'Compares similar cause expressions'
+            },
+            { 
+                chapter: 4, 
+                title: '원인과 이유', 
+                subtitle: 'Formal causes', 
+                pattern: '-(으)로 말미암아', 
+                example: '태풍으로 말미암아 피해가 컸어요.', 
+                tip: 'Very formal way to express cause. Often used in news, reports, and formal writing.', 
+                videoUrl: 'https://www.youtube.com/watch?v=LFX7S2yXAJA', 
+                videoTitle: '[#고급문법] 으로/로말미암아 #말미암아', 
+                channel: 'Korean Advanced Grammar',
+                resourceType: 'video',
+                resourceNote: 'News-style examples and usage'
+            },
+            { 
+                chapter: 4, 
+                title: '원인과 이유', 
+                subtitle: 'Formal causes', 
+                pattern: '-(으)로 인해서', 
+                example: '사고로 인해서 지각했어요.', 
+                tip: 'Formal way to express "due to" or "because of." Common in formal speech and writing.', 
+                videoUrl: 'https://www.youtube.com/watch?v=ouuBf8opagA', 
+                videoTitle: '[Korean/Coreano] N으로 인해서 (because of) grammar', 
+                channel: 'HANIJEMI Korean Lesson',
+                resourceType: 'video',
+                resourceNote: 'Business Korean usage examples'
+            },
+
+            // Chapter 5: Hypothesis & concession
+            { 
+                chapter: 5, 
+                title: '가정·양보', 
+                subtitle: 'Hypothesis & concession', 
+                pattern: '-(으)ㄹ지라도', 
+                example: '비가 올지라도 갈 거예요.', 
+                tip: 'Formal way to say "even if." More formal than -더라도.', 
+                videoUrl: 'https://www.youtube.com/watch?v=AdsnFvvlSx4', 
+                videoTitle: 'Live Korean Class | [Advanced] ~더라도 & ~ㄹ지라도 "Even If"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Compares formal and informal versions'
+            },
+            { 
+                chapter: 5, 
+                title: '가정·양보', 
+                subtitle: 'Hypothesis & concession', 
+                pattern: '-더라도', 
+                example: '힘들더라도 포기하지 마세요.', 
+                tip: 'Used to express "even if" or "even though." Shows concession.', 
+                videoUrl: 'https://www.youtube.com/watch?v=AdsnFvvlSx4', 
+                videoTitle: 'Live Korean Class | [Advanced] ~더라도 & ~ㄹ지라도 "Even If"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Practical conversation examples'
+            },
+            { 
+                chapter: 5, 
+                title: '가정·양보', 
+                subtitle: 'Hypothesis & concession', 
+                pattern: '-(으)ㄴ들', 
+                example: '돈이 많은들 행복할까요?', 
+                tip: 'Rhetorical "even if." Often used in questions to suggest the answer is negative.', 
+                videoUrl: 'https://www.youtube.com/watch?v=SIlPBJZokg4', 
+                videoTitle: 'Live Korean Class | [Intermediate] 리가 없다 "There\'s no way"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Focus on rhetorical usage'
+            },
+            { 
+                chapter: 5, 
+                title: '가정·양보', 
+                subtitle: 'Hypothesis & concession', 
+                pattern: '-(으)ㄹ 망정', 
+                example: '죽을 망정 포기하지 않겠어요.', 
+                tip: 'Strong expression meaning "would rather" or "even if it means." Shows extreme determination.', 
+                videoUrl: 'https://www.youtube.com/watch?v=dUEEijhzYi0', 
+                videoTitle: '고급 문법 / "-을망정" 문법 배우기 / Learning Korean', 
+                channel: 'Korean Advanced Grammar',
+                resourceType: 'video',
+                resourceNote: 'Dramatic examples from K-dramas'
+            },
+
+            // Chapter 6: Sequence & opportunity
+            { 
+                chapter: 6, 
+                title: '순차 & 기회', 
+                subtitle: 'Sequence & "while I\'m at it"', 
+                pattern: '-고서야', 
+                example: '숙제를 다 하고서야 놀 수 있어요.', 
+                tip: 'Emphasizes that something happens only after completing the first action.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/', 
+                resourceTitle: 'Lesson 72: ~고서야, ~고 나서야', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Detailed comparison with similar patterns'
+            },
+            { 
+                chapter: 6, 
+                title: '순차 & 기회', 
+                subtitle: 'Sequence & "while I\'m at it"', 
+                pattern: '-(으)ㄴ/는 김에', 
+                example: '마트에 가는 김에 우유도 사세요.', 
+                tip: 'Used when doing something additional "while you\'re at it" or taking advantage of an opportunity.', 
+                videoUrl: 'https://www.youtube.com/watch?v=H0ykZKNF0JU', 
+                videoTitle: 'Korean Grammar - ~김에 (While you\'re at it)', 
+                channel: 'Learn Korean with KoreanClass101.com',
+                resourceType: 'video',
+                resourceNote: 'Practical daily life examples'
+            },
+            { 
+                chapter: 6, 
+                title: '순차 & 기회', 
+                subtitle: 'Sequence & "while I\'m at it"', 
+                pattern: '-기 위해(서)', 
+                example: '한국어를 배우기 위해서 한국에 왔어요.', 
+                tip: 'Expresses purpose - "in order to" or "for the purpose of."', 
+                videoUrl: 'https://www.youtube.com/watch?v=zVUqw32OSTI', 
+                videoTitle: 'Korean Grammar - How to use 위해 or 위해서', 
+                channel: 'Korean Grammar Channel',
+                resourceType: 'video',
+                resourceNote: 'Clear beginner to advanced progression'
+            },
+
+            // Chapter 7: Conditions & dependence
+            { 
+                chapter: 7, 
+                title: '조건 & 의존', 
+                subtitle: 'Conditions & dependence', 
+                pattern: '-는 한', 
+                example: '살아있는 한 포기하지 않겠어요.', 
+                tip: 'Means "as long as" or "while." Shows a condition that must be maintained.', 
+                videoUrl: 'https://www.youtube.com/watch?v=ijmgIvPwp5k', 
+                videoTitle: 'Live Korean Class | [Advanced] 한 "As long as"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Live class format with student questions'
+            },
+            { 
+                chapter: 7, 
+                title: '조건 & 의존', 
+                subtitle: 'Conditions & dependence', 
+                pattern: '-노라면', 
+                example: '계속 공부하노라면 실력이 늘 거예요.', 
+                tip: 'Means "if you keep doing" something. Shows a continuous action leading to a result.', 
+                videoUrl: 'https://www.youtube.com/watch?v=UjCe3PGKtAU', 
+                videoTitle: 'Live Korean Class | [Advanced] ~다 보면 "If you keep..."', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Focus on continuous action forms'
+            },
+            { 
+                chapter: 7, 
+                title: '조건 & 의존', 
+                subtitle: 'Conditions & dependence', 
+                pattern: '-기 나름이다', 
+                example: '성공은 노력하기 나름이에요.', 
+                tip: 'Means "it depends on" how you do something. Shows that the result varies based on approach.', 
+                videoUrl: 'https://www.youtube.com/watch?v=ZKq_VEqSf9k', 
+                videoTitle: 'Depending on (~에 따라서, 나름, 다르다) | Live Class Abridged', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Multiple dependency expressions compared'
+            },
+            { 
+                chapter: 7, 
+                title: '조건 & 의존', 
+                subtitle: 'Conditions & dependence', 
+                pattern: '-기에 달려 있다', 
+                example: '결과는 당신의 노력에 달려 있어요.', 
+                tip: 'Means "depends on" or "is up to." Shows dependency on a factor.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-149/', 
+                resourceTitle: 'Lesson 149: To depend on: ~에 달려 있다', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Comprehensive guide with quizzes'
+            },
+
+            // Chapter 8: Listing hectic actions
+            { 
+                chapter: 8, 
+                title: '따로·같이', 
+                subtitle: 'Listing hectic actions', 
+                pattern: '-(으)랴 -(으)랴', 
+                example: '청소하랴 요리하랴 바빠요.', 
+                tip: 'Lists multiple actions that make someone busy or overwhelmed. Shows hectic situations.', 
+                videoUrl: 'https://www.youtube.com/watch?v=VKIlNQDnkWU', 
+                videoTitle: 'Live Korean Class [Advanced] "About to" ~락 말락 하다 & ~랑 말랑 하다', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Focus on busy/lifestyle expressions'
+            },
+            { 
+                chapter: 8, 
+                title: '따로·같이', 
+                subtitle: 'Listing hectic actions', 
+                pattern: '-(이)며 -(이)며', 
+                example: '책이며 펜이며 모두 가져가세요.', 
+                tip: 'Lists items or actions inclusively. Similar to "including" or "such as."', 
+                videoUrl: 'https://www.youtube.com/watch?v=uejoXZnxr2k', 
+                videoTitle: 'Korean Grammar 201: V/A-으며/며, N-이다 + 며', 
+                channel: 'Basic Korean',
+                resourceType: 'video',
+                resourceNote: 'Clear listing expressions explained'
+            },
+
+            // Chapter 9: Contrast
+            { 
+                chapter: 9, 
+                title: '대조', 
+                subtitle: 'Contrast', 
+                pattern: '-(으)ㄴ 반면(에)', 
+                example: '형은 키가 큰 반면에 동생은 작아요.', 
+                tip: 'Used to show contrast between two things. Means "on the other hand" or "whereas."', 
+                videoUrl: 'https://www.youtube.com/watch?v=5opH-v0kcJo', 
+                videoTitle: 'Learn Korean Ep. 116: 반면에 "On the Other Hand"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Detailed contrast expressions'
+            },
+            { 
+                chapter: 9, 
+                title: '대조', 
+                subtitle: 'Contrast', 
+                pattern: '-는 대신(에)', 
+                example: '돈 대신에 카드로 계산할게요.', 
+                tip: 'Means "instead of" or "in place of." Shows substitution or alternative choice.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-69/', 
+                resourceTitle: 'Lesson 69: Instead of: 대신에', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Comprehensive guide with exercises'
+            },
+
+            // Chapter 10: Similarity & virtuality
+            { 
+                chapter: 10, 
+                title: '유사', 
+                subtitle: 'Similarity & virtuality', 
+                pattern: '-(으)ㄴ 셈이다', 
+                example: '이미 끝난 셈이에요.', 
+                tip: 'Means "practically" or "as good as." Shows that something is virtually the case.', 
+                videoUrl: 'https://www.youtube.com/watch?v=T6KJkF2nVUY', 
+                videoTitle: '셈이다', 
+                channel: 'Teacher Jinee',
+                resourceType: 'video',
+                resourceNote: 'Practical virtual completion expressions'
+            },
+            { 
+                chapter: 10, 
+                title: '유사', 
+                subtitle: 'Similarity & virtuality', 
+                pattern: '-(으)나 마나', 
+                example: '말해도 소용없으니까 말하나 마나예요.', 
+                tip: 'Means "whether or not" with the implication that it doesn\'t matter.', 
+                videoUrl: 'https://www.youtube.com/watch?v=uvEpMDzhNNQ', 
+                videoTitle: 'Learn Korean Ep. 113: (으)나 마나 and 봤자 "No Matter"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Futility expressions explained'
+            },
+            { 
+                chapter: 10, 
+                title: '유사', 
+                subtitle: 'Similarity & virtuality', 
+                pattern: '-는 것과 다름없다', 
+                example: '이건 거짓말하는 것과 다름없어요.', 
+                tip: 'Means "no different from" or "the same as." Shows equivalence.', 
+                videoUrl: 'https://www.youtube.com/watch?v=YzdGqMsxz5k', 
+                videoTitle: '[ Intermediate Korean 57 ] –(이)나 다름없다 , –마저 , –고만 있다', 
+                channel: 'Tammy Korean',
+                resourceType: 'video',
+                resourceNote: 'Equivalence expressions with examples'
+            },
+
+            // Chapter 11: Addition & inclusion
+            { 
+                chapter: 11, 
+                title: '추가·포함', 
+                subtitle: 'Addition & inclusion', 
+                pattern: '-(이)거니와', 
+                example: '비싸거니와 맛도 없어요.', 
+                tip: 'Means "not only... but also." Used to add negative information.', 
+                videoUrl: 'https://www.youtube.com/watch?v=a8tL1B26ZN4', 
+                videoTitle: '거니와 "Not only" | Live Class Abridged', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Negative addition expressions'
+            },
+            { 
+                chapter: 11, 
+                title: '추가·포함', 
+                subtitle: 'Addition & inclusion', 
+                pattern: '-은/는 물론이고', 
+                example: '한국어는 물론이고 중국어도 할 수 있어요.', 
+                tip: 'Means "not to mention" or "of course." Used to add information that\'s even more impressive.', 
+                videoUrl: 'https://www.youtube.com/watch?v=xw3RloPlQJQ', 
+                videoTitle: 'GU5.6 ~은/는 물론이고 not to mention, to say nothing of', 
+                channel: 'Korean Grammar Channel',
+                resourceType: 'video',
+                resourceNote: 'Positive addition expressions'
+            },
+            { 
+                chapter: 11, 
+                title: '추가·포함', 
+                subtitle: 'Addition & inclusion', 
+                pattern: '-조차/-마저', 
+                example: '친구조차 나를 믿지 않아요.', 
+                tip: 'Means "even" with emphasis. -조차 is more formal, -마저 more emotional.', 
+                videoUrl: 'https://www.youtube.com/watch?v=bHLnGFM3bkw', 
+                videoTitle: '도, 까지, 마저, 조차 "Even" | Live Class Abridged', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Comparison of all "even" expressions'
+            },
+            { 
+                chapter: 11, 
+                title: '추가·포함', 
+                subtitle: 'Addition & inclusion', 
+                pattern: '-느니만 못하다', 
+                example: '이 음식은 라면보다 느니만 못해요.', 
+                tip: 'Means "not as good as" or "worse than." Shows inferiority.', 
+                videoUrl: 'https://www.youtube.com/watch?v=HgIX6NUqWsI', 
+                videoTitle: 'Difference between 느니만 못하다 and 만 못하다', 
+                channel: 'Korean Language Teacher',
+                resourceType: 'video',
+                resourceNote: 'Clear comparison of inferiority expressions'
+            },
+
+            // Chapter 12: Habits & tendencies
+            { 
+                chapter: 12, 
+                title: '습관 & 태도', 
+                subtitle: 'Habits & tendencies', 
+                pattern: '-곤 하다', 
+                example: '어릴 때 자주 놀러 가곤 했어요.', 
+                tip: 'Expresses past habits or repeated actions. Similar to "used to."', 
+                videoUrl: 'https://www.youtube.com/watch?v=CAnB-QRas_c', 
+                videoTitle: 'TOPIK II 문법 수업 (6) : [ 곤하다, 기 일쑤이다, 아 대다 ]', 
+                channel: 'Korean TOPIK Study',
+                resourceType: 'video',
+                resourceNote: 'TOPIK-focused habit expressions'
+            },
+            { 
+                chapter: 12, 
+                title: '습관 & 태도', 
+                subtitle: 'Habits & tendencies', 
+                pattern: '-아/어 대다', 
+                example: '아이가 계속 울어 대요.', 
+                tip: 'Shows continuous or repeated action, often with negative connotation.', 
+                videoUrl: 'https://www.youtube.com/watch?v=4hqGCADL0gg', 
+                videoTitle: '~대다 Habits | Live Class Abridged', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Negative habit expressions'
+            },
+            { 
+                chapter: 12, 
+                title: '습관 & 태도', 
+                subtitle: 'Habits & tendencies', 
+                pattern: '-기 일쑤이다', 
+                example: '그는 약속에 늦기 일쑤예요.', 
+                tip: 'Means "it\'s common for" or "tends to." Shows frequent occurrence of undesirable things.', 
+                videoUrl: 'https://www.youtube.com/watch?v=CAnB-QRas_c', 
+                videoTitle: 'TOPIK II 문법 수업 (6) : [ 곤하다, 기 일쑤이다, 아 대다 ]', 
+                channel: 'Korean TOPIK Study',
+                resourceType: 'video',
+                resourceNote: 'Undesirable habits explained'
+            },
+
+            // Chapter 13: Degree & emphasis
+            { 
+                chapter: 13, 
+                title: '정도·강조', 
+                subtitle: 'Degree & emphasis', 
+                pattern: '여간 -지 않다', 
+                example: '여간 어렵지 않아요.', 
+                tip: 'Emphasizes degree - means "extremely" or "quite." Double negative for emphasis.', 
+                videoUrl: 'https://www.youtube.com/watch?v=eMJ2vrfy-i8', 
+                videoTitle: 'Korean expression: 여간 [intermediate/Advanced Korean]', 
+                channel: 'Korean Grammar Channel',
+                resourceType: 'video',
+                resourceNote: 'Emphasis expressions with examples'
+            },
+            { 
+                chapter: 13, 
+                title: '정도·강조', 
+                subtitle: 'Degree & emphasis', 
+                pattern: '-(으)ㄹ 따름이다', 
+                example: '감사할 따름입니다.', 
+                tip: 'Formal expression meaning "just" or "only." Shows humility or limitation.', 
+                videoUrl: 'https://www.youtube.com/watch?v=W_VNm0uffBM', 
+                videoTitle: 'Learn Korean Ep. 127: 뿐이다 & 따름이다 "Only"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Comparison of limitation expressions'
+            },
+            { 
+                chapter: 13, 
+                title: '정도·강조', 
+                subtitle: 'Degree & emphasis', 
+                pattern: '-기(가) 이를 데 없다', 
+                example: '기쁘기가 이를 데 없어요.', 
+                tip: 'Expresses maximum degree - "extremely" or "to the utmost degree."', 
+                resourceUrl: 'https://studying-korean.tistory.com/197', 
+                resourceTitle: 'A-기(가) 이를 데 없다 Korean grammar', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Detailed guide with examples'
+            },
+
+            // Chapter 14: Intentions & plans
+            { 
+                chapter: 14, 
+                title: '의도', 
+                subtitle: 'Intentions & plans', 
+                pattern: '-(으)려들다', 
+                example: '자꾸 간섭하려 들어요.', 
+                tip: 'Shows attempt or intention to do something, often with negative connotation.', 
+                videoUrl: 'https://www.youtube.com/watch?v=SqBA0JHaXug', 
+                videoTitle: 'V-(으)려고 들다', 
+                channel: 'Korean Grammar (Lecture)',
+                resourceType: 'video',
+                resourceNote: 'Negative intention expressions'
+            },
+            { 
+                chapter: 14, 
+                title: '의도', 
+                subtitle: 'Intentions & plans', 
+                pattern: '-(으)ㄹ 작정이다', 
+                example: '이번에는 꼭 성공할 작정이에요.', 
+                tip: 'Shows firm decision or determination. Stronger than simple intention.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-50/', 
+                resourceTitle: 'Lesson 50: ~ㄹ/을 예정, 계획, 준비', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Determination expressions with quizzes'
+            },
+
+            // Chapter 15: Guess & probability
+            { 
+                chapter: 15, 
+                title: '추측·가능성', 
+                subtitle: 'Guess & probability', 
+                pattern: '-(으)ㄹ 법하다', 
+                example: '그럴 법해요.', 
+                tip: 'Expresses likelihood or probability. Means "it\'s likely" or "it\'s probable."', 
+                videoUrl: 'https://www.youtube.com/watch?v=OBeYMklsf64', 
+                videoTitle: 'Live Korean Class [Advanced] ~법하다 "Likely..."', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Probability expressions explained'
+            },
+            { 
+                chapter: 15, 
+                title: '추측·가능성', 
+                subtitle: 'Guess & probability', 
+                pattern: '-(으)ㄹ 리가 없다', 
+                example: '그가 거짓말할 리가 없어요.', 
+                tip: 'Expresses impossibility or disbelief. Means "there\'s no way" or "impossible."', 
+                videoUrl: 'https://www.youtube.com/watch?v=SIlPBJZokg4', 
+                videoTitle: 'Live Korean Class | [Intermediate] 리가 없다 "There\'s no way"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Impossibility expressions'
+            },
+            { 
+                chapter: 15, 
+                title: '추측·가능성', 
+                subtitle: 'Guess & probability', 
+                pattern: '-(으)ㄹ 수밖에 없다', 
+                example: '이렇게 할 수밖에 없어요.', 
+                tip: 'Means "have no choice but to" or "can\'t help but." Shows inevitability.', 
+                videoUrl: 'https://www.youtube.com/watch?v=8CammJ-KCzw', 
+                videoTitle: '[ Intermediate Korean 43 ] –는 수밖에 (없다) , –는 중이다 , –느니', 
+                channel: 'Tammy Korean',
+                resourceType: 'video',
+                resourceNote: 'Inevitability in context'
+            },
+            { 
+                chapter: 15, 
+                title: '추측·가능성', 
+                subtitle: 'Guess & probability', 
+                pattern: '-(으)ㄹ 수가 없다', 
+                example: '믿을 수가 없어요.', 
+                tip: 'Expresses inability or impossibility. Means "cannot" in the sense of being unable to.', 
+                videoUrl: 'https://www.youtube.com/watch?v=iiYtnzNl-mY', 
+                videoTitle: '지 못하다 vs (으)ㄹ 수 없다', 
+                channel: 'Korean Grammar Channel',
+                resourceType: 'video',
+                resourceNote: 'Inability expressions'
+            },
+
+            // Chapter 16: Exclusion
+            { 
+                chapter: 16, 
+                title: '제외', 
+                subtitle: 'Exclusion', 
+                pattern: '-없이는', 
+                example: '당신의 도움 없이는 불가능해요.', 
+                tip: 'Means "without" with emphasis on necessity. Shows that something is essential.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-74/', 
+                resourceTitle: 'Lesson 74: It doesn\'t matter/ Regardless of (상관없다/상관없이)', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Exclusion in various contexts'
+            },
+            { 
+                chapter: 16, 
+                title: '제외', 
+                subtitle: 'Exclusion', 
+                pattern: '-말고는', 
+                example: '너 말고는 아무도 몰라요.', 
+                tip: 'Means "apart from" or "except for." Shows exclusion with emphasis.', 
+                videoUrl: 'https://www.youtube.com/watch?v=H0DP5OAvkPY', 
+                videoTitle: 'HOW TO USE 말고 IN KOREAN SENTENCE', 
+                channel: 'Korean Grammar Channel',
+                resourceType: 'video',
+                resourceNote: 'Practical exclusion examples'
+            },
+            { 
+                chapter: 16, 
+                title: '제외', 
+                subtitle: 'Exclusion', 
+                pattern: '-외에는', 
+                example: '이것 외에는 다른 방법이 없어요.', 
+                tip: 'Formal way to say "except for" or "other than." Used in formal contexts.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-71/', 
+                resourceTitle: 'Lesson 71: To include (포함하다), to exclude (제외하다)', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Formal exclusion guide'
+            },
+
+            // Chapter 17: Comparison
+            { 
+                chapter: 17, 
+                title: '비교', 
+                subtitle: 'Comparison', 
+                pattern: '-만 못하다', 
+                example: '이 영화는 전작만 못해요.', 
+                tip: 'Means "not as good as" or "inferior to." Shows comparison with negative result.', 
+                videoUrl: 'https://www.youtube.com/watch?v=pgdbJrozqp4', 
+                videoTitle: 'Korean Grammar Intermediate (172) N만 못하다. N만 못해요. Not as good as', 
+                channel: 'Teacher Jinee\'s Korean Class',
+                resourceType: 'video',
+                resourceNote: 'Negative comparison examples'
+            },
+            { 
+                chapter: 17, 
+                title: '비교', 
+                subtitle: 'Comparison', 
+                pattern: '-만하다', 
+                example: '이 일은 할 만해요.', 
+                tip: 'Means "worth doing" or "as much as." Shows comparison or evaluation.', 
+                videoUrl: 'https://www.youtube.com/watch?v=JYcXa6oW3_g', 
+                videoTitle: 'Learn Korean Ep. 78: "Worth Doing" | 만하다', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Worthwhile actions explained'
+            },
+            { 
+                chapter: 17, 
+                title: '비교', 
+                subtitle: 'Comparison', 
+                pattern: '-에 비해서', 
+                example: '작년에 비해서 많이 좋아졌어요.', 
+                tip: 'Means "compared to" or "in comparison with." Shows direct comparison.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-70/', 
+                resourceTitle: 'Lesson 70: To compare: 비교하다, 비하다', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Comprehensive comparison guide'
+            },
+
+            // Chapter 18: Time expressions
+            { 
+                chapter: 18, 
+                title: '시간 표현', 
+                subtitle: 'Time expressions', 
+                pattern: '-다가', 
+                example: '공부하다가 잠들었어요.', 
+                tip: 'Shows interruption or change during an action. Means "while doing" with interruption.', 
+                videoUrl: 'https://www.youtube.com/watch?v=VXUCeUwVC2Q', 
+                videoTitle: 'Live Korean Class | While (면서, 동안, 다가)', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Interruption expressions compared'
+            },
+            { 
+                chapter: 18, 
+                title: '시간 표현', 
+                subtitle: 'Time expressions', 
+                pattern: '-다가는', 
+                example: '이렇게 하다가는 실패할 거예요.', 
+                tip: 'Shows that continuing current action will lead to negative result.', 
+                videoUrl: 'https://www.youtube.com/watch?v=NNlhAN1awWY', 
+                videoTitle: '다가는 Continuing Actions | Live Class Abridged', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Negative consequence expressions'
+            },
+            { 
+                chapter: 18, 
+                title: '시간 표현', 
+                subtitle: 'Time expressions', 
+                pattern: '-다 보니까', 
+                example: '계속 공부하다 보니까 실력이 늘었어요.', 
+                tip: 'Shows realization or result after doing something for a while.', 
+                videoUrl: 'https://www.youtube.com/watch?v=EbFdl4hJoWg', 
+                videoTitle: 'Live Korean Class | [Advanced] ~다 보니까 "Realizing"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Realization through repetition'
+            },
+            { 
+                chapter: 18, 
+                title: '시간 표현', 
+                subtitle: 'Time expressions', 
+                pattern: '-더니', 
+                example: '아프더니 결국 병원에 갔어요.', 
+                tip: 'Shows observation followed by result. Means "and then" with observation.', 
+                videoUrl: 'https://www.youtube.com/watch?v=T68WpJPbO6c', 
+                videoTitle: 'Learn Korean Ep. 72: 더니', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Observation-result connection'
+            },
+            { 
+                chapter: 18, 
+                title: '시간 표현', 
+                subtitle: 'Time expressions', 
+                pattern: '-는 대로', 
+                example: '도착하는 대로 연락하세요.', 
+                tip: 'Means "as soon as" or "immediately when." Shows immediate sequence.', 
+                videoUrl: 'https://www.youtube.com/watch?v=rVaJDs_aaGQ', 
+                videoTitle: 'Live Korean Class | [Intermediate] "As soon as" 대로', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Immediate sequence expressions'
+            },
+            { 
+                chapter: 18, 
+                title: '시간 표현', 
+                subtitle: 'Time expressions', 
+                pattern: '-는 만큼', 
+                example: '노력하는 만큼 결과가 나올 거예요.', 
+                tip: 'Means "as much as" or "to the extent that." Shows proportional relationship.', 
+                videoUrl: 'https://www.youtube.com/watch?v=ssblWhKO4gM', 
+                videoTitle: 'Live Korean Class [Intermediate] ~만큼 "As Much As" & "Because"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Proportional relationships explained'
+            },
+
+            // Chapter 19: Cause expressions
+            { 
+                chapter: 19, 
+                title: '원인 표현', 
+                subtitle: 'Cause expressions', 
+                pattern: '-는 바람에', 
+                example: '비가 오는 바람에 소풍이 취소됐어요.', 
+                tip: 'Shows unexpected negative result due to external cause. Often uncontrollable situations.', 
+                videoUrl: 'https://www.youtube.com/watch?v=XTZSG4BqC1s', 
+                videoTitle: 'Live Korean Class | [Intermediate] ~는 바람에 "Because of"', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Unexpected causes explained'
+            },
+            { 
+                chapter: 19, 
+                title: '원인 표현', 
+                subtitle: 'Cause expressions', 
+                pattern: '-는 탓에', 
+                example: '교통체증 탓에 늦었어요.', 
+                tip: 'Shows cause with slight blame or responsibility. More formal than 바람에.', 
+                videoUrl: 'https://www.youtube.com/watch?v=ZOShgYxqm5U', 
+                videoTitle: 'Live Korean Class | "Because of" 탓에', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Blaming causes expressions'
+            },
+            { 
+                chapter: 19, 
+                title: '원인 표현', 
+                subtitle: 'Cause expressions', 
+                pattern: '-는 까닭에', 
+                example: '그런 까닭에 결정을 바꿨어요.', 
+                tip: 'Formal way to express reason or cause. Often used in written Korean.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-147/', 
+                resourceTitle: 'Lesson 147: ~는 바람에 – A negative result occurred because of an action', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Formal cause expressions'
+            },
+
+            // Chapter 20: Degree expressions
+            { 
+                chapter: 20, 
+                title: '정도 표현', 
+                subtitle: 'Degree expressions', 
+                pattern: '-는 정도', 
+                example: '울 정도로 감동했어요.', 
+                tip: 'Shows degree or extent. Means "to the extent that" or "so much that."', 
+                resourceUrl: 'https://www.koreantopik.com/2017/05/l2g42-av-grammar-to-extent-thatexpress.html', 
+                resourceTitle: '(으)ㄹ 정도로 and -(으)ㄹ 정도이다 grammar = to the extent that', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Degree expressions with quizzes'
+            },
+            { 
+                chapter: 20, 
+                title: '정도 표현', 
+                subtitle: 'Degree expressions', 
+                pattern: '-아/어서', 
+                example: '너무 추워서 나갈 수 없어요.', 
+                tip: 'Shows cause and effect. Basic way to express "so... that" or "because."', 
+                videoUrl: 'https://www.youtube.com/watch?v=O1jhWMfJFdE', 
+                videoTitle: 'How to Say "Because" Using Arthur/Eoseo - Korean Grammar', 
+                channel: 'Learn Korean with KoreanClass101.com',
+                resourceType: 'video',
+                resourceNote: 'Basic cause-effect relationships'
+            },
+            { 
+                chapter: 20, 
+                title: '정도 표현', 
+                subtitle: 'Degree expressions', 
+                pattern: '-(으)ㄹ 정도로', 
+                example: '죽을 정도로 아팠어요.', 
+                tip: 'Emphasizes extreme degree. Stronger than just -는 정도.', 
+                resourceUrl: 'https://www.koreantopik.com/2017/05/l2g42-av-grammar-to-extent-thatexpress.html', 
+                resourceTitle: '(으)ㄹ 정도로 and -(으)ㄹ 정도이다 grammar = to the extent that', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Extreme degree expressions'
+            },
+
+            // Chapter 21: Situation expressions
+            { 
+                chapter: 21, 
+                title: '상황 표현', 
+                subtitle: 'Situation expressions', 
+                pattern: '-는 중', 
+                example: '지금 공부하는 중이에요.', 
+                tip: 'Shows ongoing action. Means "in the middle of" or "currently doing."', 
+                videoUrl: 'https://www.youtube.com/watch?v=QBZFSeXZf_E', 
+                videoTitle: 'In the middle (中) 중 & 중이다 (한자) | Korean FAQ', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Ongoing actions explained'
+            },
+            { 
+                chapter: 21, 
+                title: '상황 표현', 
+                subtitle: 'Situation expressions', 
+                pattern: '-는 가운데', 
+                example: '많은 사람들이 지켜보는 가운데 연설했어요.', 
+                tip: 'Formal expression meaning "while" or "among." Often used in formal contexts.', 
+                videoUrl: 'https://www.youtube.com/watch?v=orR7t8Orgm0', 
+                videoTitle: 'Live Korean Class [Advanced] "While" 가운데', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'Formal ongoing situations'
+            },
+            { 
+                chapter: 21, 
+                title: '상황 표현', 
+                subtitle: 'Situation expressions', 
+                pattern: '-는 동안', 
+                example: '방학 동안 여행을 갔어요.', 
+                tip: 'Means "while" or "during." Shows time period when something happens.', 
+                videoUrl: 'https://www.youtube.com/watch?v=IvRfhNO2vCk', 
+                videoTitle: 'Korean Grammar - 는 동안에 during / while', 
+                channel: 'Korean Grammar Channel',
+                resourceType: 'video',
+                resourceNote: 'Duration expressions'
+            },
+            { 
+                chapter: 21, 
+                title: '상황 표현', 
+                subtitle: 'Situation expressions', 
+                pattern: '-는 도중에', 
+                example: '회의하는 도중에 전화가 왔어요.', 
+                tip: 'Means "in the middle of" with emphasis on interruption or specific moment.', 
+                videoUrl: 'https://www.youtube.com/watch?v=J-m5LHbHdAI', 
+                videoTitle: '[ Intermediate Korean 40 ] –는 도중에 , –는 길에 , –는 대로', 
+                channel: 'Tammy Korean',
+                resourceType: 'video',
+                resourceNote: 'Interruption expressions compared'
+            },
+
+            // Chapter 22: Other advanced expressions
+            { 
+                chapter: 22, 
+                title: '기타 고급 표현', 
+                subtitle: 'Other advanced expressions', 
+                pattern: '-는 길에', 
+                example: '집에 가는 길에 마트에 들렀어요.', 
+                tip: 'Means "on the way" to somewhere. Shows doing something while going somewhere.', 
+                videoUrl: 'https://www.youtube.com/watch?v=Zrh-chSOD0M', 
+                videoTitle: '길에 "On the Way" | Live Class Abridged', 
+                channel: 'Learn Korean with GO! Billy Korean',
+                resourceType: 'video',
+                resourceNote: 'On-the-way actions explained'
+            },
+            { 
+                chapter: 22, 
+                title: '기타 고급 표현', 
+                subtitle: 'Other advanced expressions', 
+                pattern: '-는 참에', 
+                example: '청소하는 참에 정리도 했어요.', 
+                tip: 'Means "while at it" or "taking the opportunity." Similar to 김에 but more formal.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-156/', 
+                resourceTitle: 'Lesson 156: ~(으)려는 참 and ~(으)려던 참 – One was just about to', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Opportunistic actions guide'
+            },
+            { 
+                chapter: 22, 
+                title: '기타 고급 표현', 
+                subtitle: 'Other advanced expressions', 
+                pattern: '-고서', 
+                example: '숙제를 하고서 놀았어요.', 
+                tip: 'Shows sequence - "after doing" something. Emphasizes completion before next action.', 
+                resourceUrl: 'https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/', 
+                resourceTitle: 'Lesson 72: ~고서야, ~고 나서야', 
+                resourceType: 'Interactive Article',
+                resourceNote: 'Sequence expressions with exercises'
+            }
+        ];
+        */
+
+        // Try to load base grammar content from external JSON to separate content from presentation
+        async function loadBaseGrammar() {
+            const candidates = ['content/grammar.json', 'grammar.json'];
+            for (const path of candidates) {
+                try {
+                    const res = await fetch(path);
+                    if (!res.ok) continue;
+                    const data = await res.json();
+                    if (Array.isArray(data)) {
+                        grammarData = data;
+                        return;
+                    }
+                    if (data && Array.isArray(data.items)) {
+                        grammarData = data.items;
+                        return;
+                    }
+                } catch (_) {
+                    // Likely file:// or missing file; ignore and keep fallback
+                }
+            }
+        }
+
+        // Runtime enrichment disabled (build-time only)
+        async function enrichFromChapterDetails() { return; }
+
+        // Normalize all items to a consistent schema
+        // - Ensure example (KO) and exampleEn (EN) fields exist
+        // - Convert legacy video/resource fields into a unified resources[] array
+        function normalizeItemSchema(item) {
+            const resources = [];
+            // Legacy: multiple videos array
+            if (Array.isArray(item.videos)) {
+                for (const v of item.videos) {
+                    if (v?.url) {
+                        resources.push({ type: 'video', url: v.url, title: v.title || '', channel: v.channel || '' });
+                    }
+                }
+            }
+            // Legacy: single video
+            if (item.videoUrl) {
+                resources.push({ type: 'video', url: item.videoUrl, title: item.videoTitle || '', channel: item.channel || '' });
+            }
+            // Legacy: single article/interactive resource
+            if (item.resourceUrl) {
+                const t = (item.resourceType || '').toLowerCase();
+                const type = t.includes('video') ? 'video' : (t.includes('interactive') ? 'interactive' : 'article');
+                resources.push({ type, url: item.resourceUrl, title: item.resourceTitle || '', channel: '' });
+            }
+            // Keep only valid video links (direct YouTube watch/short links) and all non-video links
+            function isValidVideoUrl(url) {
+                try {
+                    const u = new URL(url);
+                    if (u.hostname.includes('youtu.be')) return true;
+                    if (u.hostname.includes('youtube.com') && u.searchParams.get('v')) return true;
+                    return false;
+                } catch (_) { return false; }
+            }
+
+            item.resources = resources.filter(r => r.type !== 'video' || isValidVideoUrl(r.url || ''));
+            // Ensure fields
+            item.example = item.example || '';
+            item.exampleEn = item.exampleEn || '';
+            item.description = item.description || '';
+            item.tip = item.tip || '';
+            // Fallback resources if none present
+            if (!item.resources || item.resources.length === 0) {
+                const qSite = encodeURIComponent((item.pattern || '').trim());
+                item.resources = [
+                    { type: 'article', url: `https://www.howtostudykorean.com/?s=${qSite}` , title: `HowToStudyKorean: ${item.pattern} 검색`, channel: '' }
+                ];
+            }
+            return item;
+        }
+
+        function normalizeAll() {
+            for (let i = 0; i < grammarData.length; i++) {
+                grammarData[i] = normalizeItemSchema(grammarData[i]);
+            }
+        }
+
+        // Simple video functionality (supports multiple videos per card)
+        function getYoutubeEmbedUrl(url) {
+            try {
+                const u = new URL(url);
+                if (u.hostname.includes('youtu.be')) {
+                    return 'https://www.youtube.com/embed/' + u.pathname.replace('/', '');
+                }
+                const v = u.searchParams.get('v');
+                if (v) return `https://www.youtube.com/embed/${v}`;
+                return url;
+            } catch (e) {
+                return url;
+            }
+        }
+
+        function isEmbeddableYoutube(url) {
+            try {
+                const u = new URL(url);
+                if (u.hostname.includes('youtu.be')) return true;
+                if (u.hostname.includes('youtube.com') && u.searchParams.get('v')) return true;
+                return false;
+            } catch (e) {
+                return false;
+            }
+        }
+
+        // Allow multiple videos to be open simultaneously
+        function showVideo(index, subIndex) {
+            const containerId = subIndex === undefined ? `video-${index}` : `video-${index}-${subIndex}`;
+            const videoContainer = document.getElementById(containerId);
+            if (!videoContainer) return;
+            videoContainer.classList.add('show');
+            const iframe = videoContainer.querySelector('iframe');
+            if (!iframe) return;
+
+            const item = grammarData[index];
+            let url = '';
+            if (Array.isArray(item.resources) && subIndex !== undefined) {
+                url = item.resources[subIndex]?.url || '';
+            } else if (item?.videoUrl) {
+                url = item.videoUrl;
+            }
+            if (url) {
+                iframe.src = getYoutubeEmbedUrl(url);
+            }
+        }
+
+        // Initialize the page
+        document.addEventListener('DOMContentLoaded', () => {
+            const chapterNav = document.getElementById('chapter-nav');
+            const cardsContainer = document.getElementById('grammar-cards-container');
+            const chapterTitleEl = document.getElementById('chapter-title');
+            const chapterSubtitleEl = document.getElementById('chapter-subtitle');
+            const searchInput = document.getElementById('search-input');
+
+            let currentChapter = 1;
+            
+            const computeChapters = () =>
+                [...new Map(grammarData.map(item => [item.chapter, item])).values()]
+                    .sort((a, b) => (a.chapter || 0) - (b.chapter || 0));
+
+            const createCard = (item, index) => {
+                const globalIndex = grammarData.indexOf(item);
+                const hasResources = Array.isArray(item.resources) && item.resources.length > 0;
+                
+                let resourceSection = '';
+                if (hasResources) {
+                    const blocks = item.resources.map((r, ridx) => {
+                        const canEmbed = r.type === 'video' && isEmbeddableYoutube(r.url || '');
+                        if (canEmbed) {
+                            return `
+                                <div class="mt-6 pt-4 border-t border-gray-200">
+                                    <div class="flex justify-between items-center">
+                                        <div class="flex-1">
+                                            <h4 class="font-semibold text-gray-700 mb-1">📹 Video Lesson ${ridx + 1}</h4>
+                                            <p class="text-sm text-gray-600">${r.channel || ''}</p>
+                                        </div>
+                                        <button onclick="showVideo(${globalIndex}, ${ridx})" class="video-button">▶ Show Video</button>
+                                    </div>
+                                    <div id="video-${globalIndex}-${ridx}" class="video-container">
+                                        <div class="aspect-w-16 aspect-h-9">
+                                            <iframe width="100%" height="400" src="" frameborder="0" allowfullscreen class="rounded-lg"></iframe>
+                                        </div>
+                                        <div class="mt-3 text-sm text-gray-600">
+                                            <strong>Video:</strong> ${r.title || ''}<br>
+                                            <strong>Channel:</strong> ${r.channel || ''}
+                                        </div>
+                                    </div>
+                                </div>
+                            `;
+                        }
+                        const label = r.type === 'interactive' ? 'Interactive' : (r.type === 'video' ? 'Video' : 'Article');
+                        return `
+                            <div class="mt-6 pt-4 border-t border-gray-200">
+                                <a href="${r.url}" target="_blank" class="inline-block px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition mb-2">
+                                    📚 ${label}
+                                </a>
+                                <div class="text-sm text-gray-600">
+                                    <strong>Resource:</strong> ${r.title || ''}
+                                </div>
+                            </div>
+                        `;
+                    }).join('');
+                    resourceSection = blocks;
+                }
+
+                // Determine resource type badge from first resource (new schema)
+                let resourceBadge = '';
+                const primaryType = (Array.isArray(item.resources) && item.resources[0]?.type) ? item.resources[0].type : '';
+                if (primaryType) {
+                    const badgeClass = primaryType === 'video' ? 'video-res' : (primaryType === 'interactive' ? 'interactive-res' : 'article-res');
+                    const label = primaryType.charAt(0).toUpperCase() + primaryType.slice(1);
+                    resourceBadge = `<span class="resource-type ${badgeClass}">${label}</span>`;
+                }
+
+                return `
+                    <div class="grammar-card p-6 md:p-8">
+                        <div class="flex justify-between items-start">
+                            <h3 class="pattern-title text-2xl md:text-3xl mb-4">${item.pattern}</h3>
+                            <span class="chapter-badge">Ch. ${item.chapter}</span>
+                        </div>
+                        <p class="text-lg text-gray-600 mb-4">Korean Grammar Pattern</p>
+                        
+                        <div class="example-box">
+                            <h4 class="font-semibold text-amber-800 mb-2">📝 Example</h4>
+                            <div class="korean-text text-lg mb-2">${item.example}</div>
+                            <div class="english-text">${item.exampleEn || item.example_en || 'Korean example with context and usage'}</div>
+                        </div>
+
+                        ${item.description ? `
+                        <div class="tip-box">
+                            <h4 class="font-semibold text-blue-800 mb-2">📖 Overview</h4>
+                            <p class="text-gray-700">${item.description}</p>
+                        </div>
+                        ` : ''}
+
+                        <div class="tip-box">
+                            <h4 class="font-semibold text-blue-800 mb-2">💡 Usage Tip</h4>
+                            <p class="text-gray-700">${item.tip}</p>
+                        </div>
+
+                        ${item.resourceNote ? `
+                        <div class="resource-report">
+                            <div class="flex items-center mb-2">
+                                ${resourceBadge}
+                                <span class="font-medium">Resource Details:</span>
+                            </div>
+                            <p class="text-gray-700">${item.resourceNote}</p>
+                        </div>
+                        ` : ''}
+
+                        ${resourceSection}
+                    </div>
+                `;
+            };
+
+            const renderCards = (data) => {
+                cardsContainer.innerHTML = data.length > 0 ? data.map((item, index) => createCard(item, index)).join('') : 
+                    '<div class="text-center py-12"><p class="text-xl text-gray-500">결과가 없습니다.</p></div>';
+            };
+
+            const renderNav = () => {
+                const chapters = computeChapters();
+                chapterNav.innerHTML = chapters.map(c => `
+                    <a href="#" class="nav-link block px-4 py-3 text-sm text-gray-700 hover:bg-gray-100 rounded-lg transition" data-chapter="${c.chapter}">
+                        <span class="font-semibold text-blue-600">${c.chapter}.</span> ${c.title}
+                        <div class="text-xs text-gray-500 mt-1">${c.subtitle}</div>
+                    </a>
+                `).join('');
+            };
+
+            const showChapter = (chapterNum) => {
+                const chapterData = grammarData.filter(item => item.chapter === chapterNum);
+                if (chapterData.length > 0) {
+                    chapterTitleEl.textContent = `${chapterNum}. ${chapterData[0].title}`;
+                    chapterSubtitleEl.textContent = chapterData[0].subtitle;
+                    renderCards(chapterData);
+                    
+                    // Update active nav link
+                    document.querySelectorAll('.nav-link').forEach(link => {
+                        link.classList.remove('active');
+                    });
+                    document.querySelector(`[data-chapter="${chapterNum}"]`).classList.add('active');
+                    
+                    currentChapter = chapterNum;
+                }
+            };
+
+            // Event listeners
+            chapterNav.addEventListener('click', (e) => {
+                e.preventDefault();
+                const link = e.target.closest('.nav-link');
+                if (link) {
+                    const chapterNum = parseInt(link.dataset.chapter);
+                    showChapter(chapterNum);
+                }
+            });
+
+            searchInput.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase();
+                if (query.trim() === '') {
+                    showChapter(currentChapter);
+                } else {
+                    const filtered = grammarData.filter(item => 
+                        item.pattern.toLowerCase().includes(query) ||
+                        item.example.toLowerCase().includes(query) ||
+                        item.tip.toLowerCase().includes(query)
+                    );
+                    chapterTitleEl.textContent = '검색 결과';
+                    chapterSubtitleEl.textContent = `"${query}"에 대한 검색 결과`;
+                    renderCards(filtered);
+                }
+            });
+
+            // Initialize (load content, enrich, then render)
+            (async () => {
+                await loadBaseGrammar();
+                normalizeAll();
+                renderNav();
+                showChapter(1);
+            })();
+        });
+    </script>
+</body>
+</html>
