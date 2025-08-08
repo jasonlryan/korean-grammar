@@ -2,6 +2,7 @@
   "name": "korean_grammar",
   "private": true,
   "type": "module",
+  "engines": { "node": ">=18" },
   "scripts": {
     "extract": "node ./scripts/extract-grammar.mjs",
     "merge": "node ./scripts/merge-content.mjs",
