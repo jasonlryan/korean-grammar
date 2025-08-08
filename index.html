@@ -83,18 +83,19 @@
             }
         }
         .video-button {
-            background: linear-gradient(135deg, #dc2626, #b91c1c);
-            color: white;
-            padding: 8px 16px;
-            border-radius: 25px;
-            font-weight: 600;
-            transition: all 0.3s;
-            border: none;
+            background: #f3f4f6;
+            color: #374151;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-weight: 500;
+            font-size: 14px;
+            transition: all 0.2s;
+            border: 1px solid #d1d5db;
             cursor: pointer;
         }
         .video-button:hover {
-            background: linear-gradient(135deg, #b91c1c, #991b1b);
-            transform: translateY(-1px);
+            background: #e5e7eb;
+            border-color: #9ca3af;
         }
         .resource-report {
             background: linear-gradient(135deg, #f0fdf4, #dcfce7);
@@ -1303,30 +1304,48 @@
                 let resourceSection = '';
                 if (hasResources) {
                     const blocks = item.resources.map((r, ridx) => {
-                        const canEmbed = r.type === 'video' && isEmbeddableYoutube(r.url || '');
-                        if (canEmbed) {
-                            return `
-                                <div class="mt-6 pt-4 border-t border-gray-200">
-                                    <div class="flex justify-between items-center">
-                                        <div class="flex-1">
-                                            <h4 class="font-semibold text-gray-700 mb-1">📹 Video Lesson ${ridx + 1}</h4>
-                                            <p class="text-sm text-gray-600">${r.channel || ''}</p>
+                        if (r.type === 'video') {
+                            const canEmbed = isEmbeddableYoutube(r.url || '');
+                            if (canEmbed) {
+                                return `
+                                    <div class="mt-6 pt-4 border-t border-gray-200">
+                                        <div class="flex justify-between items-center">
+                                            <div class="flex-1">
+                                                <h4 class="font-semibold text-gray-700 mb-1">📹 Video Lesson ${ridx + 1}</h4>
+                                                <p class="text-sm text-gray-600">${r.channel || ''}</p>
+                                            </div>
+                                            <button onclick="showVideo(${globalIndex}, ${ridx})" class="video-button">▶ Video</button>
                                         </div>
-                                        <button onclick="showVideo(${globalIndex}, ${ridx})" class="video-button">▶ Show Video</button>
+                                        <div id="video-${globalIndex}-${ridx}" class="video-container">
+                                            <div class="aspect-w-16 aspect-h-9">
+                                                <iframe width="100%" height="400" src="" frameborder="0" allowfullscreen class="rounded-lg"></iframe>
+                                            </div>
+                                            <div class="mt-3 text-sm text-gray-600">
+                                                <strong>Video:</strong> ${r.title || ''}<br>
+                                                <strong>Channel:</strong> ${r.channel || ''}
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div id="video-${globalIndex}-${ridx}" class="video-container">
-                                        <div class="aspect-w-16 aspect-h-9">
-                                            <iframe width="100%" height="400" src="" frameborder="0" allowfullscreen class="rounded-lg"></iframe>
+                                `;
+                            } else {
+                                return `
+                                    <div class="mt-6 pt-4 border-t border-gray-200">
+                                        <div class="flex justify-between items-center">
+                                            <div class="flex-1">
+                                                <h4 class="font-semibold text-gray-700 mb-1">📹 Video Lesson ${ridx + 1}</h4>
+                                                <p class="text-sm text-gray-600">${r.channel || ''}</p>
+                                            </div>
+                                            <a href="${r.url}" target="_blank" class="video-button">▶ Video</a>
                                         </div>
-                                        <div class="mt-3 text-sm text-gray-600">
+                                        <div class="text-sm text-gray-600">
                                             <strong>Video:</strong> ${r.title || ''}<br>
                                             <strong>Channel:</strong> ${r.channel || ''}
                                         </div>
                                     </div>
-                                </div>
-                            `;
+                                `;
+                            }
                         }
-                        const label = r.type === 'interactive' ? 'Interactive' : (r.type === 'video' ? 'Video' : 'Article');
+                        const label = r.type === 'interactive' ? 'Interactive' : 'Article';
                         return `
                             <div class="mt-6 pt-4 border-t border-gray-200">
                                 <a href="${r.url}" target="_blank" class="inline-block px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition mb-2">
