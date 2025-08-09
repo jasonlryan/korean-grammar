@@ -19,12 +19,15 @@
     "ingest-incoming-resources": "node ./scripts/ingest-incoming-resources.mjs",
     "generate-examples": "node ./scripts/generate-examples.mjs",
     "dev:api": "node ./scripts/dev-api.mjs",
+    "kill:ports": "bash -c 'for p in 800 8787 3000; do lsof -ti tcp:$p | xargs -n1 kill -9 2>/dev/null || true; done'",
+    "dev": "npm run kill:ports && concurrently -k -n web,api -c blue,magenta \"npm run serve -- -l 800\" \"npm run dev:api\"",
     "clean-reports": "rm -f ./content/report-*.json && echo 'Reports cleaned.'"
   },
   "dependencies": {
     "dotenv": "^17.2.1",
     "openai": "^5.12.2",
     "express": "^4.19.2",
-    "body-parser": "^1.20.2"
+    "body-parser": "^1.20.2",
+    "concurrently": "^8.2.2"
   }
 }

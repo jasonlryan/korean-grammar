@@ -1,6 +1,7 @@
 import OpenAI from "openai";
-
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+import dotenv from "dotenv";
+// Ensure env is loaded in local dev; on Vercel env is provided automatically
+dotenv.config();
 
 export default async function handler(req, res) {
   // CORS (allow local dev)
@@ -14,8 +15,14 @@ export default async function handler(req, res) {
   }
 
   try {
-    const { pattern, description = "", tip = "", existingExample = "" } =
-      req.body || {};
+    // Create client at request time so env is guaranteed to be loaded
+    const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+    const {
+      pattern,
+      description = "",
+      tip = "",
+      existingExample = "",
+    } = req.body || {};
 
     if (!pattern) {
       return res.status(400).json({ error: "Missing 'pattern' in body" });
@@ -65,7 +72,9 @@ Return ONLY a JSON array in this exact format:
     try {
       data = JSON.parse(content);
     } catch (e) {
-      return res.status(502).json({ error: "Invalid JSON from model", raw: content });
+      return res
+        .status(502)
+        .json({ error: "Invalid JSON from model", raw: content });
     }
     if (!Array.isArray(data) || data.length !== 5) {
       return res.status(502).json({ error: "Unexpected format", raw: data });
@@ -76,5 +85,3 @@ Return ONLY a JSON array in this exact format:
     return res.status(500).json({ error: "Server error" });
   }
 }
-
-
