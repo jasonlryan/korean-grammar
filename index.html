@@ -1185,6 +1185,16 @@
         // - Ensure example (KO) and exampleEn (EN) fields exist
         // - Convert legacy video/resource fields into a unified resources[] array
         function normalizeItemSchema(item) {
+            // If item already has resources in new format, preserve them
+            if (Array.isArray(item.resources) && item.resources.length > 0) {
+                // Just ensure required fields and return
+                item.example = item.example || '';
+                item.exampleEn = item.exampleEn || '';
+                item.description = item.description || '';
+                item.tip = item.tip || '';
+                return item;
+            }
+            
             const resources = [];
             // Legacy: multiple videos array
             if (Array.isArray(item.videos)) {
@@ -1300,6 +1310,8 @@
             const createCard = (item, index) => {
                 const globalIndex = grammarData.indexOf(item);
                 const hasResources = Array.isArray(item.resources) && item.resources.length > 0;
+                
+
                 
                 let resourceSection = '';
                 if (hasResources) {
