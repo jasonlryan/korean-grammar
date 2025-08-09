@@ -1312,6 +1312,16 @@
             if (iframe) iframe.src = '';
         }
 
+        function getApiEndpoint() {
+            try {
+                const host = location.hostname;
+                const isLocal = host === 'localhost' || host === '127.0.0.1';
+                return isLocal ? 'http://localhost:8787/api/generate-examples' : '/api/generate-examples';
+            } catch (_) {
+                return '/api/generate-examples';
+            }
+        }
+
         async function generateMoreExamples(globalIndex) {
             const item = grammarData[globalIndex];
             const container = document.getElementById(`examples-${globalIndex}`);
@@ -1319,7 +1329,7 @@
             container.innerHTML = '<div class="text-sm text-gray-500">Generating examples...</div>';
 
             try {
-                const res = await fetch('http://localhost:8787/api/generate-examples', {
+                const res = await fetch(getApiEndpoint(), {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({
